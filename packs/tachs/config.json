@@ -1,0 +1,105 @@
+{
+  "examId": "tachs",
+  "brandName": "TACHS Exam Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/tachs/assets/logo.svg?v=1",
+  "accessPassword": "TACHSPREP",
+  "practiceChunkSize": 10,
+  "portalDescription": "Prepare for the TACHS with section-based practice, timed exam sessions, answer review, explanations, and printable full-length exams.",
+  "nav": [
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "examFamilies": [
+    {
+      "id": "tachs",
+      "label": "TACHS",
+      "description": "Test for Admission into Catholic High Schools practice covering four principal areas."
+    }
+  ],
+  "sections": [
+    {
+      "id": "tachs_reading",
+      "family": "tachs",
+      "label": "TACHS Reading",
+      "timeMin": 40,
+      "timeLabel": "Recommended platform time: 40 minutes",
+      "examQuestions": 50,
+      "type": "mcq",
+      "examFiles": [
+        "tachs_reading_exam_01.json",
+        "tachs_reading_exam_02.json",
+        "tachs_reading_exam_03.json",
+        "tachs_reading_exam_04.json"
+      ]
+    },
+    {
+      "id": "tachs_written_expression",
+      "family": "tachs",
+      "label": "TACHS Written Expression",
+      "timeMin": 40,
+      "timeLabel": "Recommended platform time: 40 minutes",
+      "examQuestions": 50,
+      "type": "mcq",
+      "examFiles": [
+        "tachs_written_expression_exam_01.json",
+        "tachs_written_expression_exam_02.json",
+        "tachs_written_expression_exam_03.json",
+        "tachs_written_expression_exam_04.json"
+      ]
+    },
+    {
+      "id": "tachs_mathematics",
+      "family": "tachs",
+      "label": "TACHS Mathematics",
+      "timeMin": 45,
+      "timeLabel": "Recommended platform time: 45 minutes",
+      "examQuestions": 50,
+      "type": "mcq",
+      "examFiles": [
+        "tachs_mathematics_exam_01.json",
+        "tachs_mathematics_exam_02.json",
+        "tachs_mathematics_exam_03.json",
+        "tachs_mathematics_exam_04.json"
+      ]
+    },
+    {
+      "id": "tachs_ability",
+      "family": "tachs",
+      "label": "TACHS Ability",
+      "timeMin": 35,
+      "timeLabel": "Recommended platform time: 35 minutes",
+      "examQuestions": 50,
+      "type": "mcq",
+      "examFiles": [
+        "tachs_ability_exam_01.json",
+        "tachs_ability_exam_02.json",
+        "tachs_ability_exam_03.json",
+        "tachs_ability_exam_04.json"
+      ]
+    }
+  ],
+  "printables": [
+    {
+      "family": "tachs",
+      "label": "TACHS Full-Length Practice Exam 01",
+      "file": "tachs_full_exam_01.pdf"
+    },
+    {
+      "family": "tachs",
+      "label": "TACHS Full-Length Practice Exam 02",
+      "file": "tachs_full_exam_02.pdf"
+    },
+    {
+      "family": "tachs",
+      "label": "TACHS Full-Length Practice Exam 03",
+      "file": "tachs_full_exam_03.pdf"
+    },
+    {
+      "family": "tachs",
+      "label": "TACHS Full-Length Practice Exam 04",
+      "file": "tachs_full_exam_04.pdf"
+    }
+  ],
+  "flashcards": []
+}
