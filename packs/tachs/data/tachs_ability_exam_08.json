@@ -1,0 +1,859 @@
+{
+  "title": "TACHS Ability Practice Test 08",
+  "examFamily": "tachs",
+  "examNumber": 8,
+  "section": "Ability",
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "TACHS-A8-001",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the matrix. Across each row, the two symbols move one position clockwise around four corners.\nRow 1 left: ○ top-left; □ bottom-right\nRow 1 right: ○ top-right; □ bottom-left\nRow 2 left: △ top-right; ◇ bottom-left\nRow 2 right: ?",
+      "choices": {
+        "A": "△ top-right; ◇ bottom-left",
+        "B": "△ top-left; ◇ bottom-right",
+        "C": "△ bottom-left; ◇ top-right",
+        "D": "△ bottom-right; ◇ top-left"
+      },
+      "correct": "D",
+      "correctAnswer": "△ bottom-right; ◇ top-left",
+      "explanation": "One clockwise corner move sends △ to bottom-right and ◇ to top-left."
+    },
+    {
+      "id": "TACHS-A8-002",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the matrix. Down each column, the lower cell adds an outer square around the symbol.\nTop-left: ○\nBottom-left: ○ inside □\nTop-right: △\nBottom-right: ?",
+      "choices": {
+        "A": "□ inside △",
+        "B": "△ beside □",
+        "C": "▲ inside □",
+        "D": "△ inside □"
+      },
+      "correct": "D",
+      "correctAnswer": "△ inside □",
+      "explanation": "The open triangle remains unchanged and gains an outer square."
+    },
+    {
+      "id": "TACHS-A8-003",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the matrix. In each row, the right cell changes + to × and duplicates the shape.\nRow 1: ○ + | ○ ○ ×\nRow 2: □ + | ?",
+      "choices": {
+        "A": "□ × ×",
+        "B": "□ □ ×",
+        "C": "■ ■ ×",
+        "D": "□ □ +"
+      },
+      "correct": "B",
+      "correctAnswer": "□ □ ×",
+      "explanation": "The square is duplicated and + changes to ×."
+    },
+    {
+      "id": "TACHS-A8-004",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the matrix. Across each row, the line is reflected left-to-right while the shape changes from open to filled.\nRow 1: / ○ | \\ ●\nRow 2: \\ □ | ?",
+      "choices": {
+        "A": "/ □",
+        "B": "\\ ■",
+        "C": "\\ □",
+        "D": "/ ■"
+      },
+      "correct": "D",
+      "correctAnswer": "/ ■",
+      "explanation": "A left-right reflection changes \\ to /, and open □ becomes filled ■."
+    },
+    {
+      "id": "TACHS-A8-005",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the matrix. The third cell shows the symbol that appears most often in the first two groups.\nRow 1: ○ ○ □ | ○ △ | ○\nRow 2: + ★ ★ | ★ × | ?",
+      "choices": {
+        "A": "×",
+        "B": "+",
+        "C": "★",
+        "D": "☆"
+      },
+      "correct": "C",
+      "correctAnswer": "★",
+      "explanation": "★ appears three times across the two groups, more often than + or ×."
+    },
+    {
+      "id": "TACHS-A8-006",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Paper Folding",
+      "prompt": "A square is folded from left to right. A hole is punched near the folded paper’s top edge and another near its bottom edge, at different horizontal positions. What appears after unfolding?",
+      "choices": {
+        "A": "Two holes in one vertical line",
+        "B": "Eight holes around the edges",
+        "C": "Four holes in one vertical column",
+        "D": "Four holes forming two horizontal mirrored pairs"
+      },
+      "correct": "D",
+      "correctAnswer": "Four holes forming two horizontal mirrored pairs",
+      "explanation": "Each punch reflects horizontally, giving two mirrored pairs and four holes."
+    },
+    {
+      "id": "TACHS-A8-007",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Paper Folding",
+      "prompt": "A rectangle is folded from top to bottom and then left to right. A hole is punched near the folded paper’s lower-right area, away from edges. What appears after unfolding?",
+      "choices": {
+        "A": "Two holes on the right",
+        "B": "Four holes in one horizontal row",
+        "C": "Four holes in corresponding positions across both centerlines",
+        "D": "Eight holes near the corners"
+      },
+      "correct": "C",
+      "correctAnswer": "Four holes in corresponding positions across both centerlines",
+      "explanation": "Two perpendicular folds produce four positions reflected across both centerlines."
+    },
+    {
+      "id": "TACHS-A8-008",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Paper Folding",
+      "prompt": "A square is folded along the diagonal from lower-left to upper-right. A small triangular cut is made on the folded diagonal edge, away from corners. What appears after unfolding?",
+      "choices": {
+        "A": "Two triangular cuts on outer edges",
+        "B": "One symmetric diamond-shaped opening centered on the diagonal",
+        "C": "One triangular cut on the diagonal",
+        "D": "Four cuts around the center"
+      },
+      "correct": "B",
+      "correctAnswer": "One symmetric diamond-shaped opening centered on the diagonal",
+      "explanation": "The triangular cut on the fold reflects to form one symmetric diamond-like opening."
+    },
+    {
+      "id": "TACHS-A8-009",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Paper Folding",
+      "prompt": "A square is folded from bottom to top. Three holes are punched in a horizontal row on the folded paper, away from edges. What appears after unfolding?",
+      "choices": {
+        "A": "Six holes in one horizontal row",
+        "B": "Three holes on the horizontal centerline",
+        "C": "Six holes forming three vertical mirrored pairs",
+        "D": "Twelve holes in four rows"
+      },
+      "correct": "C",
+      "correctAnswer": "Six holes forming three vertical mirrored pairs",
+      "explanation": "Each punch reflects vertically, producing three vertical pairs and six holes."
+    },
+    {
+      "id": "TACHS-A8-010",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Classification",
+      "prompt": "The following groups share one rule:\n1. ○ □ ●\n2. △ ◇ ▲\n3. ☆ ○ ★\nWhich choice follows the same rule?",
+      "choices": {
+        "A": "■ □ ○",
+        "B": "○ ● □",
+        "C": "□ △ ■",
+        "D": "◇ △ ◆"
+      },
+      "correct": "D",
+      "correctAnswer": "◇ △ ◆",
+      "explanation": "Each group has two different open shapes followed by the filled version of the first shape."
+    },
+    {
+      "id": "TACHS-A8-011",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Classification",
+      "prompt": "The following arrangements share one rule:\n1. Left +; center ○; right +\n2. Left ×; center □; right ×\n3. Left ★; center △; right ★\nWhich choice follows the same rule?",
+      "choices": {
+        "A": "Left ◇; center ☆; right ◇",
+        "B": "Left ○; center +; right ○",
+        "C": "Left +; center ■; right +",
+        "D": "Left +; center ○; right ×"
+      },
+      "correct": "A",
+      "correctAnswer": "Left ◇; center ☆; right ◇",
+      "explanation": "Matching outer symbols surround a different open center shape."
+    },
+    {
+      "id": "TACHS-A8-012",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Classification",
+      "prompt": "The following figures share one rule:\n1. Outer ○; inner + at top\n2. Outer □; inner × at top\n3. Outer △; inner ★ at top\nWhich choice follows the same rule?",
+      "choices": {
+        "A": "Outer ◇; inner ○ at top",
+        "B": "Outer ◇; inner ○ at bottom",
+        "C": "Outer ◇; inner ◆ at top",
+        "D": "Outer ■; inner + at top"
+      },
+      "correct": "A",
+      "correctAnswer": "Outer ◇; inner ○ at top",
+      "explanation": "An open outer shape contains a different symbol positioned at the top."
+    },
+    {
+      "id": "TACHS-A8-013",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the 2 × 2 matrix.\nTop-left: ○ | ▲\nTop-right: ▲ | ●\nBottom-left: □ | ◆\nBottom-right: ?\nAcross each row, the right symbol of a cell becomes the left symbol of the next cell, and the new right symbol is the filled form of the previous cell's left symbol. Which cell completes the matrix?",
+      "choices": {
+        "A": "□ | ◆",
+        "B": "◆ | ■",
+        "C": "■ | ◆",
+        "D": "◆ | □"
+      },
+      "correct": "B",
+      "correctAnswer": "◆ | ■",
+      "explanation": "The prior right symbol moves left, while the filled version of the prior left symbol moves right."
+    },
+    {
+      "id": "TACHS-A8-014",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the 2 × 2 matrix.\nTop-left: ↑ ○\nTop-right: ○ →\nBottom-left: ↓ □\nBottom-right: ?\nAcross a row, the arrow moves from before the shape to after it and rotates 90° clockwise. The shape stays the same. Which cell completes the matrix?",
+      "choices": {
+        "A": "← □",
+        "B": "□ ↓",
+        "C": "↑ □",
+        "D": "□ ←"
+      },
+      "correct": "D",
+      "correctAnswer": "□ ←",
+      "explanation": "The arrow shifts behind the unchanged square and rotates clockwise from down to left."
+    },
+    {
+      "id": "TACHS-A8-015",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the 2 × 2 matrix.\nTop-left: ○ + □\nTop-right: ○ □ +\nBottom-left: △ + ◇\nBottom-right: ?\nAcross each row, the middle symbol moves to the far right while the other two remain in order. Which cell completes the matrix?",
+      "choices": {
+        "A": "+ △ ◇",
+        "B": "◇ △ +",
+        "C": "△ ◇ +",
+        "D": "△ + ◇"
+      },
+      "correct": "C",
+      "correctAnswer": "△ ◇ +",
+      "explanation": "Moving the middle plus sign to the end leaves the triangle and diamond in their original order."
+    },
+    {
+      "id": "TACHS-A8-016",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the 2 × 2 matrix.\nTop-left: Top ○; Bottom ■\nTop-right: Top ■; Bottom ○\nBottom-left: Top △; Bottom ◆\nBottom-right: ?\nAcross each row, the two symbols exchange vertical positions. Which cell completes the matrix?",
+      "choices": {
+        "A": "Top ◆; Bottom △",
+        "B": "Top △; Bottom ◆",
+        "C": "Top ▲; Bottom ◇",
+        "D": "Top ◇; Bottom ▲"
+      },
+      "correct": "A",
+      "correctAnswer": "Top ◆; Bottom △",
+      "explanation": "As in the top row, the two symbols exchange their upper and lower positions."
+    },
+    {
+      "id": "TACHS-A8-017",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Paper Folding",
+      "prompt": "A square sheet is folded along the diagonal from upper-left to lower-right so the lower-left half lies over the upper-right half. A triangular notch is cut from the folded edge halfway between the upper-left and lower-right corners, not at either endpoint. What appears after the sheet is fully unfolded?",
+      "choices": {
+        "A": "One triangular notch on the outer left edge",
+        "B": "Two triangular notches mirrored across the other diagonal",
+        "C": "Two triangular cutouts mirrored across the fold diagonal",
+        "D": "Four triangular cutouts arranged around the center"
+      },
+      "correct": "C",
+      "correctAnswer": "Two triangular cutouts mirrored across the fold diagonal",
+      "explanation": "Unfolding reflects the cut across the single diagonal fold, creating two symmetric cutouts."
+    },
+    {
+      "id": "TACHS-A8-018",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Paper Folding",
+      "prompt": "A rectangular sheet is folded from bottom to top along the horizontal centerline. The folded rectangle is then folded from right to left along its vertical centerline. One hole is punched exactly at the upper-left corner of the final folded rectangle. Where will the holes appear after full unfolding?",
+      "choices": {
+        "A": "At the centers of the four quarters",
+        "B": "At four locations meeting at the original sheet's center",
+        "C": "At the midpoint of the top and bottom edges only",
+        "D": "At the four outer corners of the original sheet"
+      },
+      "correct": "D",
+      "correctAnswer": "At the four outer corners of the original sheet",
+      "explanation": "The final folded upper-left corner maps through the two centerline reflections to all four original outer corners."
+    },
+    {
+      "id": "TACHS-A8-019",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Paper Folding",
+      "prompt": "A square sheet is folded from left to right along the vertical centerline. One circular hole is punched on the top edge of the folded rectangle, halfway between its left and right edges. After unfolding, what is the result?",
+      "choices": {
+        "A": "One hole at the midpoint of the square's top edge",
+        "B": "Two holes on the bottom edge",
+        "C": "Two holes on the top edge, equally spaced from the vertical centerline",
+        "D": "Four holes, one near each corner"
+      },
+      "correct": "C",
+      "correctAnswer": "Two holes on the top edge, equally spaced from the vertical centerline",
+      "explanation": "The vertical fold reflects the punch to a second top-edge position at the same distance from the centerline."
+    },
+    {
+      "id": "TACHS-A8-020",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Paper Folding",
+      "prompt": "A rectangular sheet that is twice as wide as it is tall is folded from left to right along the vertical centerline, forming a square. The square is then folded along the diagonal from its upper-left corner to its lower-right corner. A hole is punched inside the final folded shape at a point not on either fold. What must be true after full unfolding?",
+      "choices": {
+        "A": "Exactly two holes appear, both above the horizontal centerline.",
+        "B": "Exactly eight holes appear around the outer edge.",
+        "C": "Exactly six holes appear along one diagonal.",
+        "D": "Exactly four holes appear, related by the two fold reflections."
+      },
+      "correct": "D",
+      "correctAnswer": "Exactly four holes appear, related by the two fold reflections.",
+      "explanation": "An interior punch off both folds doubles with each of the two reflections, producing four related locations."
+    },
+    {
+      "id": "TACHS-A8-021",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Classification",
+      "prompt": "The three groups below share a rule.\n○ ■ ○\n□ ▲ □\n◇ ★ ◇\nWhich choice follows the same rule?",
+      "choices": {
+        "A": "△ ● □",
+        "B": "☆ ◆ ☆",
+        "C": "○ ○ ●",
+        "D": "■ ○ ■"
+      },
+      "correct": "B",
+      "correctAnswer": "☆ ◆ ☆",
+      "explanation": "Each group has matching open outer shapes surrounding a different filled center shape."
+    },
+    {
+      "id": "TACHS-A8-022",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Classification",
+      "prompt": "The three groups below share a rule.\n↑ ○ ↓\n→ □ ←\n↓ △ ↑\nWhich choice follows the same rule?",
+      "choices": {
+        "A": "← ◇ ↓",
+        "B": "→ ◇ ←",
+        "C": "↓ ○ ←",
+        "D": "↑ ☆ →"
+      },
+      "correct": "B",
+      "correctAnswer": "→ ◇ ←",
+      "explanation": "The arrows on either side of the open center shape point in opposite directions."
+    },
+    {
+      "id": "TACHS-A8-023",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Classification",
+      "prompt": "The three groups below share a rule.\n○ | ●\n□ - ■\n△ / ▲\nWhich choice follows the same rule?",
+      "choices": {
+        "A": "★ | ☆",
+        "B": "◆ / ◇",
+        "C": "◇ - ◆",
+        "D": "☆ × ★"
+      },
+      "correct": "C",
+      "correctAnswer": "◇ - ◆",
+      "explanation": "Like each example, this group places an open shape left and its filled counterpart right."
+    },
+    {
+      "id": "TACHS-A8-024",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Classification",
+      "prompt": "The three arrangements below share a rule.\nTop: ○; Center: +; Bottom: ○\nTop: □; Center: ×; Bottom: □\nTop: △; Center: |; Bottom: △\nWhich choice follows the same rule?",
+      "choices": {
+        "A": "Top: -; Center: ◇; Bottom: -",
+        "B": "Top: ◇; Center: ◇; Bottom: -",
+        "C": "Top: ◆; Center: -; Bottom: ◇",
+        "D": "Top: ◇; Center: -; Bottom: ◇"
+      },
+      "correct": "D",
+      "correctAnswer": "Top: ◇; Center: -; Bottom: ◇",
+      "explanation": "Matching open shapes occupy the top and bottom positions around a different central symbol."
+    },
+    {
+      "id": "TACHS-A8-025",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the 2 × 2 matrix.\nTop-left: ○ ○ □\nTop-right: □\nBottom-left: △ ◇ ◇\nBottom-right: ?\nAcross each row, the matching pair is removed and the unpaired shape remains. Which cell completes the matrix?",
+      "choices": {
+        "A": "△ △",
+        "B": "◇",
+        "C": "△ ◇",
+        "D": "△"
+      },
+      "correct": "D",
+      "correctAnswer": "△",
+      "explanation": "Removing the repeated pair of diamonds leaves the single triangle."
+    },
+    {
+      "id": "TACHS-A8-026",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the 2 × 2 matrix.\nTop-left: Top-left ↑; Bottom-right ○\nTop-right: Top-right →; Bottom-left ○\nBottom-left: Bottom-left ←; Top-right □\nBottom-right: ?\nAcross each row, the arrow moves one corner clockwise while the shape moves one corner counterclockwise. The arrow also rotates 90° clockwise. Which cell completes the matrix?",
+      "choices": {
+        "A": "Top-left ↓; Bottom-right □",
+        "B": "Top-right ↑; Bottom-left □",
+        "C": "Top-left ↑; Bottom-right □",
+        "D": "Top-left ←; Bottom-right □"
+      },
+      "correct": "C",
+      "correctAnswer": "Top-left ↑; Bottom-right □",
+      "explanation": "The arrow moves clockwise to the top-left and rotates from left to up, while the square moves counterclockwise to bottom-right."
+    },
+    {
+      "id": "TACHS-A8-027",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the 2 × 2 matrix.\nTop-left: ○\nTop-right: ○ ○\nBottom-left: ▲ ▲\nBottom-right: ?\nAcross each row, one matching shape is added. Down each column, open circles become filled triangles and the count doubles. Which cell completes the matrix?",
+      "choices": {
+        "A": "▲ ▲ ▲ ▲",
+        "B": "▲ ▲ ▲",
+        "C": "△ △ △ △",
+        "D": "▲ ▲"
+      },
+      "correct": "A",
+      "correctAnswer": "▲ ▲ ▲ ▲",
+      "explanation": "The top-right count of two doubles down the column, producing four filled triangles."
+    },
+    {
+      "id": "TACHS-A8-028",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the 2 × 2 matrix.\nTop-left: ○ inside □\nTop-right: □ inside ○\nBottom-left: △ inside ◇\nBottom-right: ?\nAcross each row, the inner and outer shapes exchange places without changing fill. Which cell completes the matrix?",
+      "choices": {
+        "A": "△ beside ◇",
+        "B": "◇ inside △",
+        "C": "▲ inside ◆",
+        "D": "△ inside ◇"
+      },
+      "correct": "B",
+      "correctAnswer": "◇ inside △",
+      "explanation": "Exchanging the inner triangle and outer diamond places the diamond inside the triangle."
+    },
+    {
+      "id": "TACHS-A8-029",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the 3 × 3 matrix.\nRow 1: ○ □ | □ △ | ○ △\nRow 2: ▲ ◆ | ◆ ★ | ▲ ★\nRow 3: Cell 1: + ×; Cell 2: × |; Cell 3: ?\nIn each row, the symbol appearing in both of the first two cells is removed; the third cell contains the two remaining symbols in order. Which cell completes the matrix?",
+      "choices": {
+        "A": "| +",
+        "B": "+ |",
+        "C": "+ × |",
+        "D": "× |"
+      },
+      "correct": "B",
+      "correctAnswer": "+ |",
+      "explanation": "The repeated multiplication sign is removed, leaving the plus sign followed by the vertical line."
+    },
+    {
+      "id": "TACHS-A8-030",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Paper Folding",
+      "prompt": "A square sheet is folded from left to right along the vertical centerline and then from bottom to top along the horizontal centerline. The resulting small square is folded along its diagonal from upper-left to lower-right. One hole is punched inside the final folded shape, away from folds and edges. After full unfolding, what appears?",
+      "choices": {
+        "A": "Six holes arranged along the diagonal",
+        "B": "Four holes related only by the centerline folds",
+        "C": "Eight holes related by three fold reflections",
+        "D": "Two holes on opposite sides of the diagonal"
+      },
+      "correct": "C",
+      "correctAnswer": "Eight holes related by three fold reflections",
+      "explanation": "Each of three folds doubles an off-fold interior punch, producing 2 × 2 × 2 = 8 holes."
+    },
+    {
+      "id": "TACHS-A8-031",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Paper Folding",
+      "prompt": "A circular sheet is folded in half from left to right along a vertical diameter. A small semicircular notch is cut from the curved outer edge of the folded sheet, above the horizontal center. What appears after unfolding?",
+      "choices": {
+        "A": "One circular hole at the center",
+        "B": "Two matching notches on the curved edge, mirrored across the vertical diameter",
+        "C": "Two holes on the vertical diameter",
+        "D": "Four matching notches equally spaced around the edge"
+      },
+      "correct": "B",
+      "correctAnswer": "Two matching notches on the curved edge, mirrored across the vertical diameter",
+      "explanation": "Reversing the single fold reflects the notch to the opposite side of the circle's curved edge."
+    },
+    {
+      "id": "TACHS-A8-032",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Paper Folding",
+      "prompt": "A rectangular sheet is folded from top to bottom along the horizontal centerline. A hole is punched exactly on the folded sheet's vertical centerline and below the fold, not on an outer edge. What appears after unfolding?",
+      "choices": {
+        "A": "Two holes on the vertical centerline, mirrored across the horizontal centerline",
+        "B": "Two holes on the horizontal centerline",
+        "C": "One hole above the horizontal centerline",
+        "D": "Four holes mirrored across both centerlines"
+      },
+      "correct": "A",
+      "correctAnswer": "Two holes on the vertical centerline, mirrored across the horizontal centerline",
+      "explanation": "The horizontal fold doubles the hole, while its position on the vertical centerline remains unchanged."
+    },
+    {
+      "id": "TACHS-A8-033",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Paper Folding",
+      "prompt": "A square sheet is folded along the diagonal from upper-right to lower-left. The resulting right isosceles triangle is folded along its line of symmetry so that its two acute corners meet. A hole is punched inside the final folded shape, away from folds and edges. How many holes appear after full unfolding?",
+      "choices": {
+        "A": "2",
+        "B": "3",
+        "C": "6",
+        "D": "4"
+      },
+      "correct": "D",
+      "correctAnswer": "4",
+      "explanation": "Each of the two folds doubles an interior off-fold punch, producing 2 × 2 = 4 holes."
+    },
+    {
+      "id": "TACHS-A8-034",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Classification",
+      "prompt": "The three groups below share a rule.\n○ → ■\n▲ ← □\n◇ → ★\nIn each group, the arrow points toward the filled shape. Which choice follows the same rule?",
+      "choices": {
+        "A": "◆ ← ☆",
+        "B": "☆ ← ◆",
+        "C": "◆ → ☆",
+        "D": "☆ → ◇"
+      },
+      "correct": "A",
+      "correctAnswer": "◆ ← ☆",
+      "explanation": "The left-pointing arrow correctly points toward the filled diamond on its left."
+    },
+    {
+      "id": "TACHS-A8-035",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Classification",
+      "prompt": "The three groups below share a rule.\n↑ → ↓\n→ ↓ ←\n↓ ← ↑\nWhich choice follows the same rule?",
+      "choices": {
+        "A": "← ↑ →",
+        "B": "← ↓ →",
+        "C": "↑ ← ↓",
+        "D": "→ ↑ ←"
+      },
+      "correct": "A",
+      "correctAnswer": "← ↑ →",
+      "explanation": "Each arrow is obtained by rotating the preceding arrow 90° clockwise."
+    },
+    {
+      "id": "TACHS-A8-036",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Classification",
+      "prompt": "The three arrangements below share a rule.\nTop-left: ○; Top-right: ■; Bottom: □\nTop-left: △; Top-right: ◆; Bottom: ◇\nTop-left: ☆; Top-right: ●; Bottom: ○\nWhich choice follows the same rule?",
+      "choices": {
+        "A": "Top-left: □; Top-right: ■; Bottom: △",
+        "B": "Top-left: ◆; Top-right: ▲; Bottom: △",
+        "C": "Top-left: □; Top-right: ▲; Bottom: △",
+        "D": "Top-left: □; Top-right: △; Bottom: ▲"
+      },
+      "correct": "C",
+      "correctAnswer": "Top-left: □; Top-right: ▲; Bottom: △",
+      "explanation": "The top-right shape is the filled counterpart of the different open shape at the bottom."
+    },
+    {
+      "id": "TACHS-A8-037",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Classification",
+      "prompt": "The three arrangements below share a rule.\nTop: ○ □; Bottom: ■ ●\nTop: △ ◇; Bottom: ◆ ▲\nTop: ☆ ○; Bottom: ● ★\nWhich choice follows the same rule?",
+      "choices": {
+        "A": "Top: □ ◇; Bottom: ■ ◆",
+        "B": "Top: □ ◇; Bottom: ◆ ■",
+        "C": "Top: ■ ◇; Bottom: ◆ □",
+        "D": "Top: □ ◇; Bottom: ◇ □"
+      },
+      "correct": "B",
+      "correctAnswer": "Top: □ ◇; Bottom: ◆ ■",
+      "explanation": "The bottom row contains the filled counterparts of the top row in reverse order."
+    },
+    {
+      "id": "TACHS-A8-038",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the 3 × 3 matrix.\nRow 1: Cell 1: ○ □; Cell 2: □ △; Cell 3: ○ □ △\nRow 2: Cell 1: ▲ ◆; Cell 2: ◆ ★; Cell 3: ▲ ◆ ★\nRow 3: Cell 1: + ×; Cell 2: × |; Cell 3: ?\nIn each row, the third cell contains every different symbol appearing in the first two cells, with the shared symbol written only once. Which cell completes the matrix?",
+      "choices": {
+        "A": "| × +",
+        "B": "+ |",
+        "C": "× × |",
+        "D": "+ × |"
+      },
+      "correct": "D",
+      "correctAnswer": "+ × |",
+      "explanation": "Combining the two cells and writing the shared multiplication sign once produces plus, multiplication, vertical line."
+    },
+    {
+      "id": "TACHS-A8-039",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the 2 × 2 matrix.\nTop-left: ○ | □\nTop-right: □ | △\nBottom-left: △ | ◇\nBottom-right: ?\nAcross each row, each symbol advances one place in this cycle: ○, □, △, ◇, ☆. Which cell completes the matrix?",
+      "choices": {
+        "A": "◇ | ☆",
+        "B": "△ | ☆",
+        "C": "☆ | ◇",
+        "D": "◇ | △"
+      },
+      "correct": "A",
+      "correctAnswer": "◇ | ☆",
+      "explanation": "Advancing the triangle and diamond one place in the stated cycle produces diamond and star."
+    },
+    {
+      "id": "TACHS-A8-040",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the 2 × 2 matrix.\nTop-left: ○ ○ ○ ○\nTop-right: ● ● ●\nBottom-left: □ □ □\nBottom-right: ?\nAcross each row, one shape is removed and all remaining shapes change from open to filled. Which cell completes the matrix?",
+      "choices": {
+        "A": "□ □",
+        "B": "■ ■ ■",
+        "C": "■ ■",
+        "D": "□ □ □ □"
+      },
+      "correct": "C",
+      "correctAnswer": "■ ■",
+      "explanation": "Removing one of three open squares leaves two shapes, and changing fill produces two filled squares."
+    },
+    {
+      "id": "TACHS-A8-041",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Matrices",
+      "prompt": "Complete the 2 × 2 matrix.\nTop-left: ○ + □\nTop-right: ○ × □\nBottom-left: △ × ◇\nBottom-right: ?\nAcross each row, the outer shapes remain fixed while the center line symbol rotates 45° clockwise. Which cell completes the matrix?",
+      "choices": {
+        "A": "△ + ◇",
+        "B": "◇ - △",
+        "C": "△ | ◇",
+        "D": "△ - ◇"
+      },
+      "correct": "A",
+      "correctAnswer": "△ + ◇",
+      "explanation": "Rotating the center multiplication sign 45° clockwise produces a plus sign while the outer shapes remain fixed."
+    },
+    {
+      "id": "TACHS-A8-042",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Paper Folding",
+      "prompt": "A rectangular sheet is divided conceptually into three equal vertical panels. The left panel is folded rightward over the center panel, and the right panel is then folded leftward over the center panel. One hole is punched inside the final stack, away from folds and edges. What appears after full unfolding?",
+      "choices": {
+        "A": "Two holes mirrored across one fold",
+        "B": "Four holes arranged around the center",
+        "C": "Three holes, one in each vertical panel at matching heights",
+        "D": "Six holes in two rows"
+      },
+      "correct": "C",
+      "correctAnswer": "Three holes, one in each vertical panel at matching heights",
+      "explanation": "The three stacked panels separate during unfolding, placing one corresponding hole in each panel."
+    },
+    {
+      "id": "TACHS-A8-043",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Paper Folding",
+      "prompt": "A square sheet is folded from bottom to top along the horizontal centerline. A V-shaped notch is cut from the folded sheet's left outer edge, above the fold. What appears after unfolding?",
+      "choices": {
+        "A": "One notch on the left edge",
+        "B": "Two matching notches on the left edge, mirrored across the horizontal centerline",
+        "C": "Four notches, one on each edge",
+        "D": "Two notches on the top and bottom edges"
+      },
+      "correct": "B",
+      "correctAnswer": "Two matching notches on the left edge, mirrored across the horizontal centerline",
+      "explanation": "Reversing the horizontal fold reflects the edge notch to a second position on the same outer edge."
+    },
+    {
+      "id": "TACHS-A8-044",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Paper Folding",
+      "prompt": "A square sheet is folded along the diagonal from lower-left to upper-right. One hole is punched exactly on the folded diagonal, away from the corners. What appears after unfolding?",
+      "choices": {
+        "A": "One hole located on the diagonal fold line",
+        "B": "Two holes mirrored across the diagonal",
+        "C": "Four holes around the center",
+        "D": "One hole on an outer edge"
+      },
+      "correct": "A",
+      "correctAnswer": "One hole located on the diagonal fold line",
+      "explanation": "A punch exactly on a fold maps onto itself when the sheet is reopened."
+    },
+    {
+      "id": "TACHS-A8-045",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Paper Folding",
+      "prompt": "A rectangular sheet is folded from left to right along the vertical centerline. Two holes are punched inside the folded rectangle at different heights and different distances from the fold, with neither hole on a fold or edge. How many holes appear after unfolding?",
+      "choices": {
+        "A": "2",
+        "B": "4",
+        "C": "3",
+        "D": "8"
+      },
+      "correct": "B",
+      "correctAnswer": "4",
+      "explanation": "Each off-fold punch reflects once across the vertical centerline, so two punches produce four holes."
+    },
+    {
+      "id": "TACHS-A8-046",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Classification",
+      "prompt": "The three arrangements below share a rule.\nTop-left: /; Top-right: \\; Bottom: ×\nTop-left: |; Top-right: -; Bottom: +\nTop-left: \\; Top-right: /; Bottom: ×\nThe bottom symbol combines the two line directions above it. Which choice follows the same rule?",
+      "choices": {
+        "A": "Top-left: /; Top-right: |; Bottom: +",
+        "B": "Top-left: |; Top-right: |; Bottom: -",
+        "C": "Top-left: -; Top-right: /; Bottom: ×",
+        "D": "Top-left: -; Top-right: |; Bottom: +"
+      },
+      "correct": "D",
+      "correctAnswer": "Top-left: -; Top-right: |; Bottom: +",
+      "explanation": "A horizontal and a vertical line combine to form the plus sign below them."
+    },
+    {
+      "id": "TACHS-A8-047",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Classification",
+      "prompt": "The three groups below share a rule.\n○ ● □ ■\n△ ▲ ◇ ◆\n☆ ★ ○ ●\nWhich choice follows the same rule?",
+      "choices": {
+        "A": "□ ■ ◆ ◇",
+        "B": "□ ■ △ ▲",
+        "C": "◇ ◆ ▲ △",
+        "D": "□ △ ■ ▲"
+      },
+      "correct": "B",
+      "correctAnswer": "□ ■ △ ▲",
+      "explanation": "Each open shape is immediately followed by its filled counterpart, and the pattern repeats with a different shape."
+    },
+    {
+      "id": "TACHS-A8-048",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Classification",
+      "prompt": "The three arrangements below share a rule.\nTop-left: ○; Top-right: ■; Bottom-left: □; Bottom-right: ●\nTop-left: △; Top-right: ◆; Bottom-left: ◇; Bottom-right: ▲\nTop-left: ☆; Top-right: ●; Bottom-left: ○; Bottom-right: ★\nIn each arrangement, the left column contains open shapes, the right column contains their filled counterparts, and each counterpart lies diagonally opposite its open form.\nWhich choice follows the same rule?",
+      "choices": {
+        "A": "Top-left: □; Top-right: ▲; Bottom-left: △; Bottom-right: ■",
+        "B": "Top-left: ◆; Top-right: ▲; Bottom-left: △; Bottom-right: ◇",
+        "C": "Top-left: □; Top-right: △; Bottom-left: ▲; Bottom-right: ■",
+        "D": "Top-left: □; Top-right: ▲; Bottom-left: ○; Bottom-right: ■"
+      },
+      "correct": "A",
+      "correctAnswer": "Top-left: □; Top-right: ▲; Bottom-left: △; Bottom-right: ■",
+      "explanation": "Open shapes occupy the left column, and their filled counterparts appear diagonally opposite in the right column."
+    },
+    {
+      "id": "TACHS-A8-049",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Classification",
+      "prompt": "The three groups below share a rule.\n↑ ↑ ↓\n→ → ←\n↓ ↓ ↑\nWhich choice follows the same rule?",
+      "choices": {
+        "A": "← ← →",
+        "B": "← → →",
+        "C": "↑ ↓ ↑",
+        "D": "→ ← ←"
+      },
+      "correct": "A",
+      "correctAnswer": "← ← →",
+      "explanation": "Two identical arrows are followed by one arrow pointing in the opposite direction."
+    },
+    {
+      "id": "TACHS-A8-050",
+      "itemType": "mcq_single",
+      "section": "Ability",
+      "category": "Ability",
+      "skill": "Figure Classification",
+      "prompt": "The three groups below share a rule.\n○ ■ □\n△ ◆ ◇\n☆ ● ○\nIn each group, the center is the filled counterpart of the open shape on the right; the left symbol is different. Which choice follows the same rule?",
+      "choices": {
+        "A": "◇ ▲ □",
+        "B": "+ ▲ △",
+        "C": "+ △ ▲",
+        "D": "◆ ◇ △"
+      },
+      "correct": "B",
+      "correctAnswer": "+ ▲ △",
+      "explanation": "The center filled triangle matches the open triangle on the right, while the left plus sign is different."
+    }
+  ]
+}

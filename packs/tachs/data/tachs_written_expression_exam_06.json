@@ -1,0 +1,979 @@
+{
+  "title": "TACHS Written Expression Practice Test 06",
+  "examFamily": "tachs",
+  "examNumber": 6,
+  "section": "Written Expression",
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "TACHS-WE6-001",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence should be removed because it does not support the passage’s main idea?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 4",
+        "C": "Sentence 3",
+        "D": "Sentence 6"
+      },
+      "correct": "B",
+      "correctAnswer": "Sentence 4",
+      "explanation": "Sentence 4 is a broad fact about gardening that does not develop the seed-library plan.",
+      "stimulusId": "TACHS-WE6-S01",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Starting a Seed Library",
+      "stimulusText": "[1] Our community center plans to open a seed library where gardeners can take small packets of seeds and later contribute seeds they collect. [2] Before accepting donations, volunteers will provide instructions for labeling each packet with the plant name and collection year. [3] Clear labels will help users choose seeds and help volunteers remove packets that are too old. [4] Gardening is a hobby enjoyed in many countries. [5] The seeds will be stored in dry containers away from direct sunlight. [6] During monthly workshops, experienced gardeners can demonstrate how to collect mature seeds without mixing plant varieties. [7] With careful organization, the seed library can help neighbors share both materials and knowledge."
+    },
+    {
+      "id": "TACHS-WE6-002",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which revision most effectively combines sentences 2 and 3?",
+      "choices": {
+        "A": "Because clear labels help users choose seeds and volunteers remove old packets, volunteers will explain how to record the plant name and collection year.",
+        "B": "Volunteers will provide labeling instructions, clear labels helping users choose seeds and volunteers remove old packets.",
+        "C": "Volunteers provide instructions, and labeling packets, which helps with seeds that are old.",
+        "D": "Clear labels for plant names and years, volunteers will tell donors before accepting them."
+      },
+      "correct": "A",
+      "correctAnswer": "Because clear labels help users choose seeds and volunteers remove old packets, volunteers will explain how to record the plant name and collection year.",
+      "explanation": "The complex sentence clearly connects the reason for labeling with the information volunteers will request.",
+      "stimulusId": "TACHS-WE6-S01",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Starting a Seed Library",
+      "stimulusText": "[1] Our community center plans to open a seed library where gardeners can take small packets of seeds and later contribute seeds they collect. [2] Before accepting donations, volunteers will provide instructions for labeling each packet with the plant name and collection year. [3] Clear labels will help users choose seeds and help volunteers remove packets that are too old. [4] Gardening is a hobby enjoyed in many countries. [5] The seeds will be stored in dry containers away from direct sunlight. [6] During monthly workshops, experienced gardeners can demonstrate how to collect mature seeds without mixing plant varieties. [7] With careful organization, the seed library can help neighbors share both materials and knowledge."
+    },
+    {
+      "id": "TACHS-WE6-003",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 5 is most precise?",
+      "choices": {
+        "A": "The stuff will be put somewhere good for it.",
+        "B": "The packets will remain in airtight containers in a cool, dry cabinet away from sunlight.",
+        "C": "They will store them in containers and things away from there.",
+        "D": "Seeds are seeds that need storage in a place."
+      },
+      "correct": "B",
+      "correctAnswer": "The packets will remain in airtight containers in a cool, dry cabinet away from sunlight.",
+      "explanation": "Choice B specifies what is stored and provides clear, practical storage conditions.",
+      "stimulusId": "TACHS-WE6-S01",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Starting a Seed Library",
+      "stimulusText": "[1] Our community center plans to open a seed library where gardeners can take small packets of seeds and later contribute seeds they collect. [2] Before accepting donations, volunteers will provide instructions for labeling each packet with the plant name and collection year. [3] Clear labels will help users choose seeds and help volunteers remove packets that are too old. [4] Gardening is a hobby enjoyed in many countries. [5] The seeds will be stored in dry containers away from direct sunlight. [6] During monthly workshops, experienced gardeners can demonstrate how to collect mature seeds without mixing plant varieties. [7] With careful organization, the seed library can help neighbors share both materials and knowledge."
+    },
+    {
+      "id": "TACHS-WE6-004",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Where would the following sentence fit best? “A simple checkout list will record which seed types are taken most often.”",
+      "choices": {
+        "A": "Before sentence 1",
+        "B": "After sentence 1",
+        "C": "After sentence 4",
+        "D": "After sentence 7"
+      },
+      "correct": "B",
+      "correctAnswer": "After sentence 1",
+      "explanation": "After sentence 1, the sentence adds an operational detail immediately following the introduction of the library.",
+      "stimulusId": "TACHS-WE6-S01",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Starting a Seed Library",
+      "stimulusText": "[1] Our community center plans to open a seed library where gardeners can take small packets of seeds and later contribute seeds they collect. [2] Before accepting donations, volunteers will provide instructions for labeling each packet with the plant name and collection year. [3] Clear labels will help users choose seeds and help volunteers remove packets that are too old. [4] Gardening is a hobby enjoyed in many countries. [5] The seeds will be stored in dry containers away from direct sunlight. [6] During monthly workshops, experienced gardeners can demonstrate how to collect mature seeds without mixing plant varieties. [7] With careful organization, the seed library can help neighbors share both materials and knowledge."
+    },
+    {
+      "id": "TACHS-WE6-005",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which revision of sentence 2 corrects the misplaced modifier?",
+      "choices": {
+        "A": "Working in teams, six locations recorded the students’ light readings.",
+        "B": "The light readings, working in teams, were at six locations.",
+        "C": "Working in teams, the students recorded light readings at six locations.",
+        "D": "At six locations were readings recorded by teams working."
+      },
+      "correct": "C",
+      "correctAnswer": "Working in teams, the students recorded light readings at six locations.",
+      "explanation": "The revision places “the students” directly after the modifying phrase “Working in teams.”",
+      "stimulusId": "TACHS-WE6-S02",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Measuring Nighttime Light",
+      "stimulusText": "[1] Our class investigated how much artificial light reaches different parts of the school grounds at night. [2] Working in teams, light readings were recorded at six locations. [3] Each team held the same meter at waist height and waited ten seconds before recording a value. [4] We also noted nearby lamps, windows, and reflective surfaces. [5] The brightest reading came from the walkway beside the gym, where three uncovered lamps faced outward. [6] The garden behind the library was dimmer then every other location. [7] Repeating the measurements on a second evening would help us determine whether the pattern is consistent."
+    },
+    {
+      "id": "TACHS-WE6-006",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which transition should be added to the beginning of sentence 4?",
+      "choices": {
+        "A": "For example,",
+        "B": "In addition,",
+        "C": "Instead,",
+        "D": "Nevertheless,"
+      },
+      "correct": "B",
+      "correctAnswer": "In addition,",
+      "explanation": "Sentence 4 adds another kind of observation, so “In addition” expresses the relationship clearly.",
+      "stimulusId": "TACHS-WE6-S02",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Measuring Nighttime Light",
+      "stimulusText": "[1] Our class investigated how much artificial light reaches different parts of the school grounds at night. [2] Working in teams, light readings were recorded at six locations. [3] Each team held the same meter at waist height and waited ten seconds before recording a value. [4] We also noted nearby lamps, windows, and reflective surfaces. [5] The brightest reading came from the walkway beside the gym, where three uncovered lamps faced outward. [6] The garden behind the library was dimmer then every other location. [7] Repeating the measurements on a second evening would help us determine whether the pattern is consistent."
+    },
+    {
+      "id": "TACHS-WE6-007",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision corrects the error in sentence 6?",
+      "choices": {
+        "A": "The garden behind the library was dimmer then every other location.",
+        "B": "The garden behind the library was more dim then every other location.",
+        "C": "The garden behind the library was dimmer than every other location.",
+        "D": "The garden behind the library was dimmest than every other location."
+      },
+      "correct": "C",
+      "correctAnswer": "The garden behind the library was dimmer than every other location.",
+      "explanation": "“Than” creates the clear and correct comparison between the garden and the other locations.",
+      "stimulusId": "TACHS-WE6-S02",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Measuring Nighttime Light",
+      "stimulusText": "[1] Our class investigated how much artificial light reaches different parts of the school grounds at night. [2] Working in teams, light readings were recorded at six locations. [3] Each team held the same meter at waist height and waited ten seconds before recording a value. [4] We also noted nearby lamps, windows, and reflective surfaces. [5] The brightest reading came from the walkway beside the gym, where three uncovered lamps faced outward. [6] The garden behind the library was dimmer then every other location. [7] Repeating the measurements on a second evening would help us determine whether the pattern is consistent."
+    },
+    {
+      "id": "TACHS-WE6-008",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 7 is most concise without changing its meaning?",
+      "choices": {
+        "A": "Repeating again on another second evening would help with seeing the same consistent pattern.",
+        "B": "If we repeated measurements again for a second time, it might possibly help us determine consistency.",
+        "C": "A second evening of measurements would show whether the pattern remains consistent.",
+        "D": "The measurements are something we could do and repeat on an evening that is second."
+      },
+      "correct": "C",
+      "correctAnswer": "A second evening of measurements would show whether the pattern remains consistent.",
+      "explanation": "Choice C removes repetition while preserving the proposed purpose of another measurement session.",
+      "stimulusId": "TACHS-WE6-S02",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Measuring Nighttime Light",
+      "stimulusText": "[1] Our class investigated how much artificial light reaches different parts of the school grounds at night. [2] Working in teams, light readings were recorded at six locations. [3] Each team held the same meter at waist height and waited ten seconds before recording a value. [4] We also noted nearby lamps, windows, and reflective surfaces. [5] The brightest reading came from the walkway beside the gym, where three uncovered lamps faced outward. [6] The garden behind the library was dimmer then every other location. [7] Repeating the measurements on a second evening would help us determine whether the pattern is consistent."
+    },
+    {
+      "id": "TACHS-WE6-009",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence is written correctly?",
+      "choices": {
+        "A": "Every one of the windows were closed before the storm.",
+        "B": "One of the maps shows a trail beside the river.",
+        "C": "Neither the coach nor the players was ready to leave.",
+        "D": "The scissors is stored in the top drawer."
+      },
+      "correct": "B",
+      "correctAnswer": "One of the maps shows a trail beside the river.",
+      "explanation": "The singular subject “one” correctly takes the verb “shows.”"
+    },
+    {
+      "id": "TACHS-WE6-010",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which choice is a complete sentence?",
+      "choices": {
+        "A": "Although the rain stopped before noon.",
+        "B": "Because the game had already been delayed.",
+        "C": "While waiting for the field to dry.",
+        "D": "The rain stopped before noon, and the field dried quickly."
+      },
+      "correct": "D",
+      "correctAnswer": "The rain stopped before noon, and the field dried quickly.",
+      "explanation": "Choice D contains two complete clauses joined correctly by a comma and coordinating conjunction."
+    },
+    {
+      "id": "TACHS-WE6-011",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence uses the pronoun correctly?",
+      "choices": {
+        "A": "The teacher gave Marcus and I the keys.",
+        "B": "Her and Lena prepared the display.",
+        "C": "Please send the completed form to him and me.",
+        "D": "The final decision belongs to they."
+      },
+      "correct": "C",
+      "correctAnswer": "Please send the completed form to him and me.",
+      "explanation": "“Him” and “me” are the correct object pronouns after the preposition “to.”"
+    },
+    {
+      "id": "TACHS-WE6-012",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which numbered line contains an error in standard written US English?\nLine 1: The robotics club meet every Thursday.\nLine 2: Its members design machines for local contests.\nLine 3: A science teacher supervises each meeting.\nLine 4: Parents sometimes help gather materials.",
+      "choices": {
+        "A": "Line 4",
+        "B": "Line 2",
+        "C": "Line 3",
+        "D": "Line 1"
+      },
+      "correct": "D",
+      "correctAnswer": "Line 1",
+      "explanation": "Line 1 has an agreement error; the singular subject “club” requires “meets.”"
+    },
+    {
+      "id": "TACHS-WE6-013",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which numbered line contains an error in standard written US English?\nLine 1: We carried the empty boxes into the storage room.\nLine 2: Maya stacked the smallest boxes on a shelf.\nLine 3: The larger boxes were placed beside the door.\nLine 4: Later, the custodian check the arrangement.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 2",
+        "C": "Line 3",
+        "D": "Line 4"
+      },
+      "correct": "D",
+      "correctAnswer": "Line 4",
+      "explanation": "Line 4 requires the past-tense verb “checked” to match the passage’s established tense."
+    },
+    {
+      "id": "TACHS-WE6-014",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence is the best opening for the passage?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 1",
+        "C": "Sentence 5",
+        "D": "Sentence 8"
+      },
+      "correct": "B",
+      "correctAnswer": "Sentence 1",
+      "explanation": "Sentence 1 introduces the proposed tool cabinet and its purpose, preparing readers for the supporting details.",
+      "stimulusId": "TACHS-WE6-S03",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Tool-Sharing Cabinet",
+      "stimulusText": "[1] Our apartment building could reduce waste by creating a cabinet of tools that residents borrow for small repairs. [2] Many people need a drill, level, or wrench only a few times each year. [3] Purchasing separate sets for every household uses money and storage space. [4] The cabinet should stand in the locked laundry room, the manager can supervise access there. [5] Each tool would have a numbered space and a checkout card. [6] Residents should inspect borrowed items before returning them and report any damage. [7] The laundry room has six washing machines. [8] A three-month trial would show which tools are useful and whether the checkout system works."
+    },
+    {
+      "id": "TACHS-WE6-015",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which revision corrects the error in sentence 4?",
+      "choices": {
+        "A": "The cabinet should stand in the locked laundry room the manager can supervise access there.",
+        "B": "The cabinet should stand in the locked laundry room, because, the manager can supervise access there.",
+        "C": "The cabinet should stand in the locked laundry room; the manager can supervise access there.",
+        "D": "Standing in the laundry room, access supervised by the manager."
+      },
+      "correct": "C",
+      "correctAnswer": "The cabinet should stand in the locked laundry room; the manager can supervise access there.",
+      "explanation": "A semicolon correctly joins the two closely related independent clauses.",
+      "stimulusId": "TACHS-WE6-S03",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Tool-Sharing Cabinet",
+      "stimulusText": "[1] Our apartment building could reduce waste by creating a cabinet of tools that residents borrow for small repairs. [2] Many people need a drill, level, or wrench only a few times each year. [3] Purchasing separate sets for every household uses money and storage space. [4] The cabinet should stand in the locked laundry room, the manager can supervise access there. [5] Each tool would have a numbered space and a checkout card. [6] Residents should inspect borrowed items before returning them and report any damage. [7] The laundry room has six washing machines. [8] A three-month trial would show which tools are useful and whether the checkout system works."
+    },
+    {
+      "id": "TACHS-WE6-016",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 6 is most concise?",
+      "choices": {
+        "A": "Residents, who are residents, should inspect the borrowed items before they return them back and report damage.",
+        "B": "Residents should inspect and report damage to tools before returning them.",
+        "C": "Before returning tools back, damage should be reported by residents after inspection.",
+        "D": "Inspection of borrowed tool items is something residents should do prior before returns."
+      },
+      "correct": "B",
+      "correctAnswer": "Residents should inspect and report damage to tools before returning them.",
+      "explanation": "Choice B states both responsibilities clearly and removes unnecessary repetition.",
+      "stimulusId": "TACHS-WE6-S03",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Tool-Sharing Cabinet",
+      "stimulusText": "[1] Our apartment building could reduce waste by creating a cabinet of tools that residents borrow for small repairs. [2] Many people need a drill, level, or wrench only a few times each year. [3] Purchasing separate sets for every household uses money and storage space. [4] The cabinet should stand in the locked laundry room, the manager can supervise access there. [5] Each tool would have a numbered space and a checkout card. [6] Residents should inspect borrowed items before returning them and report any damage. [7] The laundry room has six washing machines. [8] A three-month trial would show which tools are useful and whether the checkout system works."
+    },
+    {
+      "id": "TACHS-WE6-017",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence should be removed because it is irrelevant to the proposal?",
+      "choices": {
+        "A": "Sentence 3",
+        "B": "Sentence 5",
+        "C": "Sentence 7",
+        "D": "Sentence 8"
+      },
+      "correct": "C",
+      "correctAnswer": "Sentence 7",
+      "explanation": "The number of washing machines does not help explain the tool-sharing system.",
+      "stimulusId": "TACHS-WE6-S03",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Tool-Sharing Cabinet",
+      "stimulusText": "[1] Our apartment building could reduce waste by creating a cabinet of tools that residents borrow for small repairs. [2] Many people need a drill, level, or wrench only a few times each year. [3] Purchasing separate sets for every household uses money and storage space. [4] The cabinet should stand in the locked laundry room, the manager can supervise access there. [5] Each tool would have a numbered space and a checkout card. [6] Residents should inspect borrowed items before returning them and report any damage. [7] The laundry room has six washing machines. [8] A three-month trial would show which tools are useful and whether the checkout system works."
+    },
+    {
+      "id": "TACHS-WE6-018",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which revision corrects the error in sentence 3?",
+      "choices": {
+        "A": "Next, shallow channels has been dug to guide runoff away from the trail.",
+        "B": "Next, a shallow channels was dug to guide runoff away from the trail.",
+        "C": "Next, shallow channels is dug to guide runoff away from the trail.",
+        "D": "Next, shallow channels were dug to guide runoff away from the trail."
+      },
+      "correct": "D",
+      "correctAnswer": "Next, shallow channels were dug to guide runoff away from the trail.",
+      "explanation": "The plural subject “channels” requires the plural past-tense verb “were.”",
+      "stimulusId": "TACHS-WE6-S04",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Restoring a Footpath",
+      "stimulusText": "[1] Last month, volunteers repaired a muddy footpath beside Pine Creek. [2] First, we cleared fallen branches and marked areas where water collected. [3] Next, shallow channels was dug to guide runoff away from the trail. [4] Volunteers then spread gravel over the lowest sections. [5] The crew worked carefully. [6] Finally, we installed two signs asking walkers to remain on the path while nearby plants recover. [7] Because the work altered how water moved, we plan to inspect the path after heavy rain. [8] Regular checks will help us correct small problems before they damage the trail again."
+    },
+    {
+      "id": "TACHS-WE6-019",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 5 provides the most useful detail?",
+      "choices": {
+        "A": "The crew worked in a way that was careful.",
+        "B": "The volunteers were all doing various things very carefully.",
+        "C": "There was a crew, and it did some work there.",
+        "D": "Using rakes, the crew shaped the gravel into a firm, slightly raised surface."
+      },
+      "correct": "D",
+      "correctAnswer": "Using rakes, the crew shaped the gravel into a firm, slightly raised surface.",
+      "explanation": "Choice D replaces a vague statement with a specific action that develops the repair process.",
+      "stimulusId": "TACHS-WE6-S04",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Restoring a Footpath",
+      "stimulusText": "[1] Last month, volunteers repaired a muddy footpath beside Pine Creek. [2] First, we cleared fallen branches and marked areas where water collected. [3] Next, shallow channels was dug to guide runoff away from the trail. [4] Volunteers then spread gravel over the lowest sections. [5] The crew worked carefully. [6] Finally, we installed two signs asking walkers to remain on the path while nearby plants recover. [7] Because the work altered how water moved, we plan to inspect the path after heavy rain. [8] Regular checks will help us correct small problems before they damage the trail again."
+    },
+    {
+      "id": "TACHS-WE6-020",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence best explains why the path will be inspected after heavy rain?",
+      "choices": {
+        "A": "Rain always falls at the same rate near Pine Creek.",
+        "B": "The inspection will reveal whether the new channels direct runoff as intended.",
+        "C": "The signs may become difficult for walkers to read.",
+        "D": "Volunteers prefer working during wet weather."
+      },
+      "correct": "B",
+      "correctAnswer": "The inspection will reveal whether the new channels direct runoff as intended.",
+      "explanation": "The added sentence directly connects later inspection to evaluating the drainage work.",
+      "stimulusId": "TACHS-WE6-S04",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Restoring a Footpath",
+      "stimulusText": "[1] Last month, volunteers repaired a muddy footpath beside Pine Creek. [2] First, we cleared fallen branches and marked areas where water collected. [3] Next, shallow channels was dug to guide runoff away from the trail. [4] Volunteers then spread gravel over the lowest sections. [5] The crew worked carefully. [6] Finally, we installed two signs asking walkers to remain on the path while nearby plants recover. [7] Because the work altered how water moved, we plan to inspect the path after heavy rain. [8] Regular checks will help us correct small problems before they damage the trail again."
+    },
+    {
+      "id": "TACHS-WE6-021",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which revision most effectively combines sentences 7 and 8?",
+      "choices": {
+        "A": "The work altered water, regular checks after rain, correcting problems before damage again.",
+        "B": "Inspecting after heavy rain and because water moved differently and small problems.",
+        "C": "The trail could be damaged, and because we plan inspections, small problems.",
+        "D": "Because the work altered how water moved, inspections after heavy rain will help us correct small problems before they damage the trail again."
+      },
+      "correct": "D",
+      "correctAnswer": "Because the work altered how water moved, inspections after heavy rain will help us correct small problems before they damage the trail again.",
+      "explanation": "Choice D clearly expresses the cause, planned inspection, and purpose in one complete sentence.",
+      "stimulusId": "TACHS-WE6-S04",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Restoring a Footpath",
+      "stimulusText": "[1] Last month, volunteers repaired a muddy footpath beside Pine Creek. [2] First, we cleared fallen branches and marked areas where water collected. [3] Next, shallow channels was dug to guide runoff away from the trail. [4] Volunteers then spread gravel over the lowest sections. [5] The crew worked carefully. [6] Finally, we installed two signs asking walkers to remain on the path while nearby plants recover. [7] Because the work altered how water moved, we plan to inspect the path after heavy rain. [8] Regular checks will help us correct small problems before they damage the trail again."
+    },
+    {
+      "id": "TACHS-WE6-022",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence is written correctly?",
+      "choices": {
+        "A": "The puppy wagged it’s tail when the door opened.",
+        "B": "Neither answer are supported by the passage.",
+        "C": "The hikers packed their lunches before leaving.",
+        "D": "She performed the experiment more careful than I did."
+      },
+      "correct": "C",
+      "correctAnswer": "The hikers packed their lunches before leaving.",
+      "explanation": "The plural subject and possessive pronoun agree, and the sentence uses standard grammar."
+    },
+    {
+      "id": "TACHS-WE6-023",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence uses verb tense correctly?",
+      "choices": {
+        "A": "By the time the bell rang, we had finished the quiz.",
+        "B": "Before the guests arrived, Dad prepares the table.",
+        "C": "Last week, our class is visiting the planetarium.",
+        "D": "Yesterday, Mina walks home and found a lost glove."
+      },
+      "correct": "A",
+      "correctAnswer": "By the time the bell rang, we had finished the quiz.",
+      "explanation": "Past perfect “had finished” correctly shows an action completed before the bell rang."
+    },
+    {
+      "id": "TACHS-WE6-024",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which numbered line contains an error in standard written US English?\nLine 1: Each of the paintings has a wooden frame.\nLine 2: The largest painting hangs above the stairs.\nLine 3: Its bright colors attract many visitor.\nLine 4: A small label identifies the artist.",
+      "choices": {
+        "A": "Line 3",
+        "B": "Line 2",
+        "C": "Line 1",
+        "D": "Line 4"
+      },
+      "correct": "A",
+      "correctAnswer": "Line 3",
+      "explanation": "Line 3 requires the plural noun “visitors” after the quantity word “many.”"
+    },
+    {
+      "id": "TACHS-WE6-025",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which numbered line contains an error in standard written US English?\nLine 1: The debate team practiced in the library.\nLine 2: Two students reviewed the opening argument.\nLine 3: Their coach listened and took notes.\nLine 4: Everyone spoke confident before the competition.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 2",
+        "C": "Line 4",
+        "D": "Line 3"
+      },
+      "correct": "C",
+      "correctAnswer": "Line 4",
+      "explanation": "Line 4 requires the adverb “confidently” to modify the verb “spoke.”"
+    },
+    {
+      "id": "TACHS-WE6-026",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which numbered line contains an error in standard written US English?\nLine 1: My brother and me built a model bridge.\nLine 2: We tested it with small metal weights.\nLine 3: The center beam bent slightly under pressure.\nLine 4: Our second design supported a heavier load.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 2",
+        "C": "Line 3",
+        "D": "Line 4"
+      },
+      "correct": "A",
+      "correctAnswer": "Line 1",
+      "explanation": "Line 1 requires the subject pronoun “I”: “My brother and I built.”"
+    },
+    {
+      "id": "TACHS-WE6-027",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence should be removed because it does not develop the audio-tour plan?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 7",
+        "C": "Sentence 5",
+        "D": "Sentence 4"
+      },
+      "correct": "D",
+      "correctAnswer": "Sentence 4",
+      "explanation": "Sentence 4 mentions reference books but does not explain the tour’s content, production, or testing.",
+      "stimulusId": "TACHS-WE6-S05",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Recording an Audio Tour",
+      "stimulusText": "[1] Our history club is creating a short audio tour of the old train depot. [2] Visitors will scan a code at five marked locations to hear a one-minute recording. [3] Each recording should identify one visible feature, explain why it mattered, and include a question that encourages visitors to look closely. [4] Long lists of dates are available in many reference books. [5] To keep the narration natural, students will practice reading aloud before recording. [6] Background sounds will be recorded separately, they can be adjusted without covering the speaker’s voice. [7] Finally, another class will test the tour and report any confusing directions. [8] Their feedback will help us revise the recordings before the public opening."
+    },
+    {
+      "id": "TACHS-WE6-028",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which revision corrects the error in sentence 6?",
+      "choices": {
+        "A": "Background sounds will be recorded separately, and they can be adjusted without covering the speaker’s voice.",
+        "B": "Background sounds recorded separately, adjusting without covering the speaker’s voice.",
+        "C": "Because background sounds will be recorded separately and can be adjusted.",
+        "D": "Background sounds will be recorded separately they can be adjusted, without covering the voice."
+      },
+      "correct": "A",
+      "correctAnswer": "Background sounds will be recorded separately, and they can be adjusted without covering the speaker’s voice.",
+      "explanation": "A comma and coordinating conjunction correctly join the two independent clauses.",
+      "stimulusId": "TACHS-WE6-S05",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Recording an Audio Tour",
+      "stimulusText": "[1] Our history club is creating a short audio tour of the old train depot. [2] Visitors will scan a code at five marked locations to hear a one-minute recording. [3] Each recording should identify one visible feature, explain why it mattered, and include a question that encourages visitors to look closely. [4] Long lists of dates are available in many reference books. [5] To keep the narration natural, students will practice reading aloud before recording. [6] Background sounds will be recorded separately, they can be adjusted without covering the speaker’s voice. [7] Finally, another class will test the tour and report any confusing directions. [8] Their feedback will help us revise the recordings before the public opening."
+    },
+    {
+      "id": "TACHS-WE6-029",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 3 is most concise while preserving all key ideas?",
+      "choices": {
+        "A": "Each and every recording should identify one feature that is visible to the eye and explain why it was important in importance.",
+        "B": "One visible feature should be identified in each recording, and an explanation and looking question should also be included.",
+        "C": "The recordings should have visible things, explanations, and a question of some kind for people.",
+        "D": "Each recording should point out a visible feature, explain its importance, and ask listeners to observe it closely."
+      },
+      "correct": "D",
+      "correctAnswer": "Each recording should point out a visible feature, explain its importance, and ask listeners to observe it closely.",
+      "explanation": "Choice D preserves the three content goals with clear parallel verbs and no unnecessary wording.",
+      "stimulusId": "TACHS-WE6-S05",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Recording an Audio Tour",
+      "stimulusText": "[1] Our history club is creating a short audio tour of the old train depot. [2] Visitors will scan a code at five marked locations to hear a one-minute recording. [3] Each recording should identify one visible feature, explain why it mattered, and include a question that encourages visitors to look closely. [4] Long lists of dates are available in many reference books. [5] To keep the narration natural, students will practice reading aloud before recording. [6] Background sounds will be recorded separately, they can be adjusted without covering the speaker’s voice. [7] Finally, another class will test the tour and report any confusing directions. [8] Their feedback will help us revise the recordings before the public opening."
+    },
+    {
+      "id": "TACHS-WE6-030",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence would best follow sentence 2?",
+      "choices": {
+        "A": "The depot roof was repaired twelve years ago.",
+        "B": "Club meetings usually end at four o’clock.",
+        "C": "Some visitors prefer headphones with soft ear cushions.",
+        "D": "A map at the entrance will show the numbered route between those locations."
+      },
+      "correct": "D",
+      "correctAnswer": "A map at the entrance will show the numbered route between those locations.",
+      "explanation": "A route map logically explains how visitors will move among the five marked listening locations.",
+      "stimulusId": "TACHS-WE6-S05",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Recording an Audio Tour",
+      "stimulusText": "[1] Our history club is creating a short audio tour of the old train depot. [2] Visitors will scan a code at five marked locations to hear a one-minute recording. [3] Each recording should identify one visible feature, explain why it mattered, and include a question that encourages visitors to look closely. [4] Long lists of dates are available in many reference books. [5] To keep the narration natural, students will practice reading aloud before recording. [6] Background sounds will be recorded separately, they can be adjusted without covering the speaker’s voice. [7] Finally, another class will test the tour and report any confusing directions. [8] Their feedback will help us revise the recordings before the public opening."
+    },
+    {
+      "id": "TACHS-WE6-031",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which revision corrects the error in sentence 7?",
+      "choices": {
+        "A": "Reusing the main signs reduces both material waste and the hours spend on painting.",
+        "B": "Reusing the main signs reduce both material waste and the hours spent on painting.",
+        "C": "Reusing the main signs reduces both material waste and the hours spent on painting.",
+        "D": "Reusing the main signs reduces both material waste and the hours spending on painting."
+      },
+      "correct": "C",
+      "correctAnswer": "Reusing the main signs reduces both material waste and the hours spent on painting.",
+      "explanation": "The singular gerund subject takes “reduces,” and “hours spent” uses the correct participle.",
+      "stimulusId": "TACHS-WE6-S06",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Signs for More Than One Festival",
+      "stimulusText": "[1] The neighborhood arts festival needs directional signs every year. [2] In the past, organizers printed dates directly on the signs, so most could not be reused. [3] This year, volunteers painted permanent arrows and place names on sturdy boards. [4] Dates and times appear on removable panels attached with clips. [5] After the festival, the boards are stored flat in labeled sleeves. [6] Next year, only the small information panels will need to be replaced. [7] Reusing the main signs reduces both material waste and the hours spending on painting. [8] The new system also allows a damaged panel to be replaced without discarding an entire sign."
+    },
+    {
+      "id": "TACHS-WE6-032",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which revision most effectively combines sentences 5 and 6?",
+      "choices": {
+        "A": "Stored flat in labeled sleeves after the festival, the boards can be reused next year with only the small information panels replaced.",
+        "B": "The boards are in sleeves because next year and replaced panels.",
+        "C": "Storing boards, the information panels will replace them next year.",
+        "D": "After the festival, the boards stored flat, and next year small panels only."
+      },
+      "correct": "A",
+      "correctAnswer": "Stored flat in labeled sleeves after the festival, the boards can be reused next year with only the small information panels replaced.",
+      "explanation": "Choice A clearly connects proper storage with reuse and avoids a misplaced modifier.",
+      "stimulusId": "TACHS-WE6-S06",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Signs for More Than One Festival",
+      "stimulusText": "[1] The neighborhood arts festival needs directional signs every year. [2] In the past, organizers printed dates directly on the signs, so most could not be reused. [3] This year, volunteers painted permanent arrows and place names on sturdy boards. [4] Dates and times appear on removable panels attached with clips. [5] After the festival, the boards are stored flat in labeled sleeves. [6] Next year, only the small information panels will need to be replaced. [7] Reusing the main signs reduces both material waste and the hours spending on painting. [8] The new system also allows a damaged panel to be replaced without discarding an entire sign."
+    },
+    {
+      "id": "TACHS-WE6-033",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which phrase best replaces “The new system” in sentence 8 to make the reference more precise?",
+      "choices": {
+        "A": "The whole idea mentioned",
+        "B": "That sort of thing",
+        "C": "This modular sign design",
+        "D": "It"
+      },
+      "correct": "C",
+      "correctAnswer": "This modular sign design",
+      "explanation": "“This modular sign design” names the system precisely and clarifies why individual panels can be replaced.",
+      "stimulusId": "TACHS-WE6-S06",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Signs for More Than One Festival",
+      "stimulusText": "[1] The neighborhood arts festival needs directional signs every year. [2] In the past, organizers printed dates directly on the signs, so most could not be reused. [3] This year, volunteers painted permanent arrows and place names on sturdy boards. [4] Dates and times appear on removable panels attached with clips. [5] After the festival, the boards are stored flat in labeled sleeves. [6] Next year, only the small information panels will need to be replaced. [7] Reusing the main signs reduces both material waste and the hours spending on painting. [8] The new system also allows a damaged panel to be replaced without discarding an entire sign."
+    },
+    {
+      "id": "TACHS-WE6-034",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence is written correctly?",
+      "choices": {
+        "A": "The blue backpack is heavier than the red one.",
+        "B": "There are less chairs in this room than in the auditorium.",
+        "C": "Of the two routes, this one is the shortest.",
+        "D": "Jamal completed the puzzle more quicker than I did."
+      },
+      "correct": "A",
+      "correctAnswer": "The blue backpack is heavier than the red one.",
+      "explanation": "“Heavier than” makes a correct comparison between two backpacks."
+    },
+    {
+      "id": "TACHS-WE6-035",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which sentence uses parallel structure correctly?",
+      "choices": {
+        "A": "The committee planned the event, assigning the tasks, and the schedule was confirmed.",
+        "B": "The committee planned the event, assigned the tasks, and confirmed the schedule.",
+        "C": "The committee was planning the event, to assign tasks, and confirmed the schedule.",
+        "D": "Planning the event, the tasks were assigned, and schedule confirmation."
+      },
+      "correct": "B",
+      "correctAnswer": "The committee planned the event, assigned the tasks, and confirmed the schedule.",
+      "explanation": "Choice B uses three parallel past-tense verbs: “planned,” “assigned,” and “confirmed.”"
+    },
+    {
+      "id": "TACHS-WE6-036",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which sentence is most appropriate for a formal request to a principal?",
+      "choices": {
+        "A": "Hey, can you give us the gym Friday?",
+        "B": "Our club respectfully requests permission to use the gym on Friday afternoon.",
+        "C": "The gym would be cool for our thing on Friday.",
+        "D": "We gotta use the gym, so let us know."
+      },
+      "correct": "B",
+      "correctAnswer": "Our club respectfully requests permission to use the gym on Friday afternoon.",
+      "explanation": "Choice B uses a specific, courteous, and appropriately formal tone."
+    },
+    {
+      "id": "TACHS-WE6-037",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which numbered line contains an error in standard written US English?\nLine 1: The package arrived earlier than expected.\nLine 2: Its contents were protected by thick paper.\nLine 3: We opened the box careful with a small knife.\nLine 4: Nothing inside had been damaged.",
+      "choices": {
+        "A": "Line 3",
+        "B": "Line 2",
+        "C": "Line 1",
+        "D": "Line 4"
+      },
+      "correct": "A",
+      "correctAnswer": "Line 3",
+      "explanation": "Line 3 requires the adverb “carefully” to modify “opened.”"
+    },
+    {
+      "id": "TACHS-WE6-038",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which numbered line contains an error in standard written US English?\nLine 1: Before sunrise, the campers packed their tents.\nLine 2: Luis checked that no equipment had been left behind.\nLine 3: The group followed the marked trail toward the lake.\nLine 4: At noon, they will reach the ranger station.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 2",
+        "C": "Line 4",
+        "D": "Line 3"
+      },
+      "correct": "C",
+      "correctAnswer": "Line 4",
+      "explanation": "Line 4 incorrectly shifts to future tense; “reached” should match the past-tense context."
+    },
+    {
+      "id": "TACHS-WE6-039",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence best states the problem that the proposed log would solve?",
+      "choices": {
+        "A": "Sentence 4",
+        "B": "Sentence 1",
+        "C": "Sentence 2",
+        "D": "Sentence 6"
+      },
+      "correct": "C",
+      "correctAnswer": "Sentence 2",
+      "explanation": "Sentence 2 identifies the missing communication that causes later groups to repeat troubleshooting.",
+      "stimulusId": "TACHS-WE6-S07",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Repair Log for Classroom Equipment",
+      "stimulusText": "[1] Our technology classroom contains cameras, tripods, microphones, and charging cables used by many groups. [2] When an item stops working, students sometimes place it back on the shelf without describing the problem. [3] The next group may waste time testing the same faulty equipment. [4] A repair log beside the storage cabinet would allow users to record the item number, the date, and a brief description of the problem. [5] Entries should be specific, “Microphone 4 produces a crackling sound” is more useful than “broken.” [6] The teacher could mark whether an item is awaiting inspection, being repaired, or ready to use. [7] Clear records would prevent repeated testing and help the class decide which replacements are most urgent."
+    },
+    {
+      "id": "TACHS-WE6-040",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which revision corrects the error in sentence 5?",
+      "choices": {
+        "A": "Entries should be specific; “Microphone 4 produces a crackling sound” is more useful than “broken.”",
+        "B": "Entries should be specific “Microphone 4 produces a crackling sound,” being more useful than “broken.”",
+        "C": "Entries should be specific, and because “Microphone 4 produces a crackling sound” is useful.",
+        "D": "Specific entries, “Microphone 4 produces a crackling sound” more useful than “broken.”"
+      },
+      "correct": "A",
+      "correctAnswer": "Entries should be specific; “Microphone 4 produces a crackling sound” is more useful than “broken.”",
+      "explanation": "A semicolon correctly joins the independent clause with the complete example that follows.",
+      "stimulusId": "TACHS-WE6-S07",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Repair Log for Classroom Equipment",
+      "stimulusText": "[1] Our technology classroom contains cameras, tripods, microphones, and charging cables used by many groups. [2] When an item stops working, students sometimes place it back on the shelf without describing the problem. [3] The next group may waste time testing the same faulty equipment. [4] A repair log beside the storage cabinet would allow users to record the item number, the date, and a brief description of the problem. [5] Entries should be specific, “Microphone 4 produces a crackling sound” is more useful than “broken.” [6] The teacher could mark whether an item is awaiting inspection, being repaired, or ready to use. [7] Clear records would prevent repeated testing and help the class decide which replacements are most urgent."
+    },
+    {
+      "id": "TACHS-WE6-041",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which phrase best replaces “stops working” in sentence 2 to make the meaning more precise?",
+      "choices": {
+        "A": "does a thing incorrectly",
+        "B": "does not function as expected",
+        "C": "is whatever is wrong",
+        "D": "gets kind of weird"
+      },
+      "correct": "B",
+      "correctAnswer": "does not function as expected",
+      "explanation": "“Does not function as expected” is precise and appropriately formal without claiming the item is completely unusable.",
+      "stimulusId": "TACHS-WE6-S07",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Repair Log for Classroom Equipment",
+      "stimulusText": "[1] Our technology classroom contains cameras, tripods, microphones, and charging cables used by many groups. [2] When an item stops working, students sometimes place it back on the shelf without describing the problem. [3] The next group may waste time testing the same faulty equipment. [4] A repair log beside the storage cabinet would allow users to record the item number, the date, and a brief description of the problem. [5] Entries should be specific, “Microphone 4 produces a crackling sound” is more useful than “broken.” [6] The teacher could mark whether an item is awaiting inspection, being repaired, or ready to use. [7] Clear records would prevent repeated testing and help the class decide which replacements are most urgent."
+    },
+    {
+      "id": "TACHS-WE6-042",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence would provide the best conclusion after sentence 7?",
+      "choices": {
+        "A": "The cabinet has three shelves and two doors.",
+        "B": "Cameras were invented before digital microphones.",
+        "C": "Some classes meet in the morning and others meet after lunch.",
+        "D": "Students could review the log each month to identify recurring equipment problems."
+      },
+      "correct": "D",
+      "correctAnswer": "Students could review the log each month to identify recurring equipment problems.",
+      "explanation": "A monthly review logically extends the log’s purpose by using accumulated records to identify patterns.",
+      "stimulusId": "TACHS-WE6-S07",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Repair Log for Classroom Equipment",
+      "stimulusText": "[1] Our technology classroom contains cameras, tripods, microphones, and charging cables used by many groups. [2] When an item stops working, students sometimes place it back on the shelf without describing the problem. [3] The next group may waste time testing the same faulty equipment. [4] A repair log beside the storage cabinet would allow users to record the item number, the date, and a brief description of the problem. [5] Entries should be specific, “Microphone 4 produces a crackling sound” is more useful than “broken.” [6] The teacher could mark whether an item is awaiting inspection, being repaired, or ready to use. [7] Clear records would prevent repeated testing and help the class decide which replacements are most urgent."
+    },
+    {
+      "id": "TACHS-WE6-043",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which revision corrects the error in sentence 6?",
+      "choices": {
+        "A": "By day ten, however, both covered plots is moister than an uncovered comparison area.",
+        "B": "By day ten, however, both covered plots has been moister than an uncovered comparison area.",
+        "C": "By day ten, however, both covered plot was moister than an uncovered comparison area.",
+        "D": "By day ten, however, both covered plots were moister than an uncovered comparison area."
+      },
+      "correct": "D",
+      "correctAnswer": "By day ten, however, both covered plots were moister than an uncovered comparison area.",
+      "explanation": "The plural subject “plots” requires the plural past-tense verb “were.”",
+      "stimulusId": "TACHS-WE6-S08",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Comparing Two Soil Covers",
+      "stimulusText": "[1] We compared how straw and wood chips affected moisture in two equal garden plots. [2] Before adding the covers, we gave each plot the same amount of water. [3] One plot received a five-centimeter layer of straw; the other received an equally deep layer of wood chips. [4] Moisture was measured at the same depth each morning for ten days. [5] The straw-covered plot lost water fastest during the first three days. [6] By day ten, however, both covered plots was moister than an uncovered comparison area. [7] The trial suggests that either cover can slow moisture loss, but a longer study would be needed to compare their performance in different weather."
+    },
+    {
+      "id": "TACHS-WE6-044",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which revision most effectively combines sentences 2 and 3?",
+      "choices": {
+        "A": "After receiving equal amounts of water, one plot was covered with five centimeters of straw and the other with five centimeters of wood chips.",
+        "B": "Before covers, water was given, one plot straw and one wood chips equally deep.",
+        "C": "The plots had water because straw, while wood chips were equal in another.",
+        "D": "We gave each plot water, the covers were straw and wood chips, they were five centimeters."
+      },
+      "correct": "A",
+      "correctAnswer": "After receiving equal amounts of water, one plot was covered with five centimeters of straw and the other with five centimeters of wood chips.",
+      "explanation": "Choice A clearly combines the controlled watering and equal cover depths without a run-on or misplaced modifier.",
+      "stimulusId": "TACHS-WE6-S08",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Comparing Two Soil Covers",
+      "stimulusText": "[1] We compared how straw and wood chips affected moisture in two equal garden plots. [2] Before adding the covers, we gave each plot the same amount of water. [3] One plot received a five-centimeter layer of straw; the other received an equally deep layer of wood chips. [4] Moisture was measured at the same depth each morning for ten days. [5] The straw-covered plot lost water fastest during the first three days. [6] By day ten, however, both covered plots was moister than an uncovered comparison area. [7] The trial suggests that either cover can slow moisture loss, but a longer study would be needed to compare their performance in different weather."
+    },
+    {
+      "id": "TACHS-WE6-045",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 5 is most precise?",
+      "choices": {
+        "A": "The straw plot did a different thing at first.",
+        "B": "During days 1 through 3, moisture readings decreased more quickly in the straw-covered plot.",
+        "C": "Water was lost by something during some days.",
+        "D": "The straw was faster, and that was how the plot went."
+      },
+      "correct": "B",
+      "correctAnswer": "During days 1 through 3, moisture readings decreased more quickly in the straw-covered plot.",
+      "explanation": "Choice B specifies the time period, measurement, direction of change, and plot involved.",
+      "stimulusId": "TACHS-WE6-S08",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Comparing Two Soil Covers",
+      "stimulusText": "[1] We compared how straw and wood chips affected moisture in two equal garden plots. [2] Before adding the covers, we gave each plot the same amount of water. [3] One plot received a five-centimeter layer of straw; the other received an equally deep layer of wood chips. [4] Moisture was measured at the same depth each morning for ten days. [5] The straw-covered plot lost water fastest during the first three days. [6] By day ten, however, both covered plots was moister than an uncovered comparison area. [7] The trial suggests that either cover can slow moisture loss, but a longer study would be needed to compare their performance in different weather."
+    },
+    {
+      "id": "TACHS-WE6-046",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence is written correctly?",
+      "choices": {
+        "A": "Each of the volunteers has received a name tag.",
+        "B": "Neither of the bicycles need a new chain.",
+        "C": "The box of old photographs were stored upstairs.",
+        "D": "One of the musicians have arrived early."
+      },
+      "correct": "A",
+      "correctAnswer": "Each of the volunteers has received a name tag.",
+      "explanation": "The singular subject “Each” correctly takes the verb “has.”"
+    },
+    {
+      "id": "TACHS-WE6-047",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence is written correctly?",
+      "choices": {
+        "A": "If I was taller, I would reach the shelf.",
+        "B": "She asked whether the package had arrived.",
+        "C": "The dog laid on the rug all afternoon.",
+        "D": "We should of checked the schedule earlier."
+      },
+      "correct": "B",
+      "correctAnswer": "She asked whether the package had arrived.",
+      "explanation": "“Whether” and past perfect “had arrived” are used correctly in the reported question."
+    },
+    {
+      "id": "TACHS-WE6-048",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which numbered line contains an error in standard written US English?\nLine 1: The guide described the cave’s limestone walls.\nLine 2: We walked slowly across the damp floor.\nLine 3: Everyone kept there flashlight pointed downward.\nLine 4: At the exit, we cleaned mud from our shoes.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 2",
+        "C": "Line 3",
+        "D": "Line 4"
+      },
+      "correct": "C",
+      "correctAnswer": "Line 3",
+      "explanation": "Line 3 requires the possessive word “their,” not the location word “there.”"
+    },
+    {
+      "id": "TACHS-WE6-049",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which numbered line contains an error in standard written US English?\nLine 1: The recipe calls for two ripe pears.\nLine 2: First, slice the fruit into thin pieces.\nLine 3: Next, arrange the slices evenly in the pan.\nLine 4: Bake them until the crust looked golden.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 2",
+        "C": "Line 3",
+        "D": "Line 4"
+      },
+      "correct": "D",
+      "correctAnswer": "Line 4",
+      "explanation": "Line 4 should use “looks” to maintain the present-tense instructional style."
+    },
+    {
+      "id": "TACHS-WE6-050",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which numbered line contains an error in standard written US English?\nLine 1: The librarian placed the returned books on a cart.\nLine 2: A volunteer sorted them by call number.\nLine 3: Afterward, the shelves were filled with book’s.\nLine 4: The empty cart was returned to the desk.",
+      "choices": {
+        "A": "Line 3",
+        "B": "Line 2",
+        "C": "Line 1",
+        "D": "Line 4"
+      },
+      "correct": "A",
+      "correctAnswer": "Line 3",
+      "explanation": "Line 3 incorrectly uses an apostrophe for a plural; “books” is the correct form."
+    }
+  ]
+}

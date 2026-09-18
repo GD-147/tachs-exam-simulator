@@ -1,0 +1,979 @@
+{
+  "title": "TACHS Written Expression Practice Test 08",
+  "examFamily": "tachs",
+  "examNumber": 8,
+  "section": "Written Expression",
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "TACHS-WE8-001",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence should be removed because it does not develop the monitoring process?",
+      "choices": {
+        "A": "Sentence 5",
+        "B": "Sentence 3",
+        "C": "Sentence 2",
+        "D": "Sentence 7"
+      },
+      "correct": "A",
+      "correctAnswer": "Sentence 5",
+      "explanation": "The pile’s location behind the shed does not explain measurement, temperature change, or response actions.",
+      "stimulusId": "TACHS-WE8-S01",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Monitoring a Compost Pile",
+      "stimulusText": "[1] Our school garden started a compost pile for fruit scraps and dry leaves. [2] To understand how the pile changes, students record its internal temperature twice each week. [3] We insert the same thermometer to the same depth and wait one minute before reading it. [4] The temperature rose during the first two weeks as microbes broke down the material. [5] The pile is located behind the storage shed. [6] When the center cooled, we mixed the outer material inward and added a small amount of water. [7] Keeping a consistent record helps us connect each change in temperature with the actions taken. [8] The log will also help next year’s class compare its composting process with ours."
+    },
+    {
+      "id": "TACHS-WE8-002",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which revision most effectively combines sentences 2 and 3?",
+      "choices": {
+        "A": "Using a thermometer and because the pile changes, twice weekly at the same depth.",
+        "B": "Students record temperature twice, the thermometer same depth, waiting one minute each week.",
+        "C": "Twice each week, students insert the same thermometer to the same depth, wait one minute, and record the compost’s internal temperature.",
+        "D": "The same thermometer, students wait and record, it is inserted to a depth."
+      },
+      "correct": "C",
+      "correctAnswer": "Twice each week, students insert the same thermometer to the same depth, wait one minute, and record the compost’s internal temperature.",
+      "explanation": "Choice C combines the measurement schedule and procedure with clear parallel verbs.",
+      "stimulusId": "TACHS-WE8-S01",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Monitoring a Compost Pile",
+      "stimulusText": "[1] Our school garden started a compost pile for fruit scraps and dry leaves. [2] To understand how the pile changes, students record its internal temperature twice each week. [3] We insert the same thermometer to the same depth and wait one minute before reading it. [4] The temperature rose during the first two weeks as microbes broke down the material. [5] The pile is located behind the storage shed. [6] When the center cooled, we mixed the outer material inward and added a small amount of water. [7] Keeping a consistent record helps us connect each change in temperature with the actions taken. [8] The log will also help next year’s class compare its composting process with ours."
+    },
+    {
+      "id": "TACHS-WE8-003",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which phrase best replaces “the actions taken” in sentence 7?",
+      "choices": {
+        "A": "the stuff that we did to it",
+        "B": "whatever was done during that time",
+        "C": "various actions of different kinds",
+        "D": "mixing the pile or adding water"
+      },
+      "correct": "D",
+      "correctAnswer": "mixing the pile or adding water",
+      "explanation": "The replacement names the specific actions described earlier and removes vague wording.",
+      "stimulusId": "TACHS-WE8-S01",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Monitoring a Compost Pile",
+      "stimulusText": "[1] Our school garden started a compost pile for fruit scraps and dry leaves. [2] To understand how the pile changes, students record its internal temperature twice each week. [3] We insert the same thermometer to the same depth and wait one minute before reading it. [4] The temperature rose during the first two weeks as microbes broke down the material. [5] The pile is located behind the storage shed. [6] When the center cooled, we mixed the outer material inward and added a small amount of water. [7] Keeping a consistent record helps us connect each change in temperature with the actions taken. [8] The log will also help next year’s class compare its composting process with ours."
+    },
+    {
+      "id": "TACHS-WE8-004",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence would best follow sentence 4?",
+      "choices": {
+        "A": "Microbial activity often decreases as available material changes.",
+        "B": "The garden fence was painted last spring.",
+        "C": "Students prefer apples to pears at lunch.",
+        "D": "The storage shed contains several rakes."
+      },
+      "correct": "A",
+      "correctAnswer": "Microbial activity often decreases as available material changes.",
+      "explanation": "The sentence explains why the pile may later cool and prepares for the response described in sentence 6.",
+      "stimulusId": "TACHS-WE8-S01",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Monitoring a Compost Pile",
+      "stimulusText": "[1] Our school garden started a compost pile for fruit scraps and dry leaves. [2] To understand how the pile changes, students record its internal temperature twice each week. [3] We insert the same thermometer to the same depth and wait one minute before reading it. [4] The temperature rose during the first two weeks as microbes broke down the material. [5] The pile is located behind the storage shed. [6] When the center cooled, we mixed the outer material inward and added a small amount of water. [7] Keeping a consistent record helps us connect each change in temperature with the actions taken. [8] The log will also help next year’s class compare its composting process with ours."
+    },
+    {
+      "id": "TACHS-WE8-005",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which revision corrects the error in sentence 5?",
+      "choices": {
+        "A": "Each frame have a label with its identification number.",
+        "B": "Each frame has a label with its identification number.",
+        "C": "Each frames has a label with its identification number.",
+        "D": "Each frame having a label with its identification number."
+      },
+      "correct": "B",
+      "correctAnswer": "Each frame has a label with its identification number.",
+      "explanation": "The singular subject “Each frame” requires the singular verb “has.”",
+      "stimulusId": "TACHS-WE8-S02",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Student Art Lending Program",
+      "stimulusText": "[1] The school gallery displays more student artwork than can fit on its walls at one time. [2] The art club proposes lending framed pieces to classrooms for six-week periods. [3] Teachers could choose from a digital catalog that lists each work’s dimensions and handling instructions. [4] A condition form would be completed before and after every loan. [5] Each frame have a label with its identification number. [6] Borrowers would carry larger pieces with two people and avoid placing them in direct sunlight. [7] The program would allow more students to see the collection while protecting the artwork through clear procedures. [8] After the first semester, the club could review condition forms and revise the rules if needed."
+    },
+    {
+      "id": "TACHS-WE8-006",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which revision most effectively combines sentences 4 and 5?",
+      "choices": {
+        "A": "Condition forms before and after, each frame having a number for loans.",
+        "B": "Before and after each loan, borrowers would complete a condition form for the framed work identified by its numbered label.",
+        "C": "The numbered label and a condition form, borrowers before and after.",
+        "D": "Because every loan has a frame, forms being completed and labels."
+      },
+      "correct": "B",
+      "correctAnswer": "Before and after each loan, borrowers would complete a condition form for the framed work identified by its numbered label.",
+      "explanation": "Choice B connects the condition record, loan timing, and identification label in one complete sentence.",
+      "stimulusId": "TACHS-WE8-S02",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Student Art Lending Program",
+      "stimulusText": "[1] The school gallery displays more student artwork than can fit on its walls at one time. [2] The art club proposes lending framed pieces to classrooms for six-week periods. [3] Teachers could choose from a digital catalog that lists each work’s dimensions and handling instructions. [4] A condition form would be completed before and after every loan. [5] Each frame have a label with its identification number. [6] Borrowers would carry larger pieces with two people and avoid placing them in direct sunlight. [7] The program would allow more students to see the collection while protecting the artwork through clear procedures. [8] After the first semester, the club could review condition forms and revise the rules if needed."
+    },
+    {
+      "id": "TACHS-WE8-007",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 6 is most clear and concise?",
+      "choices": {
+        "A": "Two people would carry large pieces, and borrowers would keep all artwork out of direct sunlight.",
+        "B": "For large art, two people should both carry it, and nobody should put any of it where sun is direct.",
+        "C": "Borrowers, with pieces large and sunlight direct, would use two people and avoidance.",
+        "D": "Larger pieces would be carried by two people together, and direct sunlight would be avoided by borrowers."
+      },
+      "correct": "A",
+      "correctAnswer": "Two people would carry large pieces, and borrowers would keep all artwork out of direct sunlight.",
+      "explanation": "Choice A states the two handling rules directly and without redundancy.",
+      "stimulusId": "TACHS-WE8-S02",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Student Art Lending Program",
+      "stimulusText": "[1] The school gallery displays more student artwork than can fit on its walls at one time. [2] The art club proposes lending framed pieces to classrooms for six-week periods. [3] Teachers could choose from a digital catalog that lists each work’s dimensions and handling instructions. [4] A condition form would be completed before and after every loan. [5] Each frame have a label with its identification number. [6] Borrowers would carry larger pieces with two people and avoid placing them in direct sunlight. [7] The program would allow more students to see the collection while protecting the artwork through clear procedures. [8] After the first semester, the club could review condition forms and revise the rules if needed."
+    },
+    {
+      "id": "TACHS-WE8-008",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence would provide the best opening before sentence 1?",
+      "choices": {
+        "A": "Some classrooms have windows facing east.",
+        "B": "The gallery walls were painted white during summer.",
+        "C": "Student artwork can continue serving an audience even when it is not in the main gallery.",
+        "D": "Frames are available in many colors and materials."
+      },
+      "correct": "C",
+      "correctAnswer": "Student artwork can continue serving an audience even when it is not in the main gallery.",
+      "explanation": "The sentence introduces the value of sharing stored art and leads naturally to the lending proposal.",
+      "stimulusId": "TACHS-WE8-S02",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Student Art Lending Program",
+      "stimulusText": "[1] The school gallery displays more student artwork than can fit on its walls at one time. [2] The art club proposes lending framed pieces to classrooms for six-week periods. [3] Teachers could choose from a digital catalog that lists each work’s dimensions and handling instructions. [4] A condition form would be completed before and after every loan. [5] Each frame have a label with its identification number. [6] Borrowers would carry larger pieces with two people and avoid placing them in direct sunlight. [7] The program would allow more students to see the collection while protecting the artwork through clear procedures. [8] After the first semester, the club could review condition forms and revise the rules if needed."
+    },
+    {
+      "id": "TACHS-WE8-009",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence is written correctly?",
+      "choices": {
+        "A": "The number of applicants has increased.",
+        "B": "A number of applicants has arrived early.",
+        "C": "The applicants number have increased.",
+        "D": "The number of applicants have increased."
+      },
+      "correct": "A",
+      "correctAnswer": "The number of applicants has increased.",
+      "explanation": "The singular subject phrase “The number” correctly takes “has.”"
+    },
+    {
+      "id": "TACHS-WE8-010",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which sentence is punctuated correctly?",
+      "choices": {
+        "A": "After the meeting we reviewed, the notes.",
+        "B": "After the meeting, we reviewed the notes.",
+        "C": "After, the meeting we reviewed the notes.",
+        "D": "After the meeting we, reviewed the notes."
+      },
+      "correct": "B",
+      "correctAnswer": "After the meeting, we reviewed the notes.",
+      "explanation": "A comma correctly follows the introductory prepositional phrase."
+    },
+    {
+      "id": "TACHS-WE8-011",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which sentence makes the comparison most clearly and correctly?",
+      "choices": {
+        "A": "This route is safer than the old one.",
+        "B": "This route is safest than the old one.",
+        "C": "This route is more safer than the old one.",
+        "D": "This route is more safest than the old one."
+      },
+      "correct": "A",
+      "correctAnswer": "This route is safer than the old one.",
+      "explanation": "“Safer than” is the clear and correct comparative form for two routes."
+    },
+    {
+      "id": "TACHS-WE8-012",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which numbered line contains an error in standard written US English?\nLine 1: The wind pushed the empty boat from shore.\nLine 2: A rope kept it from drifting into the channel.\nLine 3: We pulled the boat back with no difficulty.\nLine 4: Its wooden seats was still dry.",
+      "choices": {
+        "A": "Line 4",
+        "B": "Line 2",
+        "C": "Line 3",
+        "D": "Line 1"
+      },
+      "correct": "A",
+      "correctAnswer": "Line 4",
+      "explanation": "Line 4 requires “were” because the subject “seats” is plural."
+    },
+    {
+      "id": "TACHS-WE8-013",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which numbered line contains an error in standard written US English?\nLine 1: Mara offered the extra ticket to Luis and I.\nLine 2: We arrived at the theater before the doors opened.\nLine 3: An usher directed us to the balcony.\nLine 4: The performance began exactly on time.",
+      "choices": {
+        "A": "Line 2",
+        "B": "Line 1",
+        "C": "Line 3",
+        "D": "Line 4"
+      },
+      "correct": "B",
+      "correctAnswer": "Line 1",
+      "explanation": "Line 1 requires the object pronoun “me” after the preposition “to.”"
+    },
+    {
+      "id": "TACHS-WE8-014",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence should be removed because it does not support the passage's central idea?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 7",
+        "C": "Sentence 5",
+        "D": "Sentence 8"
+      },
+      "correct": "B",
+      "correctAnswer": "Sentence 7",
+      "explanation": "The custodian's arrival time is unrelated to testing the scale or improving measurement accuracy.",
+      "stimulusId": "TACHS-WE8-S03",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Calibrating the Hallway Scale",
+      "stimulusText": "[1] Our science club discovered that the hallway scale gave a different reading each time we weighed the same sealed container. [2] Before deciding that the scale was broken, we placed it on a hard, level tile instead of the soft entrance mat. [3] We also checked that the pointer returned to zero after each trial. [4] Next, the container was weighed five times, and every result was recorded. [5] The readings became consistent once the scale stood on the tile. [6] This investigation taught us that a measuring tool's surroundings can influence its results. [7] The custodian unlocks the building at 6:45 each morning. [8] We posted a small sign reminding users to keep the scale on a firm surface."
+    },
+    {
+      "id": "TACHS-WE8-015",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 4 is clearest and most direct?",
+      "choices": {
+        "A": "Next, there were five weighings of the container that were recorded by us.",
+        "B": "Next, the container, after that, had five results and recordings.",
+        "C": "Next, five times was how the container received its recorded weighing.",
+        "D": "Next, we weighed the container five times and recorded every result."
+      },
+      "correct": "D",
+      "correctAnswer": "Next, we weighed the container five times and recorded every result.",
+      "explanation": "This active construction states both actions directly without wordiness or unclear references.",
+      "stimulusId": "TACHS-WE8-S03",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Calibrating the Hallway Scale",
+      "stimulusText": "[1] Our science club discovered that the hallway scale gave a different reading each time we weighed the same sealed container. [2] Before deciding that the scale was broken, we placed it on a hard, level tile instead of the soft entrance mat. [3] We also checked that the pointer returned to zero after each trial. [4] Next, the container was weighed five times, and every result was recorded. [5] The readings became consistent once the scale stood on the tile. [6] This investigation taught us that a measuring tool's surroundings can influence its results. [7] The custodian unlocks the building at 6:45 each morning. [8] We posted a small sign reminding users to keep the scale on a firm surface."
+    },
+    {
+      "id": "TACHS-WE8-016",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which sentence best combines sentences 5 and 6 while preserving their meaning?",
+      "choices": {
+        "A": "The readings became consistent, this taught us the surroundings matter.",
+        "B": "Becoming consistent, the surroundings influenced the measuring tool and taught us.",
+        "C": "The readings became consistent on the tile, learning about a measuring tool's surroundings.",
+        "D": "Because the readings became consistent on the tile, we learned that a measuring tool's surroundings can influence its results."
+      },
+      "correct": "D",
+      "correctAnswer": "Because the readings became consistent on the tile, we learned that a measuring tool's surroundings can influence its results.",
+      "explanation": "The subordinate clause clearly connects the observed result with the club's conclusion.",
+      "stimulusId": "TACHS-WE8-S03",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Calibrating the Hallway Scale",
+      "stimulusText": "[1] Our science club discovered that the hallway scale gave a different reading each time we weighed the same sealed container. [2] Before deciding that the scale was broken, we placed it on a hard, level tile instead of the soft entrance mat. [3] We also checked that the pointer returned to zero after each trial. [4] Next, the container was weighed five times, and every result was recorded. [5] The readings became consistent once the scale stood on the tile. [6] This investigation taught us that a measuring tool's surroundings can influence its results. [7] The custodian unlocks the building at 6:45 each morning. [8] We posted a small sign reminding users to keep the scale on a firm surface."
+    },
+    {
+      "id": "TACHS-WE8-017",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Where should the following sentence be placed to best clarify the club's first step?\nFirst, we marked the container so that everyone used the same object.",
+      "choices": {
+        "A": "Before sentence 1",
+        "B": "After sentence 1",
+        "C": "After sentence 6",
+        "D": "After sentence 3"
+      },
+      "correct": "B",
+      "correctAnswer": "After sentence 1",
+      "explanation": "The added sentence identifies the controlled object before the passage describes changes to the scale's surroundings.",
+      "stimulusId": "TACHS-WE8-S03",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Calibrating the Hallway Scale",
+      "stimulusText": "[1] Our science club discovered that the hallway scale gave a different reading each time we weighed the same sealed container. [2] Before deciding that the scale was broken, we placed it on a hard, level tile instead of the soft entrance mat. [3] We also checked that the pointer returned to zero after each trial. [4] Next, the container was weighed five times, and every result was recorded. [5] The readings became consistent once the scale stood on the tile. [6] This investigation taught us that a measuring tool's surroundings can influence its results. [7] The custodian unlocks the building at 6:45 each morning. [8] We posted a small sign reminding users to keep the scale on a firm surface."
+    },
+    {
+      "id": "TACHS-WE8-018",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which revision of sentence 2 uses punctuation correctly?",
+      "choices": {
+        "A": "We created three small desk cards green meant “working independently” yellow meant “question when available” and red meant “help needed now.”",
+        "B": "We created three small desk cards; green meant “working independently,” yellow meant “question when available,” and red meant “help needed now.”",
+        "C": "We created three small desk cards, green meant “working independently”; yellow meant “question when available”; and red meant “help needed now.”",
+        "D": "We created three small desk cards: green meant “working independently,” yellow meant “question when available,” and red meant “help needed now.”"
+      },
+      "correct": "D",
+      "correctAnswer": "We created three small desk cards: green meant “working independently,” yellow meant “question when available,” and red meant “help needed now.”",
+      "explanation": "A colon correctly introduces the explanatory list, and commas separate its three parallel items.",
+      "stimulusId": "TACHS-WE8-S04",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Guide to Quiet Study Signals",
+      "stimulusText": "[1] Students in our after-school study room needed a way to request help without interrupting others. [2] We created three small desk cards: green meant “working independently,” yellow meant “question when available,” and red meant “help needed now.” [3] During a one-week trial, tutors noted how often each card was used. [4] The red card was used less often after students became familiar with the system. [5] For example, several students used yellow when they could continue another problem while waiting. [6] The cards were laminated, this made them durable enough for daily use. [7] At the end of the trial, students suggested adding brief explanations to the back of each card. [8] Their suggestion made the system easier for new participants to learn."
+    },
+    {
+      "id": "TACHS-WE8-019",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 4 most precisely explains the change?",
+      "choices": {
+        "A": "Students became familiar, and the red card was a card used differently.",
+        "B": "The red card changed in a way that was less after students knew about things.",
+        "C": "As students learned when to use each signal, they reserved the red card for problems that stopped their progress.",
+        "D": "After a while, it was not used as much for various reasons."
+      },
+      "correct": "C",
+      "correctAnswer": "As students learned when to use each signal, they reserved the red card for problems that stopped their progress.",
+      "explanation": "The revision precisely explains both the cause of the change and the red card's intended use.",
+      "stimulusId": "TACHS-WE8-S04",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Guide to Quiet Study Signals",
+      "stimulusText": "[1] Students in our after-school study room needed a way to request help without interrupting others. [2] We created three small desk cards: green meant “working independently,” yellow meant “question when available,” and red meant “help needed now.” [3] During a one-week trial, tutors noted how often each card was used. [4] The red card was used less often after students became familiar with the system. [5] For example, several students used yellow when they could continue another problem while waiting. [6] The cards were laminated, this made them durable enough for daily use. [7] At the end of the trial, students suggested adding brief explanations to the back of each card. [8] Their suggestion made the system easier for new participants to learn."
+    },
+    {
+      "id": "TACHS-WE8-020",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which revision best corrects sentence 6?",
+      "choices": {
+        "A": "The cards being laminated and durable enough for daily use.",
+        "B": "Laminated, daily use made the cards durable enough.",
+        "C": "The cards were laminated, being durable enough for daily use.",
+        "D": "The cards were laminated, which made them durable enough for daily use."
+      },
+      "correct": "D",
+      "correctAnswer": "The cards were laminated, which made them durable enough for daily use.",
+      "explanation": "The relative clause correctly joins the related ideas and eliminates the comma splice.",
+      "stimulusId": "TACHS-WE8-S04",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Guide to Quiet Study Signals",
+      "stimulusText": "[1] Students in our after-school study room needed a way to request help without interrupting others. [2] We created three small desk cards: green meant “working independently,” yellow meant “question when available,” and red meant “help needed now.” [3] During a one-week trial, tutors noted how often each card was used. [4] The red card was used less often after students became familiar with the system. [5] For example, several students used yellow when they could continue another problem while waiting. [6] The cards were laminated, this made them durable enough for daily use. [7] At the end of the trial, students suggested adding brief explanations to the back of each card. [8] Their suggestion made the system easier for new participants to learn."
+    },
+    {
+      "id": "TACHS-WE8-021",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence would best conclude the passage?",
+      "choices": {
+        "A": "Tutors often carry pens and notebooks to the study room.",
+        "B": "Red, yellow, and green are also common colors on traffic signals.",
+        "C": "A simple visual system can support both concentration and timely assistance.",
+        "D": "Some students prefer to complete homework before dinner."
+      },
+      "correct": "C",
+      "correctAnswer": "A simple visual system can support both concentration and timely assistance.",
+      "explanation": "This conclusion restates the passage's broader lesson without introducing an unrelated detail.",
+      "stimulusId": "TACHS-WE8-S04",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Guide to Quiet Study Signals",
+      "stimulusText": "[1] Students in our after-school study room needed a way to request help without interrupting others. [2] We created three small desk cards: green meant “working independently,” yellow meant “question when available,” and red meant “help needed now.” [3] During a one-week trial, tutors noted how often each card was used. [4] The red card was used less often after students became familiar with the system. [5] For example, several students used yellow when they could continue another problem while waiting. [6] The cards were laminated, this made them durable enough for daily use. [7] At the end of the trial, students suggested adding brief explanations to the back of each card. [8] Their suggestion made the system easier for new participants to learn."
+    },
+    {
+      "id": "TACHS-WE8-022",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence uses the comparative form correctly?",
+      "choices": {
+        "A": "Of the two routes, the eastern path is shortest.",
+        "B": "This notebook is more thinner than the blue one.",
+        "C": "Ava's estimate was the most closer of the two.",
+        "D": "The second sample is more stable than the first sample."
+      },
+      "correct": "D",
+      "correctAnswer": "The second sample is more stable than the first sample.",
+      "explanation": "“More stable” correctly compares two samples without a double comparative or superlative."
+    },
+    {
+      "id": "TACHS-WE8-023",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence uses the correct pronoun case?",
+      "choices": {
+        "A": "The coach gave Mia and I the updated schedule.",
+        "B": "The librarian asked Noah and me to close the windows.",
+        "C": "The final decision belongs to she and Marcus.",
+        "D": "Her and Luis organized the supply shelf."
+      },
+      "correct": "B",
+      "correctAnswer": "The librarian asked Noah and me to close the windows.",
+      "explanation": "“Me” is the correct objective pronoun as part of the compound object of “asked.”"
+    },
+    {
+      "id": "TACHS-WE8-024",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which line contains an error in standard written US English?\nLine 1: The workshop includes three stations.\nLine 2: Each station offers a different task.\nLine 3: Participants may choose whichever activity interests them.\nLine 4: Neither of the instructors are available before noon.",
+      "choices": {
+        "A": "Line 3",
+        "B": "Line 2",
+        "C": "Line 4",
+        "D": "Line 1"
+      },
+      "correct": "C",
+      "correctAnswer": "Line 4",
+      "explanation": "The singular subject “Neither” requires “is,” not “are.”"
+    },
+    {
+      "id": "TACHS-WE8-025",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which line contains an error in standard written US English?\nLine 1: By the time the guests arrived, we had arranged the chairs.\nLine 2: The speaker begins her presentation after everyone was seated.\nLine 3: She then answered questions from the audience.\nLine 4: The meeting ended at the scheduled time.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 4",
+        "C": "Line 3",
+        "D": "Line 2"
+      },
+      "correct": "D",
+      "correctAnswer": "Line 2",
+      "explanation": "The past narrative requires “began” to remain consistent with “arrived,” “was seated,” “answered,” and “ended.”"
+    },
+    {
+      "id": "TACHS-WE8-026",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which line contains an error in standard written US English?\nLine 1: The ceramic bowl was packed carefully.\nLine 2: A layer of paper protected its rim.\nLine 3: The box was labeled fragile before it was carried downstairs.\nLine 4: The courier handled the package careful.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 2",
+        "C": "Line 4",
+        "D": "Line 3"
+      },
+      "correct": "C",
+      "correctAnswer": "Line 4",
+      "explanation": "The verb “handled” must be modified by the adverb “carefully,” not the adjective “careful.”"
+    },
+    {
+      "id": "TACHS-WE8-027",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence would best follow sentence 2 to explain how the test was kept fair?",
+      "choices": {
+        "A": "The classroom contains twenty-four student desks.",
+        "B": "Several club members enjoy bright summer weather.",
+        "C": "Each shade covered the same area of glass during its trial.",
+        "D": "Window shades are sold in many colors and patterns."
+      },
+      "correct": "C",
+      "correctAnswer": "Each shade covered the same area of glass during its trial.",
+      "explanation": "This detail describes a controlled condition that makes comparison among the materials fair.",
+      "stimulusId": "TACHS-WE8-S05",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Testing Window Shades",
+      "stimulusText": "[1] Our classroom became uncomfortably warm during sunny afternoons. [2] The environmental club tested three removable window shades made from different materials. [3] Before each trial, students recorded the room temperature and closed one shade over the same window. [4] They measured the temperature again after thirty minutes. [5] The silver fabric produced the smallest temperature increase. [6] It was shiny and measured by us carefully. [7] The club also noted that the fabric could be rolled and stored without bending. [8] Based on both results, we recommended a two-week trial in another classroom."
+    },
+    {
+      "id": "TACHS-WE8-028",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which revision of sentence 6 is most effective?",
+      "choices": {
+        "A": "We also observed that the silver surface reflected much of the incoming light.",
+        "B": "The silver fabric was shiny, measuring it carefully.",
+        "C": "Shiny and carefully, we measured the silver fabric.",
+        "D": "Being shiny, careful measurement was done by us."
+      },
+      "correct": "A",
+      "correctAnswer": "We also observed that the silver surface reflected much of the incoming light.",
+      "explanation": "The revision is complete, direct, and explains a relevant property without a misplaced modifier.",
+      "stimulusId": "TACHS-WE8-S05",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Testing Window Shades",
+      "stimulusText": "[1] Our classroom became uncomfortably warm during sunny afternoons. [2] The environmental club tested three removable window shades made from different materials. [3] Before each trial, students recorded the room temperature and closed one shade over the same window. [4] They measured the temperature again after thirty minutes. [5] The silver fabric produced the smallest temperature increase. [6] It was shiny and measured by us carefully. [7] The club also noted that the fabric could be rolled and stored without bending. [8] Based on both results, we recommended a two-week trial in another classroom."
+    },
+    {
+      "id": "TACHS-WE8-029",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 8 most clearly identifies the two results?",
+      "choices": {
+        "A": "Based on things we found, we recommended trying it someplace else.",
+        "B": "Because the fabric limited warming and remained easy to store, we recommended a two-week trial in another classroom.",
+        "C": "Based on both of those results that happened, another classroom was recommended by us.",
+        "D": "We recommended a trial, and the two results were both good ones."
+      },
+      "correct": "B",
+      "correctAnswer": "Because the fabric limited warming and remained easy to store, we recommended a two-week trial in another classroom.",
+      "explanation": "The revision names both findings and clearly connects them to the recommendation.",
+      "stimulusId": "TACHS-WE8-S05",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Testing Window Shades",
+      "stimulusText": "[1] Our classroom became uncomfortably warm during sunny afternoons. [2] The environmental club tested three removable window shades made from different materials. [3] Before each trial, students recorded the room temperature and closed one shade over the same window. [4] They measured the temperature again after thirty minutes. [5] The silver fabric produced the smallest temperature increase. [6] It was shiny and measured by us carefully. [7] The club also noted that the fabric could be rolled and stored without bending. [8] Based on both results, we recommended a two-week trial in another classroom."
+    },
+    {
+      "id": "TACHS-WE8-030",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence should be placed immediately before sentence 5 to improve the presentation of results?",
+      "choices": {
+        "A": "Some students brought lunch from home that day.",
+        "B": "The club's first meeting was held in September.",
+        "C": "Warm classrooms can make concentration difficult.",
+        "D": "We compared the changes recorded for all three materials."
+      },
+      "correct": "D",
+      "correctAnswer": "We compared the changes recorded for all three materials.",
+      "explanation": "This sentence provides the comparison step needed before reporting which material performed best.",
+      "stimulusId": "TACHS-WE8-S05",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Testing Window Shades",
+      "stimulusText": "[1] Our classroom became uncomfortably warm during sunny afternoons. [2] The environmental club tested three removable window shades made from different materials. [3] Before each trial, students recorded the room temperature and closed one shade over the same window. [4] They measured the temperature again after thirty minutes. [5] The silver fabric produced the smallest temperature increase. [6] It was shiny and measured by us carefully. [7] The club also noted that the fabric could be rolled and stored without bending. [8] Based on both results, we recommended a two-week trial in another classroom."
+    },
+    {
+      "id": "TACHS-WE8-031",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which revision correctly fixes the verb tense in sentence 4?",
+      "choices": {
+        "A": "Volunteers collecting the holders at the exit, wipe them clean, and return them.",
+        "B": "Volunteers collected the holders at the exit, wiped them clean, and returned them to a labeled box.",
+        "C": "Volunteers collect the holders at the exit, had wiped them clean, and returned them.",
+        "D": "Volunteers will collect the holders at the exit, wiped them clean, and return them."
+      },
+      "correct": "B",
+      "correctAnswer": "Volunteers collected the holders at the exit, wiped them clean, and returned them to a labeled box.",
+      "explanation": "All three coordinated verbs correctly use the past tense.",
+      "stimulusId": "TACHS-WE8-S06",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Reusable Name Badges",
+      "stimulusText": "[1] The welcome committee printed new paper name badges for every school event. [2] Most badges were discarded after only a few hours. [3] To reduce this waste, the committee purchased clear holders and printed reusable name cards. [4] Volunteers collect the holders at the exit, wiped them clean, and returned them to a labeled box. [5] A small sign near the door reminded guests to return their badges. [6] During the first event, forty-six of the fifty holders came back. [7] The committee replaced the four missing holders but continued using the original cards. [8] This practical change reduced repeated printing and simplified preparation for later events."
+    },
+    {
+      "id": "TACHS-WE8-032",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which sentence best combines sentences 1 and 2?",
+      "choices": {
+        "A": "The welcome committee printed new paper name badges for every event, most were discarded after a few hours.",
+        "B": "Although the welcome committee printed new paper name badges for every event, most were discarded after only a few hours.",
+        "C": "The welcome committee printed new paper name badges, being discarded after every event.",
+        "D": "Printing new paper name badges for every event, after only a few hours."
+      },
+      "correct": "B",
+      "correctAnswer": "Although the welcome committee printed new paper name badges for every event, most were discarded after only a few hours.",
+      "explanation": "The dependent clause and main clause form a complete sentence that clearly shows contrast.",
+      "stimulusId": "TACHS-WE8-S06",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Reusable Name Badges",
+      "stimulusText": "[1] The welcome committee printed new paper name badges for every school event. [2] Most badges were discarded after only a few hours. [3] To reduce this waste, the committee purchased clear holders and printed reusable name cards. [4] Volunteers collect the holders at the exit, wiped them clean, and returned them to a labeled box. [5] A small sign near the door reminded guests to return their badges. [6] During the first event, forty-six of the fifty holders came back. [7] The committee replaced the four missing holders but continued using the original cards. [8] This practical change reduced repeated printing and simplified preparation for later events."
+    },
+    {
+      "id": "TACHS-WE8-033",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 7 is most concise without changing its meaning?",
+      "choices": {
+        "A": "There were four missing holders that were replaced, but the cards originally continued in use by them.",
+        "B": "The committee did the replacing of the four holders that were missing while continuing the using of cards.",
+        "C": "Four holders were missing, so the committee replaced them and reused the remaining name cards.",
+        "D": "The original cards were cards they continued using after replacing holders, of which four were missing."
+      },
+      "correct": "C",
+      "correctAnswer": "Four holders were missing, so the committee replaced them and reused the remaining name cards.",
+      "explanation": "This version preserves the information in a direct sentence without unnecessary wording.",
+      "stimulusId": "TACHS-WE8-S06",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Reusable Name Badges",
+      "stimulusText": "[1] The welcome committee printed new paper name badges for every school event. [2] Most badges were discarded after only a few hours. [3] To reduce this waste, the committee purchased clear holders and printed reusable name cards. [4] Volunteers collect the holders at the exit, wiped them clean, and returned them to a labeled box. [5] A small sign near the door reminded guests to return their badges. [6] During the first event, forty-six of the fifty holders came back. [7] The committee replaced the four missing holders but continued using the original cards. [8] This practical change reduced repeated printing and simplified preparation for later events."
+    },
+    {
+      "id": "TACHS-WE8-034",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which sentence uses parallel structure correctly?",
+      "choices": {
+        "A": "The guide asked us to label the samples, recording the weights, and to store the boxes.",
+        "B": "The guide asked us for labeling the samples, to record the weights, and storing the boxes.",
+        "C": "The guide asked us to label the samples, record the weights, and store the boxes.",
+        "D": "The guide asked us to label the samples, the weights were recorded, and store the boxes."
+      },
+      "correct": "C",
+      "correctAnswer": "The guide asked us to label the samples, record the weights, and store the boxes.",
+      "explanation": "The three coordinated verbs use matching base forms and share the phrase “asked us to.”"
+    },
+    {
+      "id": "TACHS-WE8-035",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which sentence uses a pronoun with a clear antecedent?",
+      "choices": {
+        "A": "The bicycles were moved away from the gate because they blocked the entrance.",
+        "B": "When Lena placed the pitcher beside the bowl, it was nearly full.",
+        "C": "After speaking with Maya, Sofia said she would revise the poster.",
+        "D": "The jacket was laid on the chair, but it had a torn leg."
+      },
+      "correct": "A",
+      "correctAnswer": "The bicycles were moved away from the gate because they blocked the entrance.",
+      "explanation": "The plural pronoun “they” clearly refers to “bicycles.”"
+    },
+    {
+      "id": "TACHS-WE8-036",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence uses punctuation correctly?",
+      "choices": {
+        "A": "Before the bus arrived, we checked the list one final time.",
+        "B": "Before, the bus arrived we checked the list one final time.",
+        "C": "Before the bus arrived we checked the list, one final time.",
+        "D": "Before the bus arrived we checked, the list one final time."
+      },
+      "correct": "A",
+      "correctAnswer": "Before the bus arrived, we checked the list one final time.",
+      "explanation": "A comma correctly separates the introductory dependent clause from the independent clause."
+    },
+    {
+      "id": "TACHS-WE8-037",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which line contains an error in standard written US English?\nLine 1: The recipe requires fewer ingredients than we expected.\nLine 2: Only a small amount of flour remained in the container.\nLine 3: We needed less measuring cups than the other group.\nLine 4: Each student cleaned one section of the counter.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 2",
+        "C": "Line 3",
+        "D": "Line 4"
+      },
+      "correct": "C",
+      "correctAnswer": "Line 3",
+      "explanation": "The count noun “measuring cups” requires “fewer,” not “less.”"
+    },
+    {
+      "id": "TACHS-WE8-038",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which line contains an error in standard written US English?\nLine 1: Walking across the courtyard, the banner caught Elena's attention.\nLine 2: She stopped to read the announcement.\nLine 3: The meeting was scheduled for Thursday afternoon.\nLine 4: Elena added the event to her calendar.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 2",
+        "C": "Line 3",
+        "D": "Line 4"
+      },
+      "correct": "A",
+      "correctAnswer": "Line 1",
+      "explanation": "The introductory phrase illogically modifies “banner”; Elena, not the banner, was walking."
+    },
+    {
+      "id": "TACHS-WE8-039",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence should be removed because it does not develop the passage's central idea?",
+      "choices": {
+        "A": "Sentence 3",
+        "B": "Sentence 5",
+        "C": "Sentence 6",
+        "D": "Sentence 8"
+      },
+      "correct": "C",
+      "correctAnswer": "Sentence 6",
+      "explanation": "The tray's color does not contribute to the process, results, or purpose of the lending system.",
+      "stimulusId": "TACHS-WE8-S07",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Lending Field Magnifiers",
+      "stimulusText": "[1] The nature club owned twelve hand magnifiers, but students often forgot which ones had been borrowed. [2] We assigned each magnifier a number and attached a matching tag to its case. [3] Before leaving for the courtyard, a student wrote the magnifier's number beside their name on a checkout sheet. [4] Returning students placed the magnifiers in a shallow tray. [5] A club monitor checked the lenses for dust and returned each tool to its numbered case. [6] The trays were blue. [7] During the first month, no magnifiers were lost, and small scratches were noticed before they became larger. [8] The simple record made the equipment easier to share and maintain."
+    },
+    {
+      "id": "TACHS-WE8-040",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "If sentence 2 were revised to refer to all twelve magnifiers and their cases, which version would be correct?",
+      "choices": {
+        "A": "We assigned the magnifiers number's and attached matching tags to there cases.",
+        "B": "We assigned the magnifier's numbers and attached matching tags to it's cases.",
+        "C": "We assigned numbers to the magnifiers and attached matching tags to their cases.",
+        "D": "We assigned the magnifiers' numbers and attached matching tags to its cases."
+      },
+      "correct": "C",
+      "correctAnswer": "We assigned numbers to the magnifiers and attached matching tags to their cases.",
+      "explanation": "The plural nouns and pronoun correctly refer to multiple magnifiers and cases without unnecessary apostrophes.",
+      "stimulusId": "TACHS-WE8-S07",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Lending Field Magnifiers",
+      "stimulusText": "[1] The nature club owned twelve hand magnifiers, but students often forgot which ones had been borrowed. [2] We assigned each magnifier a number and attached a matching tag to its case. [3] Before leaving for the courtyard, a student wrote the magnifier's number beside their name on a checkout sheet. [4] Returning students placed the magnifiers in a shallow tray. [5] A club monitor checked the lenses for dust and returned each tool to its numbered case. [6] The trays were blue. [7] During the first month, no magnifiers were lost, and small scratches were noticed before they became larger. [8] The simple record made the equipment easier to share and maintain."
+    },
+    {
+      "id": "TACHS-WE8-041",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 7 is most precise?",
+      "choices": {
+        "A": "During the first month, things went well with all of the tools and marks.",
+        "B": "The first month was good because nothing bad happened to any magnifier.",
+        "C": "For one month, no magnifiers were lost, and scratches were a thing noticed earlier.",
+        "D": "In the first month, the system prevented losses and helped the club identify minor damage promptly."
+      },
+      "correct": "D",
+      "correctAnswer": "In the first month, the system prevented losses and helped the club identify minor damage promptly.",
+      "explanation": "The revision states both outcomes precisely and avoids vague wording.",
+      "stimulusId": "TACHS-WE8-S07",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Lending Field Magnifiers",
+      "stimulusText": "[1] The nature club owned twelve hand magnifiers, but students often forgot which ones had been borrowed. [2] We assigned each magnifier a number and attached a matching tag to its case. [3] Before leaving for the courtyard, a student wrote the magnifier's number beside their name on a checkout sheet. [4] Returning students placed the magnifiers in a shallow tray. [5] A club monitor checked the lenses for dust and returned each tool to its numbered case. [6] The trays were blue. [7] During the first month, no magnifiers were lost, and small scratches were noticed before they became larger. [8] The simple record made the equipment easier to share and maintain."
+    },
+    {
+      "id": "TACHS-WE8-042",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which sentence best combines sentences 4 and 5?",
+      "choices": {
+        "A": "Returning students placed the magnifiers in a tray, a monitor checked and returned them.",
+        "B": "Students returned, the monitor checked the lenses, the cases were numbered.",
+        "C": "After returning students placed the magnifiers in a shallow tray, a club monitor checked the lenses and returned each tool to its numbered case.",
+        "D": "Placing magnifiers in a shallow tray, the lenses were checked by a monitor returning cases."
+      },
+      "correct": "C",
+      "correctAnswer": "After returning students placed the magnifiers in a shallow tray, a club monitor checked the lenses and returned each tool to its numbered case.",
+      "explanation": "Subordination clearly connects the two actions without a comma splice or misplaced modifier.",
+      "stimulusId": "TACHS-WE8-S07",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Lending Field Magnifiers",
+      "stimulusText": "[1] The nature club owned twelve hand magnifiers, but students often forgot which ones had been borrowed. [2] We assigned each magnifier a number and attached a matching tag to its case. [3] Before leaving for the courtyard, a student wrote the magnifier's number beside their name on a checkout sheet. [4] Returning students placed the magnifiers in a shallow tray. [5] A club monitor checked the lenses for dust and returned each tool to its numbered case. [6] The trays were blue. [7] During the first month, no magnifiers were lost, and small scratches were noticed before they became larger. [8] The simple record made the equipment easier to share and maintain."
+    },
+    {
+      "id": "TACHS-WE8-043",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which revision best corrects sentence 4?",
+      "choices": {
+        "A": "Groups entered their names in fifteen-minute blocks, erasing each entry after finishing.",
+        "B": "Groups entering their names in fifteen-minute blocks and erased each entry after finishing.",
+        "C": "Groups entered their names in fifteen-minute blocks, they erased each entry after finishing.",
+        "D": "Entering names in fifteen-minute blocks, each entry erased after groups finished."
+      },
+      "correct": "A",
+      "correctAnswer": "Groups entered their names in fifteen-minute blocks, erasing each entry after finishing.",
+      "explanation": "The participial phrase correctly joins the related actions and removes the comma splice.",
+      "stimulusId": "TACHS-WE8-S08",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Waiting List for the Practice Room",
+      "stimulusText": "[1] The music practice room could hold only one small group at a time. [2] Students once waited outside the door without knowing whose turn was next. [3] The student council placed a dry-erase schedule beside the room. [4] Groups entered their names in fifteen-minute blocks, they erased each entry after finishing. [5] An empty block remained available to any group that arrived without a reservation. [6] The council reviewed the schedule after two weeks. [7] Most groups began arriving near the start of their chosen blocks, and the hallway became less crowded. [8] A printed reminder asked users to leave promptly when their time ended."
+    },
+    {
+      "id": "TACHS-WE8-044",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence would best follow sentence 6 to introduce the evidence from the review?",
+      "choices": {
+        "A": "Dry-erase markers are available in several colors.",
+        "B": "The council compared hallway observations from before and after the schedule was posted.",
+        "C": "Music can be performed by groups of many sizes.",
+        "D": "Some classrooms are located on the second floor."
+      },
+      "correct": "B",
+      "correctAnswer": "The council compared hallway observations from before and after the schedule was posted.",
+      "explanation": "This sentence introduces the comparison that supports the results reported next.",
+      "stimulusId": "TACHS-WE8-S08",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Waiting List for the Practice Room",
+      "stimulusText": "[1] The music practice room could hold only one small group at a time. [2] Students once waited outside the door without knowing whose turn was next. [3] The student council placed a dry-erase schedule beside the room. [4] Groups entered their names in fifteen-minute blocks, they erased each entry after finishing. [5] An empty block remained available to any group that arrived without a reservation. [6] The council reviewed the schedule after two weeks. [7] Most groups began arriving near the start of their chosen blocks, and the hallway became less crowded. [8] A printed reminder asked users to leave promptly when their time ended."
+    },
+    {
+      "id": "TACHS-WE8-045",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 5 is most concise and clear?",
+      "choices": {
+        "A": "There was an empty block available in its availability for any such group.",
+        "B": "An empty block that was empty remained for a group without any reservation already made.",
+        "C": "Groups arriving without reservations had availability that was in an empty block.",
+        "D": "Any unreserved group could use an open time block."
+      },
+      "correct": "D",
+      "correctAnswer": "Any unreserved group could use an open time block.",
+      "explanation": "The revision expresses the complete idea directly and eliminates repeated wording.",
+      "stimulusId": "TACHS-WE8-S08",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Waiting List for the Practice Room",
+      "stimulusText": "[1] The music practice room could hold only one small group at a time. [2] Students once waited outside the door without knowing whose turn was next. [3] The student council placed a dry-erase schedule beside the room. [4] Groups entered their names in fifteen-minute blocks, they erased each entry after finishing. [5] An empty block remained available to any group that arrived without a reservation. [6] The council reviewed the schedule after two weeks. [7] Most groups began arriving near the start of their chosen blocks, and the hallway became less crowded. [8] A printed reminder asked users to leave promptly when their time ended."
+    },
+    {
+      "id": "TACHS-WE8-046",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence uses modifier forms correctly?",
+      "choices": {
+        "A": "The near completely model stood on the shelf.",
+        "B": "The nearly complete model stood on the shelf.",
+        "C": "The nearly completion model stood on the shelf.",
+        "D": "The complete nearly model stood on the shelf."
+      },
+      "correct": "B",
+      "correctAnswer": "The nearly complete model stood on the shelf.",
+      "explanation": "The adverb “nearly” correctly modifies the adjective “complete.”"
+    },
+    {
+      "id": "TACHS-WE8-047",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence uses the correct verb form?",
+      "choices": {
+        "A": "The committee has chosen three finalists.",
+        "B": "The committee had choosing three finalists.",
+        "C": "The committee has chose three finalists.",
+        "D": "The committee has choose three finalists."
+      },
+      "correct": "A",
+      "correctAnswer": "The committee has chosen three finalists.",
+      "explanation": "The present perfect construction requires the past participle “chosen.”"
+    },
+    {
+      "id": "TACHS-WE8-048",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which line contains an error in standard written US English?\nLine 1: The two proposals address the same concern.\nLine 2: This proposal is more clearer than the earlier one.\nLine 3: Its examples are also more specific.\nLine 4: The committee will discuss both versions tomorrow.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 2",
+        "C": "Line 3",
+        "D": "Line 4"
+      },
+      "correct": "B",
+      "correctAnswer": "Line 2",
+      "explanation": "“More clearer” is an incorrect double comparative; “clearer” is sufficient."
+    },
+    {
+      "id": "TACHS-WE8-049",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which line contains an error in standard written US English?\nLine 1: Marco set the sealed envelope on the counter.\nLine 2: He checked the address against his list.\nLine 3: Then he laid the list beside the envelope.\nLine 4: The envelope laid there until the courier arrived.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 2",
+        "C": "Line 3",
+        "D": "Line 4"
+      },
+      "correct": "D",
+      "correctAnswer": "Line 4",
+      "explanation": "The intransitive past-tense form is “lay,” so the envelope “lay there.”"
+    },
+    {
+      "id": "TACHS-WE8-050",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which line contains an error in standard written US English?\nLine 1: The museum displayed several early cameras.\nLine 2: One of the devices were missing its leather case.\nLine 3: A label described how the device had been used.\nLine 4: Visitors could view the case in a nearby cabinet.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 4",
+        "C": "Line 3",
+        "D": "Line 2"
+      },
+      "correct": "D",
+      "correctAnswer": "Line 2",
+      "explanation": "The singular subject “One” requires the verb “was.”"
+    }
+  ]
+}

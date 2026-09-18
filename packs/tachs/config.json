@@ -30,7 +30,11 @@
         "tachs_reading_exam_01.json",
         "tachs_reading_exam_02.json",
         "tachs_reading_exam_03.json",
-        "tachs_reading_exam_04.json"
+        "tachs_reading_exam_04.json",
+        "tachs_reading_exam_05.json",
+        "tachs_reading_exam_06.json",
+        "tachs_reading_exam_07.json",
+        "tachs_reading_exam_08.json"
       ]
     },
     {
@@ -45,7 +49,11 @@
         "tachs_written_expression_exam_01.json",
         "tachs_written_expression_exam_02.json",
         "tachs_written_expression_exam_03.json",
-        "tachs_written_expression_exam_04.json"
+        "tachs_written_expression_exam_04.json",
+        "tachs_written_expression_exam_05.json",
+        "tachs_written_expression_exam_06.json",
+        "tachs_written_expression_exam_07.json",
+        "tachs_written_expression_exam_08.json"
       ]
     },
     {
@@ -60,7 +68,11 @@
         "tachs_mathematics_exam_01.json",
         "tachs_mathematics_exam_02.json",
         "tachs_mathematics_exam_03.json",
-        "tachs_mathematics_exam_04.json"
+        "tachs_mathematics_exam_04.json",
+        "tachs_mathematics_exam_05.json",
+        "tachs_mathematics_exam_06.json",
+        "tachs_mathematics_exam_07.json",
+        "tachs_mathematics_exam_08.json"
       ]
     },
     {
@@ -75,7 +87,11 @@
         "tachs_ability_exam_01.json",
         "tachs_ability_exam_02.json",
         "tachs_ability_exam_03.json",
-        "tachs_ability_exam_04.json"
+        "tachs_ability_exam_04.json",
+        "tachs_ability_exam_05.json",
+        "tachs_ability_exam_06.json",
+        "tachs_ability_exam_07.json",
+        "tachs_ability_exam_08.json"
       ]
     }
   ],
@@ -99,6 +115,26 @@
       "family": "tachs",
       "label": "TACHS Full-Length Practice Exam 04",
       "file": "tachs_full_exam_04.pdf"
+    },
+    {
+      "family": "tachs",
+      "label": "TACHS Full-Length Practice Exam 05",
+      "file": "tachs_full_exam_05.pdf"
+    },
+    {
+      "family": "tachs",
+      "label": "TACHS Full-Length Practice Exam 06",
+      "file": "tachs_full_exam_06.pdf"
+    },
+    {
+      "family": "tachs",
+      "label": "TACHS Full-Length Practice Exam 07",
+      "file": "tachs_full_exam_07.pdf"
+    },
+    {
+      "family": "tachs",
+      "label": "TACHS Full-Length Practice Exam 08",
+      "file": "tachs_full_exam_08.pdf"
     }
   ],
   "flashcards": []

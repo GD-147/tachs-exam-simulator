@@ -1,0 +1,979 @@
+{
+  "title": "TACHS Written Expression Practice Test 05",
+  "examFamily": "tachs",
+  "examNumber": 5,
+  "section": "Written Expression",
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "TACHS-WE5-001",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence should be deleted because it does not support the passage's central idea?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 3",
+        "C": "Sentence 4",
+        "D": "Sentence 7"
+      },
+      "correct": "B",
+      "correctAnswer": "Sentence 3",
+      "explanation": "Basketball practice is unrelated to planning an audio guide for the history display.",
+      "stimulusId": "TACHS-WE5-S01",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Creating a Student Audio Guide",
+      "stimulusText": "[1] Our class is creating an audio guide for visitors to the school's local-history display. [2] Each recording should explain one object in about a minute. [3] The basketball team practices in the gym on Tuesdays. [4] Short recordings will let visitors choose several objects without spending too long at one station. [5] To make the guide useful, students should identify the object, explain why it matters, and describe one detail that visitors might otherwise miss. [6] Students will record their scripts in the media room, the room has sound-absorbing panels. [7] We should also test the guide with people who have not studied the display. [8] Their questions can reveal where our explanations need more context."
+    },
+    {
+      "id": "TACHS-WE5-002",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which is the best revision of sentence 6?",
+      "choices": {
+        "A": "Students will record their scripts in the media room and sound-absorbing panels.",
+        "B": "Students will record their scripts in the media room, having sound-absorbing panels.",
+        "C": "Students will record their scripts in the media room, which has sound-absorbing panels.",
+        "D": "Students will record their scripts in the media room because of the panels, they absorb sound."
+      },
+      "correct": "C",
+      "correctAnswer": "Students will record their scripts in the media room, which has sound-absorbing panels.",
+      "explanation": "The relative clause correctly joins the related ideas and removes the comma splice.",
+      "stimulusId": "TACHS-WE5-S01",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Creating a Student Audio Guide",
+      "stimulusText": "[1] Our class is creating an audio guide for visitors to the school's local-history display. [2] Each recording should explain one object in about a minute. [3] The basketball team practices in the gym on Tuesdays. [4] Short recordings will let visitors choose several objects without spending too long at one station. [5] To make the guide useful, students should identify the object, explain why it matters, and describe one detail that visitors might otherwise miss. [6] Students will record their scripts in the media room, the room has sound-absorbing panels. [7] We should also test the guide with people who have not studied the display. [8] Their questions can reveal where our explanations need more context."
+    },
+    {
+      "id": "TACHS-WE5-003",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 2 is most precise?",
+      "choices": {
+        "A": "Each recording should say some things about one object for a little while.",
+        "B": "Each recording should give visitors a focused explanation of one object in about a minute.",
+        "C": "There should be a recording that is not very long and is about an object.",
+        "D": "Visitors will listen to objects explained by recordings of approximately some time."
+      },
+      "correct": "B",
+      "correctAnswer": "Each recording should give visitors a focused explanation of one object in about a minute.",
+      "explanation": "This revision states the recording's purpose precisely and naturally without vague wording.",
+      "stimulusId": "TACHS-WE5-S01",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Creating a Student Audio Guide",
+      "stimulusText": "[1] Our class is creating an audio guide for visitors to the school's local-history display. [2] Each recording should explain one object in about a minute. [3] The basketball team practices in the gym on Tuesdays. [4] Short recordings will let visitors choose several objects without spending too long at one station. [5] To make the guide useful, students should identify the object, explain why it matters, and describe one detail that visitors might otherwise miss. [6] Students will record their scripts in the media room, the room has sound-absorbing panels. [7] We should also test the guide with people who have not studied the display. [8] Their questions can reveal where our explanations need more context."
+    },
+    {
+      "id": "TACHS-WE5-004",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence would best follow sentence 5 and strengthen its development?",
+      "choices": {
+        "A": "Audio files can be stored in several different formats.",
+        "B": "Some students prefer history to science.",
+        "C": "For example, a speaker describing an old lunch token might explain what it cost and point out the faded school emblem.",
+        "D": "The display cases were moved from another hallway last year."
+      },
+      "correct": "C",
+      "correctAnswer": "For example, a speaker describing an old lunch token might explain what it cost and point out the faded school emblem.",
+      "explanation": "The example directly develops the three recommended elements of an effective object description.",
+      "stimulusId": "TACHS-WE5-S01",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Creating a Student Audio Guide",
+      "stimulusText": "[1] Our class is creating an audio guide for visitors to the school's local-history display. [2] Each recording should explain one object in about a minute. [3] The basketball team practices in the gym on Tuesdays. [4] Short recordings will let visitors choose several objects without spending too long at one station. [5] To make the guide useful, students should identify the object, explain why it matters, and describe one detail that visitors might otherwise miss. [6] Students will record their scripts in the media room, the room has sound-absorbing panels. [7] We should also test the guide with people who have not studied the display. [8] Their questions can reveal where our explanations need more context."
+    },
+    {
+      "id": "TACHS-WE5-005",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which is the best revision of sentence 4?",
+      "choices": {
+        "A": "Pulling the thread as hard as possible, I tore one of my pages.",
+        "B": "The thread, pulling as hard as possible, tore one of my pages.",
+        "C": "Pulling as hard as possible, one of my pages was torn by the thread.",
+        "D": "One of my pages, as hard as possible, was torn by pulling the thread."
+      },
+      "correct": "A",
+      "correctAnswer": "Pulling the thread as hard as possible, I tore one of my pages.",
+      "explanation": "The introductory phrase correctly modifies \"I,\" the person who pulled the thread.",
+      "stimulusId": "TACHS-WE5-S02",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Binding My First Notebook",
+      "stimulusText": "[1] At a weekend workshop, I learned to bind a small notebook by hand. [2] After folding the paper into sections, the instructor showed us how to mark evenly spaced holes along each fold. [3] I pierced the holes with an awl and then stitched the sections together with waxed thread. [4] Pulling as hard as possible, the thread tore one of my pages. [5] On my second attempt, I tightened each stitch only until the pages rested firmly together. [6] The cover then lay flat, and the pages turned without catching. [7] My first attempt was unsuccessful and did not succeed. [8] The finished notebook showed me that careful tension matters more than force."
+    },
+    {
+      "id": "TACHS-WE5-006",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which is the most concise revision of sentence 7?",
+      "choices": {
+        "A": "My first attempt was an attempt that was unsuccessful.",
+        "B": "My first attempt failed.",
+        "C": "My first attempt was not successful in succeeding.",
+        "D": "My first attempt did not have a successful result in the end."
+      },
+      "correct": "B",
+      "correctAnswer": "My first attempt failed.",
+      "explanation": "The revision removes redundant wording while preserving the original meaning.",
+      "stimulusId": "TACHS-WE5-S02",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Binding My First Notebook",
+      "stimulusText": "[1] At a weekend workshop, I learned to bind a small notebook by hand. [2] After folding the paper into sections, the instructor showed us how to mark evenly spaced holes along each fold. [3] I pierced the holes with an awl and then stitched the sections together with waxed thread. [4] Pulling as hard as possible, the thread tore one of my pages. [5] On my second attempt, I tightened each stitch only until the pages rested firmly together. [6] The cover then lay flat, and the pages turned without catching. [7] My first attempt was unsuccessful and did not succeed. [8] The finished notebook showed me that careful tension matters more than force."
+    },
+    {
+      "id": "TACHS-WE5-007",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Where would the following sentence best be placed?\nThe wax coating helped the thread slide through the holes without fraying.",
+      "choices": {
+        "A": "After sentence 1",
+        "B": "After sentence 3",
+        "C": "After sentence 6",
+        "D": "After sentence 8"
+      },
+      "correct": "B",
+      "correctAnswer": "After sentence 3",
+      "explanation": "The added sentence explains a useful property of the waxed thread introduced in sentence 3.",
+      "stimulusId": "TACHS-WE5-S02",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Binding My First Notebook",
+      "stimulusText": "[1] At a weekend workshop, I learned to bind a small notebook by hand. [2] After folding the paper into sections, the instructor showed us how to mark evenly spaced holes along each fold. [3] I pierced the holes with an awl and then stitched the sections together with waxed thread. [4] Pulling as hard as possible, the thread tore one of my pages. [5] On my second attempt, I tightened each stitch only until the pages rested firmly together. [6] The cover then lay flat, and the pages turned without catching. [7] My first attempt was unsuccessful and did not succeed. [8] The finished notebook showed me that careful tension matters more than force."
+    },
+    {
+      "id": "TACHS-WE5-008",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which sentence best combines sentences 5 and 6?",
+      "choices": {
+        "A": "I tightened each stitch only until the pages rested firmly together, the cover then laying flat, the pages turned without catching.",
+        "B": "On my second attempt, tightening each stitch, the pages rested firmly together, the cover lay flat and turning without catching.",
+        "C": "On my second attempt, I tightened each stitch only until the pages rested firmly together; as a result, the cover lay flat and the pages turned without catching.",
+        "D": "The pages rested firmly together on my second attempt and because tightening each stitch, with the cover flat."
+      },
+      "correct": "C",
+      "correctAnswer": "On my second attempt, I tightened each stitch only until the pages rested firmly together; as a result, the cover lay flat and the pages turned without catching.",
+      "explanation": "This choice joins the complete ideas correctly and makes their cause-and-effect relationship clear.",
+      "stimulusId": "TACHS-WE5-S02",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Binding My First Notebook",
+      "stimulusText": "[1] At a weekend workshop, I learned to bind a small notebook by hand. [2] After folding the paper into sections, the instructor showed us how to mark evenly spaced holes along each fold. [3] I pierced the holes with an awl and then stitched the sections together with waxed thread. [4] Pulling as hard as possible, the thread tore one of my pages. [5] On my second attempt, I tightened each stitch only until the pages rested firmly together. [6] The cover then lay flat, and the pages turned without catching. [7] My first attempt was unsuccessful and did not succeed. [8] The finished notebook showed me that careful tension matters more than force."
+    },
+    {
+      "id": "TACHS-WE5-009",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence is written correctly?",
+      "choices": {
+        "A": "By the time the bus arrived, we wait for nearly thirty minutes.",
+        "B": "By the time the bus arrives, we had waited for nearly thirty minutes yesterday.",
+        "C": "By the time the bus had arrived, we are waiting for nearly thirty minutes.",
+        "D": "By the time the bus arrived, we had waited for nearly thirty minutes."
+      },
+      "correct": "D",
+      "correctAnswer": "By the time the bus arrived, we had waited for nearly thirty minutes.",
+      "explanation": "Past perfect correctly shows that the waiting occurred before the bus arrived."
+    },
+    {
+      "id": "TACHS-WE5-010",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence uses the comparative form correctly?",
+      "choices": {
+        "A": "Of the two routes, the path beside the canal is shortest.",
+        "B": "Of the two routes, the path beside the canal is shorter.",
+        "C": "The path beside the canal is more shorter than the hill route.",
+        "D": "The path beside the canal is the most shortest of the two."
+      },
+      "correct": "B",
+      "correctAnswer": "Of the two routes, the path beside the canal is shorter.",
+      "explanation": "The comparative \"shorter\" is correct when comparing exactly two routes."
+    },
+    {
+      "id": "TACHS-WE5-011",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which sentence is most appropriate for a formal email requesting information from a museum?",
+      "choices": {
+        "A": "Hey, tell me when your fossil room is open.",
+        "B": "I need the fossil-room hours, so send them soon.",
+        "C": "What's up with the schedule for all that fossil stuff?",
+        "D": "Would you please let me know the hours for the fossil gallery during spring break?"
+      },
+      "correct": "D",
+      "correctAnswer": "Would you please let me know the hours for the fossil gallery during spring break?",
+      "explanation": "The sentence uses courteous, specific language appropriate for a formal request."
+    },
+    {
+      "id": "TACHS-WE5-012",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which line contains an error in standard written US English?\nLine 1: The collection of postcards was donated last month.\nLine 2: Each card shows a street or landmark from the region.\nLine 3: Several of the oldest cards has handwritten messages.\nLine 4: Volunteers are placing them in protective sleeves.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 2",
+        "C": "Line 4",
+        "D": "Line 3"
+      },
+      "correct": "D",
+      "correctAnswer": "Line 3",
+      "explanation": "The plural subject \"Several\" requires the plural verb \"have,\" not \"has.\""
+    },
+    {
+      "id": "TACHS-WE5-013",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which line contains an error in standard written US English?\nLine 1: Lena set the compass beside the map.\nLine 2: She checked the trail markers carefully.\nLine 3: Her brother had already packed the water bottles.\nLine 4: Together, they laid the supplies careful into the bag.",
+      "choices": {
+        "A": "Line 4",
+        "B": "Line 2",
+        "C": "Line 3",
+        "D": "Line 1"
+      },
+      "correct": "A",
+      "correctAnswer": "Line 4",
+      "explanation": "The verb \"laid\" should be modified by the adverb \"carefully,\" not the adjective \"careful.\""
+    },
+    {
+      "id": "TACHS-WE5-014",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which is the best revision of sentence 3?",
+      "choices": {
+        "A": "The sand filter produced clearer water, but it required nearly twice as long to drain.",
+        "B": "The sand filter produced clearer water, requiring nearly twice as long to drain, however.",
+        "C": "Producing clearer water, nearly twice as long was required by the sand filter to drain.",
+        "D": "The sand filter produced clearer water it required nearly twice as long to drain."
+      },
+      "correct": "A",
+      "correctAnswer": "The sand filter produced clearer water, but it required nearly twice as long to drain.",
+      "explanation": "The coordinating conjunction correctly joins the contrasting independent clauses and removes the comma splice.",
+      "stimulusId": "TACHS-WE5-S03",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Comparing Two Water Filters",
+      "stimulusText": "[1] Our science group compared two homemade water filters, one filled with fine sand and one filled with small gravel. [2] We poured equal amounts of cloudy water through each filter and collected the liquid in identical clear cups. [3] The sand filter produced clearer water, it required nearly twice as long to drain. [4] By contrast, water passed quickly through the gravel, but some visible particles remained. [5] These results suggest that smaller spaces between materials can trap more particles while slowing the flow. [6] The cups were placed on a table. [7] Because neither filter made the water safe to drink, our demonstration concerned filtration speed and clarity only. [8] Future trials could test layered filters while keeping the water amount and collection time consistent."
+    },
+    {
+      "id": "TACHS-WE5-015",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence should be deleted because it adds no useful information to the explanation?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 4",
+        "C": "Sentence 6",
+        "D": "Sentence 8"
+      },
+      "correct": "C",
+      "correctAnswer": "Sentence 6",
+      "explanation": "Stating that the cups were on a table does not develop the comparison or explain the results.",
+      "stimulusId": "TACHS-WE5-S03",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Comparing Two Water Filters",
+      "stimulusText": "[1] Our science group compared two homemade water filters, one filled with fine sand and one filled with small gravel. [2] We poured equal amounts of cloudy water through each filter and collected the liquid in identical clear cups. [3] The sand filter produced clearer water, it required nearly twice as long to drain. [4] By contrast, water passed quickly through the gravel, but some visible particles remained. [5] These results suggest that smaller spaces between materials can trap more particles while slowing the flow. [6] The cups were placed on a table. [7] Because neither filter made the water safe to drink, our demonstration concerned filtration speed and clarity only. [8] Future trials could test layered filters while keeping the water amount and collection time consistent."
+    },
+    {
+      "id": "TACHS-WE5-016",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 7 is clearest and most appropriate for a science report?",
+      "choices": {
+        "A": "The water was not for drinking and speed and clarity were what it was about.",
+        "B": "You definitely should not drink this water because the filters were just homemade things.",
+        "C": "Neither filter purified the water for drinking; the test measured only filtration speed and visible clarity.",
+        "D": "Neither filter did everything, which is important to know about the whole experiment."
+      },
+      "correct": "C",
+      "correctAnswer": "Neither filter purified the water for drinking; the test measured only filtration speed and visible clarity.",
+      "explanation": "The revision states the experiment's safety limitation and measured variables precisely.",
+      "stimulusId": "TACHS-WE5-S03",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Comparing Two Water Filters",
+      "stimulusText": "[1] Our science group compared two homemade water filters, one filled with fine sand and one filled with small gravel. [2] We poured equal amounts of cloudy water through each filter and collected the liquid in identical clear cups. [3] The sand filter produced clearer water, it required nearly twice as long to drain. [4] By contrast, water passed quickly through the gravel, but some visible particles remained. [5] These results suggest that smaller spaces between materials can trap more particles while slowing the flow. [6] The cups were placed on a table. [7] Because neither filter made the water safe to drink, our demonstration concerned filtration speed and clarity only. [8] Future trials could test layered filters while keeping the water amount and collection time consistent."
+    },
+    {
+      "id": "TACHS-WE5-017",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence would best follow sentence 5?",
+      "choices": {
+        "A": "Gravel is commonly sold in heavy bags at garden stores.",
+        "B": "Many experiments can be repeated by different students.",
+        "C": "The group selected clear cups instead of colored containers.",
+        "D": "This trade-off explains why the clearer sample took longer to collect."
+      },
+      "correct": "D",
+      "correctAnswer": "This trade-off explains why the clearer sample took longer to collect.",
+      "explanation": "The sentence directly connects the proposed explanation with both observed results.",
+      "stimulusId": "TACHS-WE5-S03",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Comparing Two Water Filters",
+      "stimulusText": "[1] Our science group compared two homemade water filters, one filled with fine sand and one filled with small gravel. [2] We poured equal amounts of cloudy water through each filter and collected the liquid in identical clear cups. [3] The sand filter produced clearer water, it required nearly twice as long to drain. [4] By contrast, water passed quickly through the gravel, but some visible particles remained. [5] These results suggest that smaller spaces between materials can trap more particles while slowing the flow. [6] The cups were placed on a table. [7] Because neither filter made the water safe to drink, our demonstration concerned filtration speed and clarity only. [8] Future trials could test layered filters while keeping the water amount and collection time consistent."
+    },
+    {
+      "id": "TACHS-WE5-018",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which is the best revision of sentence 6?",
+      "choices": {
+        "A": "After choosing the poems, a map would be made, being stand locations.",
+        "B": "After choosing the poems, the committee would map the locations of the stands.",
+        "C": "The poems chosen, stand locations, and the committee would make a map.",
+        "D": "A map of locations after choosing poems would be made by them."
+      },
+      "correct": "B",
+      "correctAnswer": "After choosing the poems, the committee would map the locations of the stands.",
+      "explanation": "The revision gives the introductory modifier a clear subject and uses standard active construction.",
+      "stimulusId": "TACHS-WE5-S04",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Poetry Path for the Courtyard",
+      "stimulusText": "[1] The literary magazine proposes creating a temporary poetry path across the school courtyard. [2] Short student poems would be printed on weather-resistant cards and attached to removable stands. [3] Visitors could follow the stands in any order, pausing wherever a title interests them. [4] To include different voices, submissions would be read without authors' names during selection. [5] The committee would choose poems for clarity, originality, and how effectively they use imagery. [6] After choosing the poems, a map of stand locations would be made by the committee. [7] The display would remain for one week, and all stands would be removed afterward. [8] This limited schedule would allow the courtyard to return promptly to its regular use."
+    },
+    {
+      "id": "TACHS-WE5-019",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 3 is most concise without changing its meaning?",
+      "choices": {
+        "A": "Visitors could explore the stands in any order and pause at appealing titles.",
+        "B": "Visitors could go to stands in an order, and titles might interest them enough to pause.",
+        "C": "The stands could be followed by visitors, who could pause at titles of interest to them.",
+        "D": "In any order that they decide upon, visitors could follow around the various stands."
+      },
+      "correct": "A",
+      "correctAnswer": "Visitors could explore the stands in any order and pause at appealing titles.",
+      "explanation": "This revision preserves both ideas in direct, concise language.",
+      "stimulusId": "TACHS-WE5-S04",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Poetry Path for the Courtyard",
+      "stimulusText": "[1] The literary magazine proposes creating a temporary poetry path across the school courtyard. [2] Short student poems would be printed on weather-resistant cards and attached to removable stands. [3] Visitors could follow the stands in any order, pausing wherever a title interests them. [4] To include different voices, submissions would be read without authors' names during selection. [5] The committee would choose poems for clarity, originality, and how effectively they use imagery. [6] After choosing the poems, a map of stand locations would be made by the committee. [7] The display would remain for one week, and all stands would be removed afterward. [8] This limited schedule would allow the courtyard to return promptly to its regular use."
+    },
+    {
+      "id": "TACHS-WE5-020",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence would provide the most effective conclusion after sentence 8?",
+      "choices": {
+        "A": "Some poems use rhyme, while others are written in free verse.",
+        "B": "The magazine publishes two regular issues during the school year.",
+        "C": "The path would turn an ordinary crossing place into a brief, shared encounter with student writing.",
+        "D": "Courtyards may contain benches, plants, pavement, and doors."
+      },
+      "correct": "C",
+      "correctAnswer": "The path would turn an ordinary crossing place into a brief, shared encounter with student writing.",
+      "explanation": "The sentence concludes by emphasizing the proposal's purpose and effect on its audience.",
+      "stimulusId": "TACHS-WE5-S04",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Poetry Path for the Courtyard",
+      "stimulusText": "[1] The literary magazine proposes creating a temporary poetry path across the school courtyard. [2] Short student poems would be printed on weather-resistant cards and attached to removable stands. [3] Visitors could follow the stands in any order, pausing wherever a title interests them. [4] To include different voices, submissions would be read without authors' names during selection. [5] The committee would choose poems for clarity, originality, and how effectively they use imagery. [6] After choosing the poems, a map of stand locations would be made by the committee. [7] The display would remain for one week, and all stands would be removed afterward. [8] This limited schedule would allow the courtyard to return promptly to its regular use."
+    },
+    {
+      "id": "TACHS-WE5-021",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which sentence best combines sentences 7 and 8?",
+      "choices": {
+        "A": "The display would remain for one week; then all stands would be removed so the courtyard could promptly return to regular use.",
+        "B": "Remaining for one week, afterward all stands would be removed, the courtyard returned to regular use.",
+        "C": "The display would remain for one week, all stands removed afterward and regular use promptly.",
+        "D": "All stands after one week, which is temporary, would be removed by the display."
+      },
+      "correct": "A",
+      "correctAnswer": "The display would remain for one week; then all stands would be removed so the courtyard could promptly return to regular use.",
+      "explanation": "The revision combines the ideas with correct punctuation and a clear time-and-purpose relationship.",
+      "stimulusId": "TACHS-WE5-S04",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Poetry Path for the Courtyard",
+      "stimulusText": "[1] The literary magazine proposes creating a temporary poetry path across the school courtyard. [2] Short student poems would be printed on weather-resistant cards and attached to removable stands. [3] Visitors could follow the stands in any order, pausing wherever a title interests them. [4] To include different voices, submissions would be read without authors' names during selection. [5] The committee would choose poems for clarity, originality, and how effectively they use imagery. [6] After choosing the poems, a map of stand locations would be made by the committee. [7] The display would remain for one week, and all stands would be removed afterward. [8] This limited schedule would allow the courtyard to return promptly to its regular use."
+    },
+    {
+      "id": "TACHS-WE5-022",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence is written correctly?",
+      "choices": {
+        "A": "Every one of the lanterns need a fresh battery.",
+        "B": "Every one of the lanterns needing a fresh battery.",
+        "C": "Every one of the lanterns needs a fresh battery.",
+        "D": "Every one of the lanterns need fresh batteries, they are dim."
+      },
+      "correct": "C",
+      "correctAnswer": "Every one of the lanterns needs a fresh battery.",
+      "explanation": "The singular subject \"Every one\" requires the singular verb \"needs.\""
+    },
+    {
+      "id": "TACHS-WE5-023",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence uses pronouns correctly?",
+      "choices": {
+        "A": "The guide gave Omar and I a copy of the schedule.",
+        "B": "The guide gave myself and Omar a copy of the schedule.",
+        "C": "The guide gave Omar and me a copy of the schedule.",
+        "D": "The guide gave he and Omar a copy of the schedule."
+      },
+      "correct": "C",
+      "correctAnswer": "The guide gave Omar and me a copy of the schedule.",
+      "explanation": "\"Omar and me\" correctly functions as the indirect object of \"gave.\""
+    },
+    {
+      "id": "TACHS-WE5-024",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which line contains an error in standard written US English?\nLine 1: The volunteers sorted the donated fabric by color.\nLine 2: A basket near the door held smaller pieces.\nLine 3: Mira chose the patterned cloth because it matched perfectly.\nLine 4: She then cut the material more neat than before.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 2",
+        "C": "Line 3",
+        "D": "Line 4"
+      },
+      "correct": "D",
+      "correctAnswer": "Line 4",
+      "explanation": "The comparative adverb phrase should be \"more neatly,\" not \"more neat.\""
+    },
+    {
+      "id": "TACHS-WE5-025",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which line contains an error in standard written US English?\nLine 1: Neither the strong winds nor the rain were expected.\nLine 2: The crew secured every banner before sunset.\nLine 3: A supervisor checked each knot twice.\nLine 4: By morning, all of the equipment remained in place.",
+      "choices": {
+        "A": "Line 2",
+        "B": "Line 1",
+        "C": "Line 3",
+        "D": "Line 4"
+      },
+      "correct": "B",
+      "correctAnswer": "Line 1",
+      "explanation": "With \"neither...nor,\" the verb agrees with the nearer singular subject \"rain,\" so \"was expected\" is required."
+    },
+    {
+      "id": "TACHS-WE5-026",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which line contains an error in standard written US English?\nLine 1: We had completed the inventory before the delivery arrived.\nLine 2: The driver placed the boxes beside the storage-room door.\nLine 3: Later, two assistants carries the boxes inside.\nLine 4: The manager compared the shipment with the order form.",
+      "choices": {
+        "A": "Line 3",
+        "B": "Line 2",
+        "C": "Line 1",
+        "D": "Line 4"
+      },
+      "correct": "A",
+      "correctAnswer": "Line 3",
+      "explanation": "The plural subject \"two assistants\" requires \"carry,\" not \"carries.\""
+    },
+    {
+      "id": "TACHS-WE5-027",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which is the best revision of sentence 4?",
+      "choices": {
+        "A": "The fountain area was a place where various things made some noise.",
+        "B": "At the fountain, splashing water and nearby conversations produced steady background noise.",
+        "C": "The fountain area had noise, people, water, and other stuff around it.",
+        "D": "A lot was happening loudly by the fountain area in several ways."
+      },
+      "correct": "B",
+      "correctAnswer": "At the fountain, splashing water and nearby conversations produced steady background noise.",
+      "explanation": "The revision replaces vague language with specific, observable sources of sound.",
+      "stimulusId": "TACHS-WE5-S05",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Mapping the Sounds of the School",
+      "stimulusText": "[1] Our environmental science class created a sound map of the school grounds. [2] At six locations, we recorded the loudest sound every five minutes during lunch. [3] Students also noted whether each sound came from people, traffic, equipment, or animals. [4] The fountain area had a lot of noise and stuff happening there. [5] Near the library wall, conversation was quieter, but delivery trucks were briefly loud. [6] Because the recordings were taken at equal intervals, comparisons between locations were more consistent. [7] The art room contains twelve sinks. [8] The map can help the school identify places suited to quiet activities and places where louder events would cause less disruption."
+    },
+    {
+      "id": "TACHS-WE5-028",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence should be deleted because it is unrelated to the sound-mapping project?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 5",
+        "C": "Sentence 7",
+        "D": "Sentence 8"
+      },
+      "correct": "C",
+      "correctAnswer": "Sentence 7",
+      "explanation": "The number of sinks in the art room is unrelated to measuring and applying sound data.",
+      "stimulusId": "TACHS-WE5-S05",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Mapping the Sounds of the School",
+      "stimulusText": "[1] Our environmental science class created a sound map of the school grounds. [2] At six locations, we recorded the loudest sound every five minutes during lunch. [3] Students also noted whether each sound came from people, traffic, equipment, or animals. [4] The fountain area had a lot of noise and stuff happening there. [5] Near the library wall, conversation was quieter, but delivery trucks were briefly loud. [6] Because the recordings were taken at equal intervals, comparisons between locations were more consistent. [7] The art room contains twelve sinks. [8] The map can help the school identify places suited to quiet activities and places where louder events would cause less disruption."
+    },
+    {
+      "id": "TACHS-WE5-029",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which sentence best combines sentences 2 and 3?",
+      "choices": {
+        "A": "At six locations, recording the loudest sound every five minutes during lunch and its source.",
+        "B": "At six locations, we recorded the loudest sound every five minutes during lunch, students noted its source.",
+        "C": "At six locations during lunch, the loudest sound was recorded every five minutes and students noting sources.",
+        "D": "At six locations, we recorded the loudest sound every five minutes during lunch and classified its source as people, traffic, equipment, or animals."
+      },
+      "correct": "D",
+      "correctAnswer": "At six locations, we recorded the loudest sound every five minutes during lunch and classified its source as people, traffic, equipment, or animals.",
+      "explanation": "The sentence combines both actions with correct coordination and clear wording.",
+      "stimulusId": "TACHS-WE5-S05",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Mapping the Sounds of the School",
+      "stimulusText": "[1] Our environmental science class created a sound map of the school grounds. [2] At six locations, we recorded the loudest sound every five minutes during lunch. [3] Students also noted whether each sound came from people, traffic, equipment, or animals. [4] The fountain area had a lot of noise and stuff happening there. [5] Near the library wall, conversation was quieter, but delivery trucks were briefly loud. [6] Because the recordings were taken at equal intervals, comparisons between locations were more consistent. [7] The art room contains twelve sinks. [8] The map can help the school identify places suited to quiet activities and places where louder events would cause less disruption."
+    },
+    {
+      "id": "TACHS-WE5-030",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 8 most effectively states the project’s practical value?",
+      "choices": {
+        "A": "The map can guide decisions about where to schedule quiet study and louder group events.",
+        "B": "The map contains information about sounds that were heard in locations.",
+        "C": "Quiet and loud activities are different, and the map shows this fact.",
+        "D": "The school has several places where events and other things may happen."
+      },
+      "correct": "A",
+      "correctAnswer": "The map can guide decisions about where to schedule quiet study and louder group events.",
+      "explanation": "This revision states a specific decision the sound map can support.",
+      "stimulusId": "TACHS-WE5-S05",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Mapping the Sounds of the School",
+      "stimulusText": "[1] Our environmental science class created a sound map of the school grounds. [2] At six locations, we recorded the loudest sound every five minutes during lunch. [3] Students also noted whether each sound came from people, traffic, equipment, or animals. [4] The fountain area had a lot of noise and stuff happening there. [5] Near the library wall, conversation was quieter, but delivery trucks were briefly loud. [6] Because the recordings were taken at equal intervals, comparisons between locations were more consistent. [7] The art room contains twelve sinks. [8] The map can help the school identify places suited to quiet activities and places where louder events would cause less disruption."
+    },
+    {
+      "id": "TACHS-WE5-031",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which is the best revision of sentence 3?",
+      "choices": {
+        "A": "We used a ruler to guide each straight edge as we cut the openings with a craft knife.",
+        "B": "Cutting the openings with a craft knife, each straight edge was guided by the ruler.",
+        "C": "The ruler, cutting the openings with a craft knife, guided each straight edge.",
+        "D": "Each straight edge with a ruler, the openings were cut by using a craft knife."
+      },
+      "correct": "A",
+      "correctAnswer": "We used a ruler to guide each straight edge as we cut the openings with a craft knife.",
+      "explanation": "The revision gives the introductory action a logical performer and clearly connects the tools to their uses.",
+      "stimulusId": "TACHS-WE5-S06",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Building a Miniature Stage Set",
+      "stimulusText": "[1] For the design workshop, our group built a miniature stage set from foam board. [2] We first measured the model wall and marked the positions of two doors. [3] Cutting the openings with a craft knife, the ruler was used to guide each straight edge. [4] We reinforced the corners with narrow paper strips before adding paint. [5] The painted doors looked realistic, but both opened into the same small space behind the wall. [6] We therefore moved one door and added a shallow divider so each entrance suggested a different room. [7] The revision made the model clearer to an audience viewing it from the front. [8] It was a change that improved it in a better way."
+    },
+    {
+      "id": "TACHS-WE5-032",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence would best follow sentence 5?",
+      "choices": {
+        "A": "Foam board is available in several thicknesses and colors.",
+        "B": "The workshop tables were covered with protective paper.",
+        "C": "Some full-size stages use curtains instead of solid walls.",
+        "D": "From the audience’s viewpoint, that arrangement made the two entrances seem to lead to one room."
+      },
+      "correct": "D",
+      "correctAnswer": "From the audience’s viewpoint, that arrangement made the two entrances seem to lead to one room.",
+      "explanation": "The sentence explains why the original door placement created a design problem.",
+      "stimulusId": "TACHS-WE5-S06",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Building a Miniature Stage Set",
+      "stimulusText": "[1] For the design workshop, our group built a miniature stage set from foam board. [2] We first measured the model wall and marked the positions of two doors. [3] Cutting the openings with a craft knife, the ruler was used to guide each straight edge. [4] We reinforced the corners with narrow paper strips before adding paint. [5] The painted doors looked realistic, but both opened into the same small space behind the wall. [6] We therefore moved one door and added a shallow divider so each entrance suggested a different room. [7] The revision made the model clearer to an audience viewing it from the front. [8] It was a change that improved it in a better way."
+    },
+    {
+      "id": "TACHS-WE5-033",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which is the most concise revision of sentence 8?",
+      "choices": {
+        "A": "It was a change that made an improvement in a better manner.",
+        "B": "The change was an improved change to the model.",
+        "C": "In a better way, the model was improved by this revision.",
+        "D": "The revision improved the model."
+      },
+      "correct": "D",
+      "correctAnswer": "The revision improved the model.",
+      "explanation": "The choice removes repetition and expresses the original meaning directly.",
+      "stimulusId": "TACHS-WE5-S06",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Building a Miniature Stage Set",
+      "stimulusText": "[1] For the design workshop, our group built a miniature stage set from foam board. [2] We first measured the model wall and marked the positions of two doors. [3] Cutting the openings with a craft knife, the ruler was used to guide each straight edge. [4] We reinforced the corners with narrow paper strips before adding paint. [5] The painted doors looked realistic, but both opened into the same small space behind the wall. [6] We therefore moved one door and added a shallow divider so each entrance suggested a different room. [7] The revision made the model clearer to an audience viewing it from the front. [8] It was a change that improved it in a better way."
+    },
+    {
+      "id": "TACHS-WE5-034",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence is written correctly?",
+      "choices": {
+        "A": "The committee has chose three photographs for the exhibit.",
+        "B": "The committee has choosing three photographs for the exhibit.",
+        "C": "The committee has chosen three photographs for the exhibit.",
+        "D": "The committee have chose three photographs for the exhibit."
+      },
+      "correct": "C",
+      "correctAnswer": "The committee has chosen three photographs for the exhibit.",
+      "explanation": "“Has chosen” uses the correct past participle with the helping verb."
+    },
+    {
+      "id": "TACHS-WE5-035",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence uses a pronoun with a clear antecedent?",
+      "choices": {
+        "A": "When Mia placed the glass beside the pitcher, it was nearly full.",
+        "B": "The oak tree lost several branches during the storm, but it remained standing.",
+        "C": "Carlos handed the permit to Mr. Lee after he signed it.",
+        "D": "Jenna told Ava that her folder was missing."
+      },
+      "correct": "B",
+      "correctAnswer": "The oak tree lost several branches during the storm, but it remained standing.",
+      "explanation": "The pronoun “it” clearly and logically refers to the singular oak tree."
+    },
+    {
+      "id": "TACHS-WE5-036",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which choice is a complete sentence?",
+      "choices": {
+        "A": "Although the final bus arrived ten minutes late.",
+        "B": "After the final bus arrived, the volunteers locked the gate.",
+        "C": "The posters beside the entrance to the auditorium.",
+        "D": "Carrying the folded chairs into the auditorium."
+      },
+      "correct": "B",
+      "correctAnswer": "After the final bus arrived, the volunteers locked the gate.",
+      "explanation": "This choice contains a dependent introductory clause followed by a complete independent clause."
+    },
+    {
+      "id": "TACHS-WE5-037",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which line contains an error in standard written US English?\nLine 1: The museum displayed several tools from the workshop.\nLine 2: One wooden plane still had its maker’s initials.\nLine 3: Visitors examined the objects respectfully and quietly.\nLine 4: A guide explain how each tool had been used.",
+      "choices": {
+        "A": "Line 4",
+        "B": "Line 2",
+        "C": "Line 3",
+        "D": "Line 1"
+      },
+      "correct": "A",
+      "correctAnswer": "Line 4",
+      "explanation": "The singular subject “guide” requires the present-tense verb “explains,” not “explain.”"
+    },
+    {
+      "id": "TACHS-WE5-038",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which line contains an error in standard written US English?\nLine 1: Before sunrise, the crew has loaded the equipment.\nLine 2: The van reached the field at six o’clock.\nLine 3: Everyone carried their assigned case to the tent.\nLine 4: The coordinator checked the list before the first event began.",
+      "choices": {
+        "A": "Line 2",
+        "B": "Line 1",
+        "C": "Line 3",
+        "D": "Line 4"
+      },
+      "correct": "B",
+      "correctAnswer": "Line 1",
+      "explanation": "The completed action before another past event requires “had loaded,” not “has loaded.”"
+    },
+    {
+      "id": "TACHS-WE5-039",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence should be removed because it does not help develop the proposal?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 1",
+        "C": "Sentence 5",
+        "D": "Sentence 7"
+      },
+      "correct": "A",
+      "correctAnswer": "Sentence 2",
+      "explanation": "Sentence 2 gives a general size fact that does not explain the need, location, or design of the quiet corner.",
+      "stimulusId": "TACHS-WE5-S07",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Quiet Cafeteria Corner",
+      "stimulusText": "[1] Our student council proposed creating a quiet corner in the cafeteria for students who want to read or finish schoolwork during lunch. [2] The cafeteria is the largest room in the school. [3] At first, we planned to place the corner beside the kitchen doors. [4] After observing the room, however, we noticed carts passed that spot throughout lunch. [5] We then selected an unused area near the windows and measured it for four small tables. [6] To reduce noise without building walls, we suggested using bookcases as low dividers and attaching felt pads beneath the chairs. [7] The plan also includes a sign explaining that conversation should remain quiet. [8] These simple choices would give students another way to use a shared space without limiting the regular lunch area."
+    },
+    {
+      "id": "TACHS-WE5-040",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which revision of sentence 4 is most effective?",
+      "choices": {
+        "A": "After observing the room, however, we noticed that carts passed that spot throughout lunch.",
+        "B": "After observing the room; however, we noticed, carts passed that spot throughout lunch.",
+        "C": "After observing the room, however, carts passing that spot throughout lunch.",
+        "D": "After observing the room however we noticed that carts, passed that spot throughout lunch."
+      },
+      "correct": "A",
+      "correctAnswer": "After observing the room, however, we noticed that carts passed that spot throughout lunch.",
+      "explanation": "Adding “that” creates a complete, smoothly punctuated sentence with a clear subordinate opening.",
+      "stimulusId": "TACHS-WE5-S07",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Quiet Cafeteria Corner",
+      "stimulusText": "[1] Our student council proposed creating a quiet corner in the cafeteria for students who want to read or finish schoolwork during lunch. [2] The cafeteria is the largest room in the school. [3] At first, we planned to place the corner beside the kitchen doors. [4] After observing the room, however, we noticed carts passed that spot throughout lunch. [5] We then selected an unused area near the windows and measured it for four small tables. [6] To reduce noise without building walls, we suggested using bookcases as low dividers and attaching felt pads beneath the chairs. [7] The plan also includes a sign explaining that conversation should remain quiet. [8] These simple choices would give students another way to use a shared space without limiting the regular lunch area."
+    },
+    {
+      "id": "TACHS-WE5-041",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which phrase best replaces “simple choices” in sentence 8 to make the reference more precise?",
+      "choices": {
+        "A": "some ideas like that",
+        "B": "those kinds of things",
+        "C": "these changes",
+        "D": "everything mentioned before"
+      },
+      "correct": "C",
+      "correctAnswer": "these changes",
+      "explanation": "“These changes” concisely and clearly refers to the proposed location, dividers, chair pads, and sign.",
+      "stimulusId": "TACHS-WE5-S07",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Quiet Cafeteria Corner",
+      "stimulusText": "[1] Our student council proposed creating a quiet corner in the cafeteria for students who want to read or finish schoolwork during lunch. [2] The cafeteria is the largest room in the school. [3] At first, we planned to place the corner beside the kitchen doors. [4] After observing the room, however, we noticed carts passed that spot throughout lunch. [5] We then selected an unused area near the windows and measured it for four small tables. [6] To reduce noise without building walls, we suggested using bookcases as low dividers and attaching felt pads beneath the chairs. [7] The plan also includes a sign explaining that conversation should remain quiet. [8] These simple choices would give students another way to use a shared space without limiting the regular lunch area."
+    },
+    {
+      "id": "TACHS-WE5-042",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Organization and Development",
+      "prompt": "Which sentence would provide the most effective conclusion after sentence 8?",
+      "choices": {
+        "A": "The kitchen doors are painted blue and have narrow windows.",
+        "B": "We recommend testing the corner for one month and gathering student feedback.",
+        "C": "Our council meets on the first Tuesday of each month.",
+        "D": "Some students bring sandwiches, while others purchase lunch."
+      },
+      "correct": "B",
+      "correctAnswer": "We recommend testing the corner for one month and gathering student feedback.",
+      "explanation": "A trial period and feedback provide a logical next step for evaluating the proposal.",
+      "stimulusId": "TACHS-WE5-S07",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "A Quiet Cafeteria Corner",
+      "stimulusText": "[1] Our student council proposed creating a quiet corner in the cafeteria for students who want to read or finish schoolwork during lunch. [2] The cafeteria is the largest room in the school. [3] At first, we planned to place the corner beside the kitchen doors. [4] After observing the room, however, we noticed carts passed that spot throughout lunch. [5] We then selected an unused area near the windows and measured it for four small tables. [6] To reduce noise without building walls, we suggested using bookcases as low dividers and attaching felt pads beneath the chairs. [7] The plan also includes a sign explaining that conversation should remain quiet. [8] These simple choices would give students another way to use a shared space without limiting the regular lunch area."
+    },
+    {
+      "id": "TACHS-WE5-043",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which revision corrects the error in sentence 3?",
+      "choices": {
+        "A": "My first set of measurements is difficult to compare because I had rounded some lengths but not others.",
+        "B": "My first set of measurements were difficult to compare because I has rounded some lengths but not others.",
+        "C": "My first set of measurements was difficult to compare because I had rounded some lengths but not others.",
+        "D": "My first set of measurements have been difficult to compare because I rounded some lengths but not others."
+      },
+      "correct": "C",
+      "correctAnswer": "My first set of measurements was difficult to compare because I had rounded some lengths but not others.",
+      "explanation": "The singular subject “set” requires the singular past-tense verb “was.”",
+      "stimulusId": "TACHS-WE5-S08",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Learning from a Shadow",
+      "stimulusText": "[1] For a science project, I tracked the shadow of a meter stick planted upright in our yard. [2] I measured the shadow at the same times on five clear days. [3] My first set of measurements were difficult to compare because I had rounded some lengths but not others. [4] I repeated the observations, recording every length to the nearest centimeter. [5] The shadow was longest early in the morning, shortened toward midday, and then lengthened again. [6] This pattern happened because the Sun appeared at different heights in the sky. [7] Although the project used simple tools, careful recording made the pattern easier to recognize."
+    },
+    {
+      "id": "TACHS-WE5-044",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Sentence Structure",
+      "prompt": "Which revision of sentence 5 uses parallel structure?",
+      "choices": {
+        "A": "The shadow was longest early in the morning, shortening toward midday, and then it lengthened again.",
+        "B": "The shadow being longest early, it shortened toward midday and lengthening again.",
+        "C": "The shadow was longest early in the morning, was shorter toward midday, and lengthening again.",
+        "D": "The shadow lengthened early in the morning, shortened toward midday, and lengthened again afterward."
+      },
+      "correct": "D",
+      "correctAnswer": "The shadow lengthened early in the morning, shortened toward midday, and lengthened again afterward.",
+      "explanation": "Choice D uses three coordinated past-tense verbs in a consistent parallel series.",
+      "stimulusId": "TACHS-WE5-S08",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Learning from a Shadow",
+      "stimulusText": "[1] For a science project, I tracked the shadow of a meter stick planted upright in our yard. [2] I measured the shadow at the same times on five clear days. [3] My first set of measurements were difficult to compare because I had rounded some lengths but not others. [4] I repeated the observations, recording every length to the nearest centimeter. [5] The shadow was longest early in the morning, shortened toward midday, and then lengthened again. [6] This pattern happened because the Sun appeared at different heights in the sky. [7] Although the project used simple tools, careful recording made the pattern easier to recognize."
+    },
+    {
+      "id": "TACHS-WE5-045",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Clarity, Effectiveness, or Appropriateness",
+      "prompt": "Which revision of sentence 6 is most precise?",
+      "choices": {
+        "A": "The pattern was a pattern caused by changes that changed.",
+        "B": "The thing happened because the Sun did different stuff in the sky.",
+        "C": "This was due to it being somewhere else as time went by.",
+        "D": "The pattern occurred as the Sun’s apparent height changed during the day."
+      },
+      "correct": "D",
+      "correctAnswer": "The pattern occurred as the Sun’s apparent height changed during the day.",
+      "explanation": "The revision precisely identifies the relevant change while avoiding vague and repetitive language.",
+      "stimulusId": "TACHS-WE5-S08",
+      "stimulusType": "Revision Passage",
+      "stimulusTitle": "Learning from a Shadow",
+      "stimulusText": "[1] For a science project, I tracked the shadow of a meter stick planted upright in our yard. [2] I measured the shadow at the same times on five clear days. [3] My first set of measurements were difficult to compare because I had rounded some lengths but not others. [4] I repeated the observations, recording every length to the nearest centimeter. [5] The shadow was longest early in the morning, shortened toward midday, and then lengthened again. [6] This pattern happened because the Sun appeared at different heights in the sky. [7] Although the project used simple tools, careful recording made the pattern easier to recognize."
+    },
+    {
+      "id": "TACHS-WE5-046",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence is written correctly?",
+      "choices": {
+        "A": "The award was presented to Maya and her.",
+        "B": "Neither of the lamps have a working bulb.",
+        "C": "Between you and I, the rehearsal needs more time.",
+        "D": "Each hikers carried their own water bottle."
+      },
+      "correct": "A",
+      "correctAnswer": "The award was presented to Maya and her.",
+      "explanation": "“Her” is the correct object pronoun after “to,” and the sentence has standard agreement."
+    },
+    {
+      "id": "TACHS-WE5-047",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Grammar and Usage",
+      "prompt": "Which sentence expresses the comparison most clearly and correctly?",
+      "choices": {
+        "A": "The new route, unlike the old route is being short.",
+        "B": "The new route is shorter compared to the old route was.",
+        "C": "Compared with the old route, the new one is more shorter.",
+        "D": "The new route is shorter than the old route."
+      },
+      "correct": "D",
+      "correctAnswer": "The new route is shorter than the old route.",
+      "explanation": "Choice D makes a direct, grammatical comparison without redundancy or a misplaced modifier."
+    },
+    {
+      "id": "TACHS-WE5-048",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which numbered line contains an error in standard written US English?\nLine 1: The collection of postcards belongs to my aunt.\nLine 2: She stores them in a box with a tight lid.\nLine 3: Several cards shows buildings that no longer exist.\nLine 4: We examine one card whenever she visits.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 2",
+        "C": "Line 4",
+        "D": "Line 3"
+      },
+      "correct": "D",
+      "correctAnswer": "Line 3",
+      "explanation": "Line 3 has a subject-verb agreement error; the plural subject “cards” requires “show.”"
+    },
+    {
+      "id": "TACHS-WE5-049",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which numbered line contains an error in standard written US English?\nLine 1: Before the doors opened, the musicians tuned their instruments.\nLine 2: The conductor reviewed the first page of the score.\nLine 3: Everyone waited quietly for the signal to begin.\nLine 4: The audience take their seats as the lights dimmed.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 2",
+        "C": "Line 4",
+        "D": "Line 3"
+      },
+      "correct": "C",
+      "correctAnswer": "Line 4",
+      "explanation": "Line 4 shifts incorrectly to present tense; “took” should match the passage’s past tense."
+    },
+    {
+      "id": "TACHS-WE5-050",
+      "itemType": "mcq_single",
+      "section": "Written Expression",
+      "category": "Written Expression",
+      "skill": "Error Identification",
+      "prompt": "Which numbered line contains an error in standard written US English?\nLine 1: A row of young trees borders the path.\nLine 2: Their branches provides shade during the summer.\nLine 3: Visitors often rest on the benches nearby.\nLine 4: The park crew waters the trees twice a week.",
+      "choices": {
+        "A": "Line 1",
+        "B": "Line 2",
+        "C": "Line 3",
+        "D": "Line 4"
+      },
+      "correct": "B",
+      "correctAnswer": "Line 2",
+      "explanation": "Line 2 has a subject-verb agreement error; the plural subject “branches” requires “provide.”"
+    }
+  ]
+}

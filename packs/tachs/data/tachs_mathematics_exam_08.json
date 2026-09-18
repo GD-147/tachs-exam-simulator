@@ -1,0 +1,859 @@
+{
+  "title": "TACHS Mathematics Practice Test 08",
+  "examFamily": "tachs",
+  "examNumber": 8,
+  "section": "Mathematics",
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "TACHS-M8-001",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Number Sense and Operations",
+      "prompt": "What is the value of 3 1/2 × 2 2/7?",
+      "choices": {
+        "A": "8 1/2",
+        "B": "7 1/2",
+        "C": "8",
+        "D": "9"
+      },
+      "correct": "C",
+      "correctAnswer": "8",
+      "explanation": "3 1/2 = 7/2 and 2 2/7 = 16/7; their product is 8."
+    },
+    {
+      "id": "TACHS-M8-002",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebraic Patterns and Connections",
+      "prompt": "Solve 8x + 5 = 61.",
+      "choices": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      },
+      "correct": "B",
+      "correctAnswer": "7",
+      "explanation": "Subtract 5 to get 8x = 56, so x = 7."
+    },
+    {
+      "id": "TACHS-M8-003",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Data Analysis, Probability, or Statistics",
+      "prompt": "The data are 4, 7, 9, 9, 11, and 14. What is the range?",
+      "choices": {
+        "A": "10",
+        "B": "7",
+        "C": "5",
+        "D": "18"
+      },
+      "correct": "A",
+      "correctAnswer": "10",
+      "explanation": "The range is 14 − 4 = 10."
+    },
+    {
+      "id": "TACHS-M8-004",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A pentagon has interior angles of 100°, 105°, 110°, 115°, and x°. What is x?",
+      "choices": {
+        "A": "90°",
+        "B": "100°",
+        "C": "120°",
+        "D": "110°"
+      },
+      "correct": "D",
+      "correctAnswer": "110°",
+      "explanation": "Pentagon angles total 540°; the known angles total 430°, so x = 110°."
+    },
+    {
+      "id": "TACHS-M8-005",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A 2.4-kilometer trail is divided into 6 equal sections. How long is each section?",
+      "choices": {
+        "A": "0.4 km",
+        "B": "0.04 km",
+        "C": "1.4 km",
+        "D": "4 km"
+      },
+      "correct": "A",
+      "correctAnswer": "0.4 km",
+      "explanation": "2.4 ÷ 6 = 0.4 kilometer."
+    },
+    {
+      "id": "TACHS-M8-006",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Number Sense and Operations",
+      "prompt": "Which value equals 125% of 64?",
+      "choices": {
+        "A": "72",
+        "B": "76",
+        "C": "80",
+        "D": "96"
+      },
+      "correct": "C",
+      "correctAnswer": "80",
+      "explanation": "1.25 × 64 = 80."
+    },
+    {
+      "id": "TACHS-M8-007",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebraic Patterns and Connections",
+      "prompt": "The sequence is 81, 27, 9, 3. Which rule produces each term after the first?",
+      "choices": {
+        "A": "Subtract 54.",
+        "B": "Multiply by 3.",
+        "C": "Subtract consecutive multiples of 9.",
+        "D": "Divide by 3."
+      },
+      "correct": "D",
+      "correctAnswer": "Divide by 3.",
+      "explanation": "Each term is the preceding term divided by 3."
+    },
+    {
+      "id": "TACHS-M8-008",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Data Analysis, Probability, or Statistics",
+      "prompt": "A bag has 3 red, 4 blue, 2 green, and 1 yellow bead. What is the probability of blue or green?",
+      "choices": {
+        "A": "3/5",
+        "B": "1/2",
+        "C": "2/5",
+        "D": "7/10"
+      },
+      "correct": "A",
+      "correctAnswer": "3/5",
+      "explanation": "There are 6 blue-or-green beads among 10 total, giving 3/5."
+    },
+    {
+      "id": "TACHS-M8-009",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A square has area 121 square units. What is its perimeter?",
+      "choices": {
+        "A": "22 units",
+        "B": "44 units",
+        "C": "121 units",
+        "D": "33 units"
+      },
+      "correct": "B",
+      "correctAnswer": "44 units",
+      "explanation": "The side length is √121 = 11, so the perimeter is 44."
+    },
+    {
+      "id": "TACHS-M8-010",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A machine fills 35 bottles in 5 minutes. At the same rate, how many bottles in 18 minutes?",
+      "choices": {
+        "A": "126",
+        "B": "119",
+        "C": "112",
+        "D": "140"
+      },
+      "correct": "A",
+      "correctAnswer": "126",
+      "explanation": "The rate is 7 bottles per minute, and 7 × 18 = 126."
+    },
+    {
+      "id": "TACHS-M8-011",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Number Sense and Operations",
+      "prompt": "What is the greatest common factor of 54 and 90?",
+      "choices": {
+        "A": "6",
+        "B": "18",
+        "C": "9",
+        "D": "27"
+      },
+      "correct": "B",
+      "correctAnswer": "18",
+      "explanation": "The greatest shared factor of 54 and 90 is 18."
+    },
+    {
+      "id": "TACHS-M8-012",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebraic Patterns and Connections",
+      "prompt": "Which inequality represents “four times a number decreased by 7 is less than 21”?",
+      "choices": {
+        "A": "4n − 7 < 21",
+        "B": "4(n − 7) < 21",
+        "C": "7 − 4n < 21",
+        "D": "4n + 7 > 21"
+      },
+      "correct": "A",
+      "correctAnswer": "4n − 7 < 21",
+      "explanation": "Four times n is 4n; decreased by 7 gives 4n − 7, and “less than” means <."
+    },
+    {
+      "id": "TACHS-M8-013",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Number Sense and Operations",
+      "prompt": "A number is multiplied by 0.4 and then divided by 0.05. The result is 56. What is the original number?",
+      "choices": {
+        "A": "0.7",
+        "B": "4.48",
+        "C": "7",
+        "D": "112"
+      },
+      "correct": "C",
+      "correctAnswer": "7",
+      "explanation": "Multiplying by 0.4 and dividing by 0.05 multiplies the original number by 8, so 56 ÷ 8 = 7."
+    },
+    {
+      "id": "TACHS-M8-014",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Data Analysis, Probability, or Statistics",
+      "prompt": "The mean of five measurements is 18. Four of the measurements are 11, 16, 19, and 24. What is the fifth measurement?",
+      "choices": {
+        "A": "22",
+        "B": "18",
+        "C": "20",
+        "D": "25"
+      },
+      "correct": "C",
+      "correctAnswer": "20",
+      "explanation": "The total must be 5 × 18 = 90; the known values total 70, leaving 20."
+    },
+    {
+      "id": "TACHS-M8-015",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Two angles form a linear pair. One angle measures 18° less than twice the other angle. What is the measure of the smaller angle?",
+      "choices": {
+        "A": "54°",
+        "B": "108°",
+        "C": "72°",
+        "D": "66°"
+      },
+      "correct": "D",
+      "correctAnswer": "66°",
+      "explanation": "If the smaller angle is x, then x + (2x − 18) = 180, so x = 66."
+    },
+    {
+      "id": "TACHS-M8-016",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A container holds 2.4 liters of water. After 650 milliliters are removed, how many milliliters remain?",
+      "choices": {
+        "A": "1,750 mL",
+        "B": "1,850 mL",
+        "C": "1,650 mL",
+        "D": "2,350 mL"
+      },
+      "correct": "A",
+      "correctAnswer": "1,750 mL",
+      "explanation": "Convert 2.4 liters to 2,400 milliliters, then calculate 2,400 − 650 = 1,750."
+    },
+    {
+      "id": "TACHS-M8-017",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Number Sense and Operations",
+      "prompt": "What is the value of 3/5 ÷ 1 1/2 + 1/4?",
+      "choices": {
+        "A": "1 3/20",
+        "B": "13/20",
+        "C": "19/20",
+        "D": "7/10"
+      },
+      "correct": "B",
+      "correctAnswer": "13/20",
+      "explanation": "3/5 ÷ 3/2 = 2/5, and 2/5 + 1/4 = 8/20 + 5/20 = 13/20."
+    },
+    {
+      "id": "TACHS-M8-018",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebraic Patterns and Connections",
+      "prompt": "For a function, the output equals 3 less than the square of the input. What is the output when the input is −4?",
+      "choices": {
+        "A": "−19",
+        "B": "5",
+        "C": "13",
+        "D": "19"
+      },
+      "correct": "C",
+      "correctAnswer": "13",
+      "explanation": "Squaring −4 gives 16, and 16 − 3 = 13."
+    },
+    {
+      "id": "TACHS-M8-019",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Data Analysis, Probability, or Statistics",
+      "prompt": "A bag contains 4 copper tokens, 3 silver tokens, and 5 wooden tokens. Two tokens are selected at random without replacement. What is the probability that both are silver?",
+      "choices": {
+        "A": "3/22",
+        "B": "1/16",
+        "C": "1/22",
+        "D": "1/4"
+      },
+      "correct": "C",
+      "correctAnswer": "1/22",
+      "explanation": "The probability is 3/12 × 2/11 = 6/132 = 1/22."
+    },
+    {
+      "id": "TACHS-M8-020",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A right triangle has legs of length 9 units and 12 units. A square is constructed on the triangle's hypotenuse. What is the area of the square?",
+      "choices": {
+        "A": "144 square units",
+        "B": "169 square units",
+        "C": "196 square units",
+        "D": "225 square units"
+      },
+      "correct": "D",
+      "correctAnswer": "225 square units",
+      "explanation": "The hypotenuse satisfies 9² + 12² = 225, which is also the area of its constructed square."
+    },
+    {
+      "id": "TACHS-M8-021",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Data Analysis, Probability, or Statistics",
+      "prompt": "Two groups recorded the following times in minutes.\nGroup P: 8, 8, 9, 10, 15\nGroup Q: 6, 9, 10, 10, 15\nWhich statement is true?",
+      "choices": {
+        "A": "The groups have the same mean and the same range.",
+        "B": "Group P has a greater mean and a smaller range.",
+        "C": "Group Q has a greater mean, but the groups have the same range.",
+        "D": "The groups have the same mean, but Group P has a smaller range."
+      },
+      "correct": "D",
+      "correctAnswer": "The groups have the same mean, but Group P has a smaller range.",
+      "explanation": "Both totals are 50, while the ranges are 7 for P and 9 for Q."
+    },
+    {
+      "id": "TACHS-M8-022",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A rectangular label measures 8 centimeters by 5 centimeters. A border 1 centimeter wide is printed entirely inside the label along all four edges. What area remains inside the border?",
+      "choices": {
+        "A": "24 cm²",
+        "B": "18 cm²",
+        "C": "26 cm²",
+        "D": "40 cm²"
+      },
+      "correct": "B",
+      "correctAnswer": "18 cm²",
+      "explanation": "The border leaves an inner rectangle measuring 6 centimeters by 3 centimeters, with area 18 square centimeters."
+    },
+    {
+      "id": "TACHS-M8-023",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Number Sense and Operations",
+      "prompt": "What is the least positive integer that is divisible by both 8 and 15?",
+      "choices": {
+        "A": "30",
+        "B": "120",
+        "C": "60",
+        "D": "240"
+      },
+      "correct": "B",
+      "correctAnswer": "120",
+      "explanation": "Since 8 and 15 share no prime factors, their least common multiple is 8 × 15 = 120."
+    },
+    {
+      "id": "TACHS-M8-024",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebraic Patterns and Connections",
+      "prompt": "The first four terms of a sequence are 4, 7, 13, 25. Each term after the first is formed by applying the same rule to the previous term. What is the next term?",
+      "choices": {
+        "A": "37",
+        "B": "43",
+        "C": "49",
+        "D": "51"
+      },
+      "correct": "C",
+      "correctAnswer": "49",
+      "explanation": "Each term is twice the preceding term minus 1, so 2 × 25 − 1 = 49."
+    },
+    {
+      "id": "TACHS-M8-025",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A regular polygon has an exterior angle measuring 24°. How many sides does the polygon have?",
+      "choices": {
+        "A": "12",
+        "B": "14",
+        "C": "18",
+        "D": "15"
+      },
+      "correct": "D",
+      "correctAnswer": "15",
+      "explanation": "The exterior angles total 360°, so the polygon has 360 ÷ 24 = 15 sides."
+    },
+    {
+      "id": "TACHS-M8-026",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Number Sense and Operations",
+      "prompt": "What is the value of 2.75 − 1 3/8?",
+      "choices": {
+        "A": "1 1/8",
+        "B": "1 5/8",
+        "C": "1 3/8",
+        "D": "2 1/8"
+      },
+      "correct": "C",
+      "correctAnswer": "1 3/8",
+      "explanation": "Convert 2.75 to 2 3/4, then 2 3/4 − 1 3/8 = 1 3/8."
+    },
+    {
+      "id": "TACHS-M8-027",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebraic Patterns and Connections",
+      "prompt": "The perimeter of an isosceles triangle is 47 centimeters. Each equal side is 4 centimeters longer than the base. What is the length of the base?",
+      "choices": {
+        "A": "11 cm",
+        "B": "13 cm",
+        "C": "15 cm",
+        "D": "12 cm"
+      },
+      "correct": "B",
+      "correctAnswer": "13 cm",
+      "explanation": "If the base is b, then b + 2(b + 4) = 47, so 3b = 39 and b = 13."
+    },
+    {
+      "id": "TACHS-M8-028",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Data Analysis, Probability, or Statistics",
+      "prompt": "A spinner has eight equal sections numbered 1 through 8. What is the probability of spinning a number that is either a factor of 8 or greater than 6?",
+      "choices": {
+        "A": "1/2",
+        "B": "3/4",
+        "C": "7/8",
+        "D": "5/8"
+      },
+      "correct": "D",
+      "correctAnswer": "5/8",
+      "explanation": "The favorable numbers are 1, 2, 4, 7, and 8, giving 5 favorable outcomes out of 8."
+    },
+    {
+      "id": "TACHS-M8-029",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "The angles of a triangle are in the ratio 2:3:4. What is the measure of the largest angle?",
+      "choices": {
+        "A": "60°",
+        "B": "80°",
+        "C": "70°",
+        "D": "40°"
+      },
+      "correct": "B",
+      "correctAnswer": "80°",
+      "explanation": "The nine ratio parts total 180°, so each part is 20° and the largest angle is 4 × 20°."
+    },
+    {
+      "id": "TACHS-M8-030",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A walking route is 3.6 kilometers long. Priya has completed 2,250 meters. How many meters remain?",
+      "choices": {
+        "A": "1,450 m",
+        "B": "1,250 m",
+        "C": "1,350 m",
+        "D": "5,850 m"
+      },
+      "correct": "C",
+      "correctAnswer": "1,350 m",
+      "explanation": "Convert 3.6 kilometers to 3,600 meters and subtract 2,250 to get 1,350 meters."
+    },
+    {
+      "id": "TACHS-M8-031",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Number Sense and Operations",
+      "prompt": "A store reduces a $64 item by 25% and then applies a $6 coupon. What is the final price before tax?",
+      "choices": {
+        "A": "$42",
+        "B": "$46",
+        "C": "$48",
+        "D": "$52"
+      },
+      "correct": "A",
+      "correctAnswer": "$42",
+      "explanation": "A 25% discount leaves $48, and the $6 coupon reduces the price to $42."
+    },
+    {
+      "id": "TACHS-M8-032",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebraic Patterns and Connections",
+      "prompt": "Which value of x makes 5(2x − 3) = 4x + 21 true?",
+      "choices": {
+        "A": "4",
+        "B": "5",
+        "C": "7",
+        "D": "6"
+      },
+      "correct": "D",
+      "correctAnswer": "6",
+      "explanation": "Expanding gives 10x − 15 = 4x + 21, so 6x = 36 and x = 6."
+    },
+    {
+      "id": "TACHS-M8-033",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Data Analysis, Probability, or Statistics",
+      "prompt": "The data values 6, 9, 11, 13, and n have a median of 11 and a range of 12. Which value could n equal?",
+      "choices": {
+        "A": "4",
+        "B": "15",
+        "C": "18",
+        "D": "17"
+      },
+      "correct": "C",
+      "correctAnswer": "18",
+      "explanation": "Adding 18 keeps 11 as the middle value and gives a range of 18 − 6 = 12."
+    },
+    {
+      "id": "TACHS-M8-034",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A circle has a circumference of 18π centimeters. What is its area?",
+      "choices": {
+        "A": "81π cm²",
+        "B": "36π cm²",
+        "C": "72π cm²",
+        "D": "18π cm²"
+      },
+      "correct": "A",
+      "correctAnswer": "81π cm²",
+      "explanation": "From 2πr = 18π, r = 9; therefore, πr² = 81π square centimeters."
+    },
+    {
+      "id": "TACHS-M8-035",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A machine fills 14 containers in 8 minutes at a constant rate. At that rate, how many containers can it fill in 28 minutes?",
+      "choices": {
+        "A": "42",
+        "B": "49",
+        "C": "52",
+        "D": "56"
+      },
+      "correct": "B",
+      "correctAnswer": "49",
+      "explanation": "The rate is 14 ÷ 8 containers per minute, so 28 × 14 ÷ 8 = 49."
+    },
+    {
+      "id": "TACHS-M8-036",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Number Sense and Operations",
+      "prompt": "Which expression has the greatest value?",
+      "choices": {
+        "A": "5/6 × 3/5",
+        "B": "0.55",
+        "C": "2/3 ÷ 4/3",
+        "D": "7/8 − 1/4"
+      },
+      "correct": "D",
+      "correctAnswer": "7/8 − 1/4",
+      "explanation": "The values are 1/2, 5/8, 1/2, and 0.55; 5/8 is greatest."
+    },
+    {
+      "id": "TACHS-M8-037",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebraic Patterns and Connections",
+      "prompt": "The points (2, 5), (4, 9), and (7, 15) lie on the same line. Which equation describes the line?",
+      "choices": {
+        "A": "y = x + 3",
+        "B": "y = 3x − 1",
+        "C": "y = 2x − 1",
+        "D": "y = 2x + 1"
+      },
+      "correct": "D",
+      "correctAnswer": "y = 2x + 1",
+      "explanation": "The slope is 2, and substituting (2, 5) gives the y-intercept 1."
+    },
+    {
+      "id": "TACHS-M8-038",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Number Sense and Operations",
+      "prompt": "What is the value of −18 ÷ 3 + 4(−2)?",
+      "choices": {
+        "A": "−14",
+        "B": "−2",
+        "C": "2",
+        "D": "14"
+      },
+      "correct": "A",
+      "correctAnswer": "−14",
+      "explanation": "Compute −18 ÷ 3 = −6 and 4(−2) = −8; then −6 + (−8) = −14."
+    },
+    {
+      "id": "TACHS-M8-039",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Data Analysis, Probability, or Statistics",
+      "prompt": "A box contains 5 red clips, 4 blue clips, and 3 green clips. One clip is selected at random. What is the probability that it is not blue?",
+      "choices": {
+        "A": "1/3",
+        "B": "5/12",
+        "C": "2/3",
+        "D": "3/4"
+      },
+      "correct": "C",
+      "correctAnswer": "2/3",
+      "explanation": "Eight of the twelve clips are not blue, so the probability is 8/12 = 2/3."
+    },
+    {
+      "id": "TACHS-M8-040",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A rectangle has an area of 96 square units. Its length is 4 units greater than its width. What is its perimeter?",
+      "choices": {
+        "A": "32 units",
+        "B": "40 units",
+        "C": "44 units",
+        "D": "48 units"
+      },
+      "correct": "B",
+      "correctAnswer": "40 units",
+      "explanation": "The dimensions are 8 and 12 because 8 × 12 = 96; the perimeter is 2(8 + 12) = 40."
+    },
+    {
+      "id": "TACHS-M8-041",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebraic Patterns and Connections",
+      "prompt": "If 3x + 7 ≤ 25, which value of x does not satisfy the inequality?",
+      "choices": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correct": "D",
+      "correctAnswer": "7",
+      "explanation": "Solving gives x ≤ 6, so 7 is the listed value that does not satisfy the inequality."
+    },
+    {
+      "id": "TACHS-M8-042",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "On a map, 1 inch represents 18 miles. Two towns are 3 1/4 inches apart on the map. What is their actual distance?",
+      "choices": {
+        "A": "56.5 miles",
+        "B": "58.5 miles",
+        "C": "54 miles",
+        "D": "60 miles"
+      },
+      "correct": "B",
+      "correctAnswer": "58.5 miles",
+      "explanation": "Multiply 3.25 inches by 18 miles per inch to obtain 58.5 miles."
+    },
+    {
+      "id": "TACHS-M8-043",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Number Sense and Operations",
+      "prompt": "The prime factorization of a number is 2³ × 3 × 7. Which number is a factor of the original number?",
+      "choices": {
+        "A": "56",
+        "B": "48",
+        "C": "54",
+        "D": "36"
+      },
+      "correct": "A",
+      "correctAnswer": "56",
+      "explanation": "Since 56 = 2³ × 7, all of its prime factors are available in the original number."
+    },
+    {
+      "id": "TACHS-M8-044",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Data Analysis, Probability, or Statistics",
+      "prompt": "The mean of six scores is 14. When one score is removed, the mean of the remaining five scores is 12. What score was removed?",
+      "choices": {
+        "A": "18",
+        "B": "20",
+        "C": "22",
+        "D": "24"
+      },
+      "correct": "D",
+      "correctAnswer": "24",
+      "explanation": "The six-score total is 84 and the remaining total is 60, so the removed score is 24."
+    },
+    {
+      "id": "TACHS-M8-045",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A right rectangular prism measures 3 units by 4 units by 8 units. What is its total surface area?",
+      "choices": {
+        "A": "96 square units",
+        "B": "136 square units",
+        "C": "112 square units",
+        "D": "144 square units"
+      },
+      "correct": "B",
+      "correctAnswer": "136 square units",
+      "explanation": "Surface area is 2(3 × 4 + 3 × 8 + 4 × 8) = 2(68) = 136."
+    },
+    {
+      "id": "TACHS-M8-046",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebraic Patterns and Connections",
+      "prompt": "A sequence begins 81, 27, 9, 3. If the same pattern continues, what is the seventh term?",
+      "choices": {
+        "A": "1/9",
+        "B": "1/3",
+        "C": "1/27",
+        "D": "0"
+      },
+      "correct": "A",
+      "correctAnswer": "1/9",
+      "explanation": "Dividing by 3 each time gives terms five through seven as 1, 1/3, and 1/9."
+    },
+    {
+      "id": "TACHS-M8-047",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A cyclist travels 24 miles in 1.5 hours and then 18 miles in 1.5 hours. What is the cyclist's average speed for the entire trip?",
+      "choices": {
+        "A": "12 miles per hour",
+        "B": "13 miles per hour",
+        "C": "16 miles per hour",
+        "D": "14 miles per hour"
+      },
+      "correct": "D",
+      "correctAnswer": "14 miles per hour",
+      "explanation": "The cyclist travels 42 miles in 3 hours, so the overall average speed is 42 ÷ 3 = 14."
+    },
+    {
+      "id": "TACHS-M8-048",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Number Sense and Operations",
+      "prompt": "A quantity is increased by 20% and becomes 78. What was the original quantity?",
+      "choices": {
+        "A": "65",
+        "B": "62.4",
+        "C": "64",
+        "D": "60"
+      },
+      "correct": "A",
+      "correctAnswer": "65",
+      "explanation": "If 1.2 times the original is 78, then the original is 78 ÷ 1.2 = 65."
+    },
+    {
+      "id": "TACHS-M8-049",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Data Analysis, Probability, or Statistics",
+      "prompt": "The values 4, 7, 7, 10, 12, and 14 are listed. Which value can be added so that the median becomes 9?",
+      "choices": {
+        "A": "5",
+        "B": "7",
+        "C": "9",
+        "D": "12"
+      },
+      "correct": "C",
+      "correctAnswer": "9",
+      "explanation": "Adding 9 gives seven ordered values with 9 in the fourth position, so the median becomes 9."
+    },
+    {
+      "id": "TACHS-M8-050",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Each interior angle of a regular polygon measures 150°. How many sides does the polygon have?",
+      "choices": {
+        "A": "10",
+        "B": "11",
+        "C": "12",
+        "D": "15"
+      },
+      "correct": "C",
+      "correctAnswer": "12",
+      "explanation": "The exterior angle is 180° − 150° = 30°, and 360° ÷ 30° = 12 sides."
+    }
+  ]
+}
