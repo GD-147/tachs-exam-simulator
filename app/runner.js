@@ -300,37 +300,103 @@ if (section.type === "essay") {
   return;
   }
 
-  // Carica domande MCQ (supporta più examFiles)
-  const examSets = await loadQuestionsForSection(examId, section);
+  // Carica le domande della sezione oppure costruisce un full-length.
+  const isFullLength = section.type === "full_length";
+  let sessionQs = [];
+  let metaText = "";
 
-  // Pool globale per Practice Mode (tutte le domande di tutti gli exam)
-  const pooledQs = examSets.flatMap(s => s.questions);
+  if (isFullLength) {
+    const sourceSections = (section.sectionIds || []).map(
+      id => cfg.sections.find(item => item.id === id)
+    );
 
-  // Scegli set domande per la sessione
-let sessionQs;
-let metaText = "";
+    if (!sourceSections.length || sourceSections.some(item => !item)) {
+      qs("title").textContent = "Full-length configuration error";
+      qs("desc").textContent = "One or more TACHS source sections are missing.";
+      return;
+    }
 
-if (mode === "practice") {
-  const info = getPracticeSlice(pooledQs, cfg.practiceChunkSize || 10, examId, sectionId);
-  sessionQs = info.slice;
-  metaText = `Practice block: ${info.start + 1}–${info.end} of ${info.total}`;
-} else {
-  const rotKey = `examRotation_${examId}_${sectionId}`;
-  let rot = parseInt(localStorage.getItem(rotKey) || "0", 10);
-  if (rot >= examSets.length) rot = 0;
+    const setCount = Math.min(
+      ...sourceSections.map(item => (item.examFiles || []).length)
+    );
 
-  const chosen = examSets[rot];
-  localStorage.setItem(rotKey, String((rot + 1) % examSets.length));
+    if (!Number.isFinite(setCount) || setCount < 1) {
+      qs("title").textContent = "Full-length configuration error";
+      qs("desc").textContent = "No complete TACHS exam sets are available.";
+      return;
+    }
 
-  const n = Math.min(section.examQuestions, chosen.questions.length);
-  sessionQs = chosen.questions.slice(0, n);
+    const rotKey = `fullLengthRotation_${examId}_${mode}`;
+    let rot = parseInt(localStorage.getItem(rotKey) || "0", 10);
 
-  metaText = `Loaded set: ${chosen.file}`;
-}
+    if (!Number.isFinite(rot) || rot < 0 || rot >= setCount) rot = 0;
 
-// stampa subito la riga meta
-const metaEl = qs("metaLine");
-if (metaEl) metaEl.textContent = metaText;
+    for (const sourceSection of sourceSections) {
+      const file = sourceSection.examFiles[rot];
+      const loaded = await loadQuestionsForSection(examId, {
+        ...sourceSection,
+        examFiles: [file]
+      });
+
+      const chosen = loaded[0];
+      const count = Math.min(
+        Number(sourceSection.examQuestions || 0),
+        chosen.questions.length
+      );
+
+      const taggedQuestions = chosen.questions
+        .slice(0, count)
+        .map(question => ({
+          ...question,
+          fullLengthSection: sourceSection.label
+        }));
+
+      sessionQs.push(...taggedQuestions);
+    }
+
+    if (sessionQs.length !== Number(section.examQuestions)) {
+      qs("title").textContent = "Full-length question-count error";
+      qs("desc").textContent =
+        `Expected ${section.examQuestions} questions but loaded ${sessionQs.length}.`;
+      return;
+    }
+
+    localStorage.setItem(rotKey, String((rot + 1) % setCount));
+
+    const examNumber = String(rot + 1).padStart(2, "0");
+    metaText = `Loaded full-length set: TACHS Exam ${examNumber}`;
+  } else {
+    const examSets = await loadQuestionsForSection(examId, section);
+    const pooledQs = examSets.flatMap(item => item.questions);
+
+    if (mode === "practice") {
+      const info = getPracticeSlice(
+        pooledQs,
+        cfg.practiceChunkSize || 10,
+        examId,
+        sectionId
+      );
+
+      sessionQs = info.slice;
+      metaText =
+        `Practice block: ${info.start + 1}–${info.end} of ${info.total}`;
+    } else {
+      const rotKey = `examRotation_${examId}_${sectionId}`;
+      let rot = parseInt(localStorage.getItem(rotKey) || "0", 10);
+
+      if (!Number.isFinite(rot) || rot < 0 || rot >= examSets.length) rot = 0;
+
+      const chosen = examSets[rot];
+      localStorage.setItem(rotKey, String((rot + 1) % examSets.length));
+
+      const count = Math.min(section.examQuestions, chosen.questions.length);
+      sessionQs = chosen.questions.slice(0, count);
+      metaText = `Loaded set: ${chosen.file}`;
+    }
+  }
+
+  const metaEl = qs("metaLine");
+  if (metaEl) metaEl.textContent = metaText;
 
 
   // UI state
@@ -345,13 +411,19 @@ if (metaEl) metaEl.textContent = metaText;
   function render() {
     const q = sessionQs[idx];
     qs("title").textContent = `${section.label} — ${mode === "practice" ? "Practice Mode" : "Exam Mode"}`;
-    qs("desc").textContent = mode === "practice"
-      ? `${sessionQs.length}-question set (progress cycles automatically).`
-      : `Timed full section: ${sessionQs.length} questions in ${section.timeMin} minutes.`;
+    qs("desc").textContent = isFullLength
+      ? (mode === "practice"
+          ? `Untimed full-length practice: ${sessionQs.length} questions.`
+          : `Timed full-length exam: ${sessionQs.length} questions in ${section.timeMin} minutes.`)
+      : (mode === "practice"
+          ? `${sessionQs.length}-question set (progress cycles automatically).`
+          : `Timed full section: ${sessionQs.length} questions in ${section.timeMin} minutes.`);
 
-      qs("metaLine").textContent = metaText;
+    qs("metaLine").textContent = metaText;
 
-    qs("progress").textContent = `Question ${idx + 1} of ${sessionQs.length}`;
+    qs("progress").textContent =
+      `Question ${idx + 1} of ${sessionQs.length}` +
+      (q.fullLengthSection ? ` — ${q.fullLengthSection}` : "");
 
     const partEl = qs("itemPart");
     if (partEl) partEl.textContent = getPartLabel(q);

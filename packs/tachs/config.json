@@ -8,7 +8,8 @@
   "portalDescription": "Prepare for the TACHS with section-based practice, timed exam sessions, answer review, explanations, and printable full-length exams.",
   "nav": [
     "Exam Simulator",
-    "Printable Practice Exams"
+    "Printable Practice Exams",
+    "Flashcards"
   ],
   "examFamilies": [
     {
@@ -93,6 +94,21 @@
         "tachs_ability_exam_07.json",
         "tachs_ability_exam_08.json"
       ]
+    },
+    {
+      "id": "tachs_full_length",
+      "family": "tachs",
+      "label": "TACHS Full-Length Practice Test",
+      "timeMin": 130,
+      "timeLabel": "Full-length testing time: 130 minutes",
+      "examQuestions": 200,
+      "type": "full_length",
+      "sectionIds": [
+        "tachs_reading",
+        "tachs_written_expression",
+        "tachs_mathematics",
+        "tachs_ability"
+      ]
     }
   ],
   "printables": [
@@ -137,5 +153,10 @@
       "file": "tachs_full_exam_08.pdf"
     }
   ],
-  "flashcards": []
+  "flashcards": [
+    {
+      "label": "TACHS Flashcards",
+      "file": "tachs_flashcards.pdf"
+    }
+  ]
 }

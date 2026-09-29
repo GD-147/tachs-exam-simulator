@@ -63,8 +63,9 @@
         </div>
 
         <p class="helper" style="margin-top:10px;">
-          Exam Mode runs one complete selected section with recommended timing.
-          Practice Mode provides shorter rotating question blocks.
+          Exam Mode runs a complete timed session.
+          Practice Mode is untimed; individual sections use shorter rotating
+          blocks, while Full-Length uses all 200 questions.
         </p>
       </div>
     </section>
@@ -231,10 +232,6 @@
 
           const group = document.createElement("section");
           group.className = "pdfGroup";
-
-          const heading = document.createElement("h3");
-          heading.textContent = `${family.label} Full-Length Practice Exams`;
-          group.appendChild(heading);
 
           familyItems.forEach(item => {
             const link = document.createElement("a");
